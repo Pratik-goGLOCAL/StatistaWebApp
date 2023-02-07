@@ -12,11 +12,10 @@ import sys
 from loguru import  logger
 
 st.set_page_config(
-    page_title="StaistaWebApp"
+    page_title="DataAssetTool"
 )
 
-st.title("Statista Web App")
-# st.sidebar.success("Select Action")
+st.title("Statista Data Store")
 
 country_names = os.listdir('statista_data')
 
@@ -43,13 +42,13 @@ category = st.selectbox(label='Select Category',
 # st.write('The options selected are:', region)
 st.session_state['category_name'] = category.replace(' ','-').lower()
 
-insights = os.listdir('statista_data/'+st.session_state['Region']+'/'+st.session_state['category_name'])
-
+insights = os.listdir('statista_data/'+st.session_state['country']+'/'+st.session_state['category_name'])
+display = {x.split('.')[0].title():x for x in insights}
 # Select the Insights
 insight = st.selectbox(label='Select Insights Desired',
-                    options=insights)
+                    options=list(display.keys()))
 # st.write('The options selected are:', region)
-st.session_state['insights'] = insight
+st.session_state['insights'] = display[insight]
 
 
 @st.cache
@@ -61,7 +60,7 @@ get = st.button("Get")
 
 
 if get:
-    path = 'statista_data/'+st.session_state['Region']+'/'+st.session_state['category_name']+'/'+ st.session_state['insight']
+    path = 'statista_data/'+st.session_state['country']+'/'+st.session_state['category_name']+'/'+ st.session_state['insights']
     df = pd.read_excel(path)
     st.dataframe(df)
     csv = convert_df(df)
