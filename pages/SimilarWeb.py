@@ -15,7 +15,7 @@ st.set_page_config(
     page_title="DataAssetTool"
 )
 st.title("SimilarWeb Data Store")
-st.sidebar.success('Select Data Store')
+
 country_names = os.listdir('statista_data')
 
 # Initialize Variables
