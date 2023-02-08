@@ -31,7 +31,7 @@ if st.session_state['get']:
     df = pd.read_csv(path)
     df = df[df['Market_HSN']==int(st.session_state['hsn_code_1'])].copy()
     if st.session_state['hsn_code_2']!='ALL':
-        df = df['Name']==st.session_state['hsn_code_2'].copy()
+        df = df[df['Name']==st.session_state['hsn_code_2']].copy()
     insights = list(set(df['Chart'].tolist()))
     insights.append('ALL')
     default_ix = insights.index('ALL')
