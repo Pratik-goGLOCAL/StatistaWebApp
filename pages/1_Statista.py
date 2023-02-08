@@ -24,9 +24,8 @@ def convert_df(df):
     return df.to_csv().encode('utf-8')
 
 if st.session_state['get']:
-    st.write('statista_data_csv/'+st.session_state['country'])
     filename = os.listdir('statista_data_csv/'+st.session_state['country'])
-    st.write(filename)
+
     path = 'statista_data_csv/'+st.session_state['country']+'/'+filename[0]
     df = pd.read_csv(path)
     df = df[df['Market_HSN']==int(st.session_state['hsn_code_1'])].copy()
