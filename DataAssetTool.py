@@ -20,9 +20,9 @@ st.title("Data Asset Tool")
 # st.write('The Data Asset Tool contains the web scraped E-Commerce Statistical Data from SimilarWeb, Statista, etc. websites')
 
 country_names = os.listdir('statista_data')
-hsn_codes_level1 = pd.read_csv('hsn_code_level1.csv')
+hsn_codes_level1 = pd.read_csv('hsn_codes_level1.csv')
 
-with open('hsn_code_level2.pickle', 'rb') as handle:
+with open('hsn_codes_level2.pickle', 'rb') as handle:
     hsn_codes_level2 = pickle.load(handle)
 
 
