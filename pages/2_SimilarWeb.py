@@ -21,14 +21,17 @@ def convert_df(df):
     # IMPORTANT: Cache the conversion to prevent computation on every rerun
     return df.to_csv().encode('utf-8')
 
-if st.session_state['get']:
-    path = 'SimilarWeb/'+st.session_state['country']+'/'+st.session_state['category_name']+'/'+ st.session_state['insights']
-    df = pd.read_excel(path)
-    st.dataframe(df)
-    csv = convert_df(df)
-    st.download_button(
-        label="Download",
-        data=csv,
-        file_name='DataStore/'+'res.csv',
-        mime='text/csv',
+try:
+    if st.session_state['get']:
+        path = 'SimilarWeb/'+st.session_state['country']+'/'+st.session_state['category_name']+'/'+ st.session_state['insights']
+        df = pd.read_excel(path)
+        st.dataframe(df)
+        csv = convert_df(df)
+        st.download_button(
+            label="Download",
+            data=csv,
+            file_name='DataStore/'+'res.csv',
+            mime='text/csv',
     )
+except:
+    st.write('Please select the desired categories on the Data Assets Tool page')

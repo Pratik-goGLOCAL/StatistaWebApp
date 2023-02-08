@@ -20,16 +20,19 @@ st.title("DGCI Data Store")
 def convert_df(df):
     # IMPORTANT: Cache the conversion to prevent computation on every rerun
     return df.to_csv().encode('utf-8')
-
-if st.session_state['get']:
-    st.write('The Data File corresponding to the HSN code {} belonging to the category {}'.format(st.session_state['hsn_code_1'].zfill(4),st.session_state['category_name_1']))
-    path = 'dgci_data/'+st.session_state['hsn_code_1'].zfill(4)+'.csv'
-    df = pd.read_csv(path)
-    st.dataframe(df)
-    csv = convert_df(df)
-    st.download_button(
-        label="Download",
-        data=csv,
-        file_name='DataStore/'+'res.csv',
-        mime='text/csv',
-    )
+try:
+    if st.session_state['get']:
+        st.write('The Data File corresponding to the HSN code {} belonging to the category {}'.format(st.session_state['hsn_code_1'].zfill(4),st.session_state['category_name_1']))
+        path = 'dgci_data/'+st.session_state['hsn_code_1'].zfill(4)+'.csv'
+        df = pd.read_csv(path)
+        df.fillna('NULL',inplace = True)
+        st.dataframe(df)
+        csv = convert_df(df)
+        st.download_button(
+            label="Download",
+            data=csv,
+            file_name='DataStore/'+'res.csv',
+            mime='text/csv',
+        )
+except:
+    st.write('Please select the desired categories on the Data Assets Tool page')
