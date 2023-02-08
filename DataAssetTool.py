@@ -26,6 +26,8 @@ with open('hsn_codes_level2.pickle', 'rb') as handle:
 
 
 # Initialize Variables
+if "get" not in st.session_state:
+    st.session_state["get"] = ""
 if "country" not in st.session_state:
     st.session_state["country"] = ""
 if "category_name_1" not in st.session_state:
