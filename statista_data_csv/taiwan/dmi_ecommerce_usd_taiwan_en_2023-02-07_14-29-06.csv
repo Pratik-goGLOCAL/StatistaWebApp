@@ -1,0 +1,1291 @@
+Region,Market,Market_HSN,Chart,Name,Unit,Source,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026,2027
+Taiwan,Household Care,3402,Comparable Estimates - eCommerce (China),*Statista,trillion USD (US$),,1.015,1.053,1.098,1.26,1.368,1.156,1.396,1.457,1.544,1.593,1.649
+Taiwan,Household Care,3402,Comparable Estimates - eCommerce (China),UNCTAD,trillion USD (US$),,,,1.539,,,,,,,,
+Taiwan,Household Care,3402,Revenue,Total,million USD (US$),Statista,32.15,34.28,38.4,47.81,55.14,64.29,105.7,158.4,203.9,222.6,254.5
+Taiwan,Household Care,3402,Revenue,Dishwashing Detergents,million USD (US$),Statista,2.561,2.755,3.098,3.981,4.67,5.535,9.566,14.86,19.43,21.27,24.41
+Taiwan,Household Care,3402,Revenue,Household Cleaners,million USD (US$),Statista,3.534,3.75,4.169,5.358,6.296,7.417,12.62,19.31,24.99,27.35,31.33
+Taiwan,Household Care,3402,Revenue,Household Paper,million USD (US$),Statista,2.702,2.875,3.311,4.085,5.136,6.115,8.229,9.411,10.05,11.03,12.26
+Taiwan,Household Care,3402,Revenue,Laundry Care,million USD (US$),Statista,7.215,7.598,8.365,10.14,11.25,12.72,21.98,34.76,45.44,49.54,56.74
+Taiwan,Household Care,3402,Revenue,Other Household Care,million USD (US$),Statista,10.31,10.91,12.07,14.95,16.95,19.48,33.48,52.35,68.26,74.53,85.38
+Taiwan,Household Care,3402,Revenue,Paper Tissues,million USD (US$),Statista,0.564,0.609,0.715,0.87,1.123,1.435,1.971,2.287,2.471,2.726,3.049
+Taiwan,Household Care,3402,Revenue,"Polishes, Room Scents & Insecticides",million USD (US$),Statista,2.128,2.235,2.453,2.924,3.173,3.498,5.984,9.487,12.38,13.47,15.41
+Taiwan,Household Care,3402,Revenue,Toilet Paper,million USD (US$),Statista,3.135,3.553,4.213,5.498,6.539,8.09,11.86,15.9,20.91,22.73,25.91
+Taiwan,Household Care,3402,Revenue Change,Total,percent,Statista,,6.625,12.019,24.505,15.332,16.594,64.411,49.858,28.725,9.171,14.331
+Taiwan,Household Care,3402,Revenue Change,Dishwashing Detergents,percent,Statista,,7.575,12.45,28.502,17.307,18.522,72.827,55.342,30.754,9.47,14.763
+Taiwan,Household Care,3402,Revenue Change,Household Cleaners,percent,Statista,,6.112,11.173,28.52,17.507,17.805,70.15,53.011,29.415,9.444,14.552
+Taiwan,Household Care,3402,Revenue Change,Household Paper,percent,Statista,,6.403,15.165,23.377,25.728,19.062,34.571,14.364,6.79,9.751,11.151
+Taiwan,Household Care,3402,Revenue Change,Laundry Care,percent,Statista,,5.308,10.095,21.219,10.947,13.067,72.799,58.144,30.725,9.023,14.534
+Taiwan,Household Care,3402,Revenue Change,Other Household Care,percent,Statista,,5.82,10.632,23.861,13.378,14.926,71.869,56.362,30.392,9.185,14.558
+Taiwan,Household Care,3402,Revenue Change,Paper Tissues,percent,Statista,,8.107,17.296,21.698,29.095,27.783,37.352,16.032,8.045,10.32,11.849
+Taiwan,Household Care,3402,Revenue Change,"Polishes, Room Scents & Insecticides",percent,Statista,,5.028,9.754,19.201,8.516,10.243,71.069,58.539,30.494,8.805,14.402
+Taiwan,Household Care,3402,Revenue Change,Toilet Paper,percent,Statista,,13.333,18.576,30.501,18.934,23.719,46.601,34.064,31.509,8.704,13.99
+Taiwan,Household Care,3402,Average Revenue per User by Segment,Total,USD (US$),Statista,59.12,60.12,62.19,73.36,79.06,86.54,134.4,192.6,238.2,76.41,83.4
+Taiwan,Household Care,3402,Average Revenue per User by Segment,Dishwashing Detergents,USD (US$),Statista,4.627,3.918,3.817,4.389,4.443,5.379,8.414,12.08,14.7,15.42,16.99
+Taiwan,Household Care,3402,Average Revenue per User by Segment,Household Cleaners,USD (US$),Statista,5.959,4.977,4.795,5.514,5.59,6.727,10.36,14.65,17.64,18.51,20.36
+Taiwan,Household Care,3402,Average Revenue per User by Segment,Household Paper,USD (US$),Statista,8.916,7.467,7.449,8.226,8.923,10.85,13.22,13.97,13.88,14.6,15.59
+Taiwan,Household Care,3402,Average Revenue per User by Segment,Laundry Care,USD (US$),Statista,13.69,11.34,10.82,11.74,11.24,12.98,20.3,29.67,36.09,37.72,41.46
+Taiwan,Household Care,3402,Average Revenue per User by Segment,Other Household Care,USD (US$),Statista,35.55,29.61,28.4,31.48,30.78,36.13,56.22,81.25,98.56,103.2,113.5
+Taiwan,Household Care,3402,Average Revenue per User by Segment,Paper Tissues,USD (US$),Statista,1.337,1.137,1.156,1.259,1.402,1.83,2.275,2.441,2.453,2.594,2.785
+Taiwan,Household Care,3402,Average Revenue per User by Segment,"Polishes, Room Scents & Insecticides",USD (US$),Statista,5.383,4.449,4.231,4.514,4.226,4.759,7.369,10.8,13.11,13.68,15.01
+Taiwan,Household Care,3402,Average Revenue per User by Segment,Toilet Paper,USD (US$),Statista,6.796,6.063,6.229,7.274,7.466,9.434,12.52,15.51,18.98,19.77,21.63
+Taiwan,Household Care,3402,Users by Segment,Total,million users,Statista,0.544,0.57,0.617,0.652,0.697,0.743,0.786,0.822,0.856,2.914,3.051
+Taiwan,Household Care,3402,Users by Segment,Dishwashing Detergents,million users,Statista,0.553,0.703,0.812,0.907,1.051,1.029,1.137,1.23,1.322,1.379,1.437
+Taiwan,Household Care,3402,Users by Segment,Household Cleaners,million users,Statista,0.593,0.753,0.869,0.972,1.126,1.103,1.218,1.318,1.417,1.477,1.539
+Taiwan,Household Care,3402,Users by Segment,Household Paper,million users,Statista,0.303,0.385,0.444,0.497,0.576,0.564,0.623,0.674,0.724,0.755,0.787
+Taiwan,Household Care,3402,Users by Segment,Laundry Care,million users,Statista,0.527,0.67,0.773,0.864,1.001,0.98,1.083,1.172,1.259,1.313,1.369
+Taiwan,Household Care,3402,Users by Segment,Other Household Care,million users,Statista,0.29,0.368,0.425,0.475,0.551,0.539,0.595,0.644,0.693,0.722,0.753
+Taiwan,Household Care,3402,Users by Segment,Paper Tissues,million users,Statista,0.422,0.536,0.618,0.691,0.801,0.784,0.866,0.937,1.007,1.051,1.095
+Taiwan,Household Care,3402,Users by Segment,"Polishes, Room Scents & Insecticides",million users,Statista,0.395,0.502,0.58,0.648,0.751,0.735,0.812,0.879,0.944,0.985,1.026
+Taiwan,Household Care,3402,Users by Segment,Toilet Paper,million users,Statista,0.461,0.586,0.676,0.756,0.876,0.858,0.947,1.025,1.102,1.149,1.198
+Taiwan,Household Care,3402,Penetration Rate by Segment,Dishwashing Detergents,percent,Statista,2.338,2.964,3.413,3.808,4.406,4.308,4.753,5.138,5.517,5.75,5.987
+Taiwan,Household Care,3402,Penetration Rate by Segment,Household Care,percent,Statista,2.297,2.403,2.597,2.736,2.923,3.11,3.288,3.434,3.573,12.149,12.715
+Taiwan,Household Care,3402,Penetration Rate by Segment,Household Cleaners,percent,Statista,2.505,3.176,3.657,4.08,4.721,4.615,5.093,5.505,5.911,6.16,6.413
+Taiwan,Household Care,3402,Penetration Rate by Segment,Household Paper,percent,Statista,1.28,1.623,1.869,2.085,2.413,2.359,2.603,2.814,3.021,3.149,3.278
+Taiwan,Household Care,3402,Penetration Rate by Segment,Laundry Care,percent,Statista,2.227,2.823,3.251,3.627,4.196,4.103,4.527,4.893,5.255,5.477,5.703
+Taiwan,Household Care,3402,Penetration Rate by Segment,Other Household Care,percent,Statista,1.225,1.553,1.788,1.995,2.308,2.256,2.49,2.691,2.89,3.012,3.136
+Taiwan,Household Care,3402,Penetration Rate by Segment,Paper Tissues,percent,Statista,1.781,2.258,2.601,2.901,3.357,3.282,3.621,3.915,4.204,4.381,4.562
+Taiwan,Household Care,3402,Penetration Rate by Segment,"Polishes, Room Scents & Insecticides",percent,Statista,1.67,2.117,2.438,2.72,3.147,3.077,3.395,3.67,3.941,4.107,4.276
+Taiwan,Household Care,3402,Penetration Rate by Segment,Toilet Paper,percent,Statista,1.948,2.47,2.845,3.173,3.672,3.59,3.961,4.282,4.598,4.792,4.99
+Taiwan,"Toys, Hobby & DIY",950,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,12.853,,,,,,
+Taiwan,"Toys, Hobby & DIY",950,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,23.824,,,,,,
+Taiwan,"Toys, Hobby & DIY",950,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,27.9,,,,,,
+Taiwan,"Toys, Hobby & DIY",950,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,22.257,,,,,,
+Taiwan,"Toys, Hobby & DIY",950,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,13.166,,,,,,
+Taiwan,"Toys, Hobby & DIY",950,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,48.589,,,,,,
+Taiwan,"Toys, Hobby & DIY",950,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,51.411,,,,,,
+Taiwan,"Toys, Hobby & DIY",950,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,45.725,,,,,,
+Taiwan,"Toys, Hobby & DIY",950,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,16.729,,,,,,
+Taiwan,"Toys, Hobby & DIY",950,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,37.546,,,,,,
+Taiwan,"Toys, Hobby & DIY",950,Revenue,Total,billion USD (US$),Statista,0.481,0.595,0.739,1.104,1.321,1.363,1.723,1.983,2.249,2.429,2.694
+Taiwan,"Toys, Hobby & DIY",950,Revenue,"DIY, Garden & Pets",billion USD (US$),Statista,0.087,0.141,0.195,0.336,0.425,0.433,0.527,0.577,0.618,0.669,0.735
+Taiwan,"Toys, Hobby & DIY",950,Revenue,Hobby & Stationery,billion USD (US$),Statista,0.095,0.114,0.153,0.214,0.241,0.248,0.313,0.364,0.418,0.451,0.5
+Taiwan,"Toys, Hobby & DIY",950,Revenue,Sports & Outdoor,billion USD (US$),Statista,0.211,0.243,0.28,0.406,0.483,0.508,0.66,0.783,0.915,0.989,1.105
+Taiwan,"Toys, Hobby & DIY",950,Revenue,Toys & Baby,billion USD (US$),Statista,0.089,0.097,0.11,0.149,0.172,0.175,0.223,0.259,0.298,0.32,0.355
+Taiwan,"Toys, Hobby & DIY",950,Revenue Change,Total,percent,Statista,,23.571,24.222,49.492,19.656,3.179,26.412,15.09,13.414,8.004,10.91
+Taiwan,"Toys, Hobby & DIY",950,Revenue Change,"DIY, Garden & Pets",percent,Statista,,62.624,38.636,72.131,26.637,1.669,21.868,9.408,7.074,8.355,9.773
+Taiwan,"Toys, Hobby & DIY",950,Revenue Change,Hobby & Stationery,percent,Statista,,20.453,34.68,39.244,12.781,2.906,26.341,16.188,14.949,7.698,10.943
+Taiwan,"Toys, Hobby & DIY",950,Revenue Change,Sports & Outdoor,percent,Statista,,15.14,15.458,44.877,19.073,5.091,29.913,18.751,16.837,8.096,11.684
+Taiwan,"Toys, Hobby & DIY",950,Revenue Change,Toys & Baby,percent,Statista,,8.805,13.147,35.396,15.39,1.864,27.273,16.352,14.903,7.493,10.972
+Taiwan,"Toys, Hobby & DIY",950,Average Revenue per User by Segment,Total,USD (US$),Statista,277.6,172,144.2,160.8,147.9,146.3,159.1,163,166.7,166.8,172.6
+Taiwan,"Toys, Hobby & DIY",950,Average Revenue per User by Segment,"DIY, Garden & Pets",USD (US$),Statista,55.06,54.73,55.25,75.29,76.38,76.46,81.89,80.87,78.97,80.47,83.47
+Taiwan,"Toys, Hobby & DIY",950,Average Revenue per User by Segment,Hobby & Stationery,USD (US$),Statista,68.92,49.85,47.36,50.16,43.88,43.44,47.28,48.89,50.67,50.36,51.92
+Taiwan,"Toys, Hobby & DIY",950,Average Revenue per User by Segment,Sports & Outdoor,USD (US$),Statista,259.1,144.9,110.7,118.2,107.2,107.3,118.9,124.7,130.6,129.8,134.3
+Taiwan,"Toys, Hobby & DIY",950,Average Revenue per User by Segment,Toys & Baby,USD (US$),Statista,251.9,91.51,59.66,54.16,45.03,42.43,45.52,46.77,48.15,47.17,48.22
+Taiwan,"Toys, Hobby & DIY",950,Comparable Estimates - eCommerce (China),*Statista,trillion USD (US$),,1.015,1.053,1.098,1.26,1.368,1.156,1.396,1.457,1.544,1.593,1.649
+Taiwan,"Toys, Hobby & DIY",950,Comparable Estimates - eCommerce (China),UNCTAD,trillion USD (US$),,,,1.539,,,,,,,,
+Taiwan,"Toys, Hobby & DIY",950,Users by Segment,Total,million users,Statista,1.733,3.456,5.121,6.866,8.935,9.317,10.831,12.166,13.489,14.561,15.607
+Taiwan,"Toys, Hobby & DIY",950,Users by Segment,"DIY, Garden & Pets",million users,Statista,1.573,2.573,3.534,4.463,5.571,5.658,6.437,7.133,7.821,8.316,8.8
+Taiwan,"Toys, Hobby & DIY",950,Users by Segment,Hobby & Stationery,million users,Statista,1.372,2.285,3.239,4.257,5.491,5.706,6.624,7.444,8.257,8.946,9.627
+Taiwan,"Toys, Hobby & DIY",950,Users by Segment,Sports & Outdoor,million users,Statista,0.813,1.675,2.53,3.433,4.509,4.732,5.549,6.283,7.011,7.621,8.222
+Taiwan,"Toys, Hobby & DIY",950,Users by Segment,Toys & Baby,million users,Statista,0.354,1.061,1.841,2.747,3.814,4.122,4.891,5.538,6.18,6.781,7.361
+Taiwan,"Toys, Hobby & DIY",950,Penetration Rate by Segment,"DIY, Garden & Pets",percent,Statista,6.642,10.845,14.863,18.74,23.353,23.684,26.914,29.79,32.637,34.674,36.669
+Taiwan,"Toys, Hobby & DIY",950,Penetration Rate by Segment,Hobby & Stationery,percent,Statista,5.795,9.631,13.623,17.875,23.019,23.884,27.693,31.088,34.454,37.302,40.118
+Taiwan,"Toys, Hobby & DIY",950,Penetration Rate by Segment,Sports & Outdoor,percent,Statista,3.435,7.058,10.64,14.415,18.901,19.807,23.199,26.239,29.254,31.775,34.263
+Taiwan,"Toys, Hobby & DIY",950,Penetration Rate by Segment,"Toys, Hobby & DIY",percent,Statista,7.319,14.567,21.541,28.83,37.454,39.001,45.283,50.812,56.286,60.712,65.035
+Taiwan,"Toys, Hobby & DIY",950,Penetration Rate by Segment,Toys & Baby,percent,Statista,1.497,4.474,7.745,11.532,15.987,17.253,20.45,23.13,25.787,28.274,30.674
+Taiwan,Toys & Baby,9503,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,7.37,,,,,,
+Taiwan,Toys & Baby,9503,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,31.579,,,,,,
+Taiwan,Toys & Baby,9503,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,40,,,,,,
+Taiwan,Toys & Baby,9503,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,16.842,,,,,,
+Taiwan,Toys & Baby,9503,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,4.21,,,,,,
+Taiwan,Toys & Baby,9503,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,54.737,,,,,,
+Taiwan,Toys & Baby,9503,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,45.263,,,,,,
+Taiwan,Toys & Baby,9503,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,48.81,,,,,,
+Taiwan,Toys & Baby,9503,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,13.095,,,,,,
+Taiwan,Toys & Baby,9503,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,38.095,,,,,,
+Taiwan,Toys & Baby,9503,Revenue,Total,million USD (US$),Statista,89.27,97.13,109.9,148.8,171.7,174.9,222.6,259,297.6,319.9,355
+Taiwan,Toys & Baby,9503,Revenue,Baby,million USD (US$),Statista,32.34,35.43,38.5,49.61,55.01,53.5,66.76,74.91,82.7,88.03,96.46
+Taiwan,Toys & Baby,9503,Revenue,Other Toys & Baby,million USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Taiwan,Toys & Baby,9503,Revenue,Toys,million USD (US$),Statista,56.93,61.7,71.35,99.16,116.7,121.4,155.9,184.1,214.9,231.8,258.5
+Taiwan,Toys & Baby,9503,Revenue Change,Total,percent,Statista,,8.805,13.147,35.396,15.39,1.864,27.273,16.352,14.903,7.493,10.972
+Taiwan,Toys & Baby,9503,Revenue Change,Baby,percent,Statista,,9.555,8.665,28.857,10.885,-2.745,24.785,12.208,10.399,6.445,9.576
+Taiwan,Toys & Baby,9503,Revenue Change,Other Toys & Baby,percent,Statista,,�,�,�,�,�,�,�,�,�,�
+Taiwan,Toys & Baby,9503,Revenue Change,Toys,percent,Statista,,8.379,15.64,38.977,17.689,4.027,28.418,18.089,16.73,7.864,11.519
+Taiwan,Toys & Baby,9503,Average Revenue per User,Total,USD (US$),Statista,251.9,91.51,59.66,54.16,45.03,42.43,45.52,46.77,48.15,47.17,48.22
+Taiwan,Toys & Baby,9503,Average Revenue per User,Baby,USD (US$),Statista,152.1,55.63,34.85,30.1,24.04,21.64,22.75,22.54,22.3,21.64,21.84
+Taiwan,Toys & Baby,9503,Average Revenue per User,Other Toys & Baby,USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Taiwan,Toys & Baby,9503,Average Revenue per User,Toys,USD (US$),Statista,200.8,72.67,48.44,45.13,38.25,36.82,39.84,41.55,43.46,42.73,43.9
+Taiwan,Toys & Baby,9503,Comparable Estimates - eCommerce (China),*Statista,trillion USD (US$),,1.015,1.053,1.098,1.26,1.368,1.156,1.396,1.457,1.544,1.593,1.649
+Taiwan,Toys & Baby,9503,Comparable Estimates - eCommerce (China),UNCTAD,trillion USD (US$),,,,1.539,,,,,,,,
+Taiwan,Toys & Baby,9503,Users,Total,million users,Statista,0.354,1.061,1.841,2.747,3.814,4.122,4.891,5.538,6.18,6.781,7.361
+Taiwan,Toys & Baby,9503,Users,Baby,million users,Statista,0.213,0.637,1.105,1.648,2.288,2.473,2.935,3.323,3.708,4.069,4.417
+Taiwan,Toys & Baby,9503,Users,Other Toys & Baby,million users,Statista,0.064,0.191,0.331,0.494,0.686,0.742,0.88,0.997,1.112,1.221,1.325
+Taiwan,Toys & Baby,9503,Users,Toys,million users,Statista,0.283,0.849,1.473,2.197,3.051,3.297,3.913,4.43,4.944,5.425,5.889
+Taiwan,Toys & Baby,9503,Penetration Rate,Baby,percent,Statista,0.898,2.684,4.647,6.919,9.592,10.352,12.27,13.878,15.472,16.966,18.407
+Taiwan,Toys & Baby,9503,Penetration Rate,Other Toys & Baby,percent,Statista,0.269,0.805,1.394,2.076,2.878,3.106,3.681,4.163,4.642,5.089,5.522
+Taiwan,Toys & Baby,9503,Penetration Rate,Toys,percent,Statista,1.197,3.579,6.196,9.226,12.789,13.803,16.36,18.504,20.63,22.619,24.539
+Taiwan,Toys & Baby,9503,Penetration Rate,Toys & Baby,percent,Statista,1.497,4.474,7.745,11.532,15.987,17.253,20.45,23.13,25.787,28.274,30.674
+Taiwan,Sports & Outdoor,9506,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,10.778,,,,,,
+Taiwan,Sports & Outdoor,9506,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,19.76,,,,,,
+Taiwan,Sports & Outdoor,9506,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,29.94,,,,,,
+Taiwan,Sports & Outdoor,9506,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,26.946,,,,,,
+Taiwan,Sports & Outdoor,9506,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,12.575,,,,,,
+Taiwan,Sports & Outdoor,9506,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,40.719,,,,,,
+Taiwan,Sports & Outdoor,9506,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,59.281,,,,,,
+Taiwan,Sports & Outdoor,9506,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,53.472,,,,,,
+Taiwan,Sports & Outdoor,9506,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,13.889,,,,,,
+Taiwan,Sports & Outdoor,9506,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,32.639,,,,,,
+Taiwan,Sports & Outdoor,9506,Revenue,Total,million USD (US$),Statista,210.7,242.6,280.1,405.8,483.2,507.8,659.7,783.4,915.3,989.4,"1,105"
+Taiwan,Sports & Outdoor,9506,Revenue,Athletic Footwear,million USD (US$),Statista,68.74,77.1,90.21,141.8,178.7,169.8,208.2,237.4,266.8,288.5,320.1
+Taiwan,Sports & Outdoor,9506,Revenue,Fishing Articles & Equipment,million USD (US$),Statista,6.58,7.153,8.132,12.53,14.47,14.1,17.3,19.73,22.24,23.92,26.46
+Taiwan,Sports & Outdoor,9506,Revenue,Other Sports & Outdoor,million USD (US$),Statista,9.145,10.08,11.66,16.69,18.04,17.85,22.25,25.66,29.27,31.36,34.69
+Taiwan,Sports & Outdoor,9506,Revenue,Sports & Swimwear,million USD (US$),Statista,112.5,133.1,152.8,208.1,243.6,278.7,378.9,463.3,555.5,601.2,674.6
+Taiwan,Sports & Outdoor,9506,Revenue,Summer Sports Equipment,million USD (US$),Statista,11.71,13.1,14.93,22.9,24.09,23.18,28.11,31.68,35.29,37.74,41.51
+Taiwan,Sports & Outdoor,9506,Revenue,Winter Sports Equipment,million USD (US$),Statista,1.988,2.086,2.353,3.758,4.326,4.117,4.965,5.571,6.182,6.632,7.306
+Taiwan,Sports & Outdoor,9506,Revenue Change,Total,percent,Statista,,15.14,15.458,44.877,19.073,5.091,29.913,18.751,16.837,8.096,11.684
+Taiwan,Sports & Outdoor,9506,Revenue Change,Athletic Footwear,percent,Statista,,12.162,17.004,57.189,26.023,-4.98,22.615,14.025,12.384,8.133,10.953
+Taiwan,Sports & Outdoor,9506,Revenue Change,Fishing Articles & Equipment,percent,Statista,,8.708,13.687,54.083,15.483,-2.557,22.695,14.046,12.722,7.554,10.619
+Taiwan,Sports & Outdoor,9506,Revenue Change,Other Sports & Outdoor,percent,Statista,,10.224,15.675,43.139,8.089,-1.053,24.65,15.326,14.069,7.14,10.619
+Taiwan,Sports & Outdoor,9506,Revenue Change,Sports & Swimwear,percent,Statista,,18.311,14.801,36.191,17.059,14.409,35.953,22.275,19.901,8.227,12.209
+Taiwan,Sports & Outdoor,9506,Revenue Change,Summer Sports Equipment,percent,Statista,,11.87,13.969,53.382,5.197,-3.778,21.268,12.7,11.395,6.942,9.989
+Taiwan,Sports & Outdoor,9506,Revenue Change,Winter Sports Equipment,percent,Statista,,4.93,12.8,59.711,15.114,-4.831,20.598,12.205,10.968,7.279,10.163
+Taiwan,Sports & Outdoor,9506,Average Revenue per User,Total,USD (US$),Statista,259.1,144.9,110.7,118.2,107.2,107.3,118.9,124.7,130.6,129.8,134.3
+Taiwan,Sports & Outdoor,9506,Average Revenue per User,Athletic Footwear,USD (US$),Statista,140.9,76.73,59.43,68.83,66.04,59.83,62.54,62.99,63.43,63.1,64.88
+Taiwan,Sports & Outdoor,9506,Average Revenue per User,Fishing Articles & Equipment,USD (US$),Statista,40.46,21.36,16.07,18.25,16.04,14.9,15.59,15.7,15.86,15.69,16.09
+Taiwan,Sports & Outdoor,9506,Average Revenue per User,Other Sports & Outdoor,USD (US$),Statista,59.19,31.69,24.25,25.58,21.05,19.85,21.11,21.5,21.97,21.66,22.2
+Taiwan,Sports & Outdoor,9506,Average Revenue per User,Sports & Swimwear,USD (US$),Statista,345.9,198.7,151,151.5,135.1,147.2,170.7,184.3,198.1,197.2,205.1
+Taiwan,Sports & Outdoor,9506,Average Revenue per User,Summer Sports Equipment,USD (US$),Statista,28.8,15.64,11.8,13.34,10.68,9.798,10.13,10.08,10.07,9.904,10.1
+Taiwan,Sports & Outdoor,9506,Average Revenue per User,Winter Sports Equipment,USD (US$),Statista,6.113,3.114,2.325,2.736,2.399,2.175,2.237,2.217,2.204,2.175,2.221
+Taiwan,Sports & Outdoor,9506,Comparable Estimates - eCommerce (China),*Statista,trillion USD (US$),,1.015,1.053,1.098,1.26,1.368,1.156,1.396,1.457,1.544,1.593,1.649
+Taiwan,Sports & Outdoor,9506,Comparable Estimates - eCommerce (China),UNCTAD,trillion USD (US$),,,,1.539,,,,,,,,
+Taiwan,Sports & Outdoor,9506,Users,Total,million users,Statista,0.813,1.675,2.53,3.433,4.509,4.732,5.549,6.283,7.011,7.621,8.222
+Taiwan,Sports & Outdoor,9506,Users,Athletic Footwear,million users,Statista,0.488,1.005,1.518,2.06,2.705,2.839,3.329,3.77,4.206,4.572,4.934
+Taiwan,Sports & Outdoor,9506,Users,Fishing Articles & Equipment,million users,Statista,0.163,0.335,0.506,0.687,0.902,0.946,1.11,1.257,1.402,1.524,1.645
+Taiwan,Sports & Outdoor,9506,Users,Other Sports & Outdoor,million users,Statista,0.155,0.318,0.481,0.652,0.857,0.899,1.054,1.194,1.332,1.448,1.562
+Taiwan,Sports & Outdoor,9506,Users,Sports & Swimwear,million users,Statista,0.325,0.67,1.012,1.373,1.804,1.893,2.219,2.513,2.804,3.049,3.29
+Taiwan,Sports & Outdoor,9506,Users,Summer Sports Equipment,million users,Statista,0.407,0.837,1.265,1.717,2.254,2.366,2.774,3.141,3.505,3.81,4.111
+Taiwan,Sports & Outdoor,9506,Users,Winter Sports Equipment,million users,Statista,0.325,0.67,1.012,1.373,1.804,1.893,2.219,2.513,2.804,3.049,3.29
+Taiwan,Sports & Outdoor,9506,Penetration Rate,Athletic Footwear,percent,Statista,2.061,4.235,6.384,8.649,11.341,11.884,13.919,15.743,17.552,19.065,20.559
+Taiwan,Sports & Outdoor,9506,Penetration Rate,Fishing Articles & Equipment,percent,Statista,0.687,1.412,2.128,2.883,3.78,3.961,4.64,5.248,5.851,6.355,6.853
+Taiwan,Sports & Outdoor,9506,Penetration Rate,Other Sports & Outdoor,percent,Statista,0.653,1.341,2.022,2.739,3.591,3.763,4.408,4.985,5.558,6.038,6.511
+Taiwan,Sports & Outdoor,9506,Penetration Rate,Sports & Outdoor,percent,Statista,3.435,7.058,10.64,14.415,18.901,19.807,23.199,26.239,29.254,31.775,34.263
+Taiwan,Sports & Outdoor,9506,Penetration Rate,Sports & Swimwear,percent,Statista,1.374,2.823,4.256,5.766,7.56,7.923,9.28,10.496,11.702,12.711,13.708
+Taiwan,Sports & Outdoor,9506,Penetration Rate,Summer Sports Equipment,percent,Statista,1.717,3.529,5.32,7.208,9.451,9.904,11.599,13.12,14.627,15.887,17.131
+Taiwan,Sports & Outdoor,9506,Penetration Rate,Winter Sports Equipment,percent,Statista,1.374,2.823,4.256,5.766,7.56,7.923,9.28,10.496,11.702,12.711,13.708
+Taiwan,"DIY, Garden & Pets",4419,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,7.82,,,,,,
+Taiwan,"DIY, Garden & Pets",4419,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,27.933,,,,,,
+Taiwan,"DIY, Garden & Pets",4419,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,28.492,,,,,,
+Taiwan,"DIY, Garden & Pets",4419,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,21.788,,,,,,
+Taiwan,"DIY, Garden & Pets",4419,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,13.966,,,,,,
+Taiwan,"DIY, Garden & Pets",4419,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,65.363,,,,,,
+Taiwan,"DIY, Garden & Pets",4419,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,34.637,,,,,,
+Taiwan,"DIY, Garden & Pets",4419,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,42.361,,,,,,
+Taiwan,"DIY, Garden & Pets",4419,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,20.833,,,,,,
+Taiwan,"DIY, Garden & Pets",4419,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,36.806,,,,,,
+Taiwan,"DIY, Garden & Pets",4419,Revenue,Total,million USD (US$),Statista,86.58,140.8,195.2,336,425.5,432.6,527.2,576.8,617.6,669.2,734.6
+Taiwan,"DIY, Garden & Pets",4419,Revenue,DIY & Garden,million USD (US$),Statista,83.92,137.9,191.8,331.6,420.7,426.6,518,566.7,607,657.5,721.5
+Taiwan,"DIY, Garden & Pets",4419,Revenue,"Other DIY, Garden & Pets",million USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Taiwan,"DIY, Garden & Pets",4419,Revenue,Pet Food,million USD (US$),Statista,2.657,2.931,3.37,4.404,4.794,5.962,9.185,10.09,10.62,11.73,13.07
+Taiwan,"DIY, Garden & Pets",4419,Revenue Change,Total,percent,Statista,,62.624,38.636,72.131,26.637,1.669,21.868,9.408,7.074,8.355,9.773
+Taiwan,"DIY, Garden & Pets",4419,Revenue Change,DIY & Garden,percent,Statista,,64.323,39.086,72.888,26.87,1.402,21.425,9.402,7.111,8.32,9.734
+Taiwan,"DIY, Garden & Pets",4419,Revenue Change,"Other DIY, Garden & Pets",percent,Statista,,�,�,�,�,�,�,�,�,�,�
+Taiwan,"DIY, Garden & Pets",4419,Revenue Change,Pet Food,percent,Statista,,10.312,14.978,30.682,8.856,24.364,54.059,9.853,5.253,10.452,11.424
+Taiwan,"DIY, Garden & Pets",4419,Average Revenue per User,Total,USD (US$),Statista,55.06,54.73,55.25,75.29,76.38,76.46,81.89,80.87,78.97,80.47,83.47
+Taiwan,"DIY, Garden & Pets",4419,Average Revenue per User,DIY & Garden,USD (US$),Statista,76.24,76.56,77.56,106.2,107.9,107.7,115,113.5,110.9,112.9,117.1
+Taiwan,"DIY, Garden & Pets",4419,Average Revenue per User,"Other DIY, Garden & Pets",USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Taiwan,"DIY, Garden & Pets",4419,Average Revenue per User,Pet Food,USD (US$),Statista,2.414,1.627,1.362,1.41,1.229,1.505,2.038,2.021,1.939,2.015,2.123
+Taiwan,"DIY, Garden & Pets",4419,"Comparable Estimates - DIY, Garden & Pets (Worldwide)",*Statista,billion USD (US$),,108.3,120.9,134,193.1,248.1,247.7,289.7,315.4,342.6,367.6,392.9
+Taiwan,"DIY, Garden & Pets",4419,"Comparable Estimates - DIY, Garden & Pets (Worldwide)",Million Insights,billion USD (US$),,,,,96.4,99.68,,,,,,
+Taiwan,"DIY, Garden & Pets",4419,Users,Total,million users,Statista,1.573,2.573,3.534,4.463,5.571,5.658,6.437,7.133,7.821,8.316,8.8
+Taiwan,"DIY, Garden & Pets",4419,Users,DIY & Garden,million users,Statista,1.101,1.801,2.473,3.124,3.9,3.96,4.506,4.993,5.475,5.821,6.16
+Taiwan,"DIY, Garden & Pets",4419,Users,"Other DIY, Garden & Pets",million users,Statista,0.264,0.284,0.314,0.337,0.373,0.411,0.45,0.484,0.518,1.814,1.904
+Taiwan,"DIY, Garden & Pets",4419,Users,Pet Food,million users,Statista,1.101,1.801,2.473,3.124,3.9,3.96,4.506,4.993,5.475,5.821,6.16
+Taiwan,"DIY, Garden & Pets",4419,Penetration Rate,"DIY, Garden & Pets",percent,Statista,6.642,10.845,14.863,18.74,23.353,23.684,26.914,29.79,32.637,34.674,36.669
+Taiwan,"DIY, Garden & Pets",4419,Penetration Rate,DIY & Garden,percent,Statista,4.65,7.592,10.404,13.118,16.347,16.579,18.84,20.853,22.846,24.272,25.668
+Taiwan,"DIY, Garden & Pets",4419,Penetration Rate,"Other DIY, Garden & Pets",percent,Statista,1.115,1.195,1.32,1.414,1.563,1.719,1.883,2.022,2.163,7.562,7.933
+Taiwan,"DIY, Garden & Pets",4419,Penetration Rate,Pet Food,percent,Statista,4.65,7.592,10.404,13.118,16.347,16.579,18.84,20.853,22.846,24.272,25.668
+Taiwan,Hobby & Stationery,9619,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,20.667,,,,,,
+Taiwan,Hobby & Stationery,9619,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,23.333,,,,,,
+Taiwan,Hobby & Stationery,9619,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,23.333,,,,,,
+Taiwan,Hobby & Stationery,9619,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,18.667,,,,,,
+Taiwan,Hobby & Stationery,9619,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,14,,,,,,
+Taiwan,Hobby & Stationery,9619,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,56.667,,,,,,
+Taiwan,Hobby & Stationery,9619,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,43.333,,,,,,
+Taiwan,Hobby & Stationery,9619,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,48,,,,,,
+Taiwan,Hobby & Stationery,9619,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,18.4,,,,,,
+Taiwan,Hobby & Stationery,9619,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,33.6,,,,,,
+Taiwan,Hobby & Stationery,9619,Revenue,Total,USD (US$),Statista,"94,560,000","113,900,000","153,400,000","213,600,000","240,900,000","247,900,000","313,200,000","363,900,000","418,300,000","450,500,000","499,800,000"
+Taiwan,Hobby & Stationery,9619,Revenue,Construction Sets & Models,USD (US$),Statista,"17,780,000","19,390,000","22,080,000","30,260,000","32,320,000","33,060,000","41,910,000","48,800,000","56,200,000","60,210,000","66,700,000"
+Taiwan,Hobby & Stationery,9619,Revenue,Drones,USD (US$),Statista,"2,084,000","2,229,000","2,496,000","3,683,000","4,313,000","4,053,000","4,749,000","5,117,000","5,450,000","5,817,000","6,339,000"
+Taiwan,Hobby & Stationery,9619,Revenue,Musical Instruments,USD (US$),Statista,"7,233,000","7,843,000","8,998,000","14,510,000","19,110,000","18,530,000","22,640,000","25,750,000","28,970,000","31,390,000","34,880,000"
+Taiwan,Hobby & Stationery,9619,Revenue,Office Furniture,USD (US$),Statista,"54,350,000","60,060,000","69,360,000","105,700,000","109,600,000","113,400,000","146,400,000","175,200,000","208,100,000","223,900,000","249,900,000"
+Taiwan,Hobby & Stationery,9619,Revenue,Other Hobby & Stationery,USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Taiwan,Hobby & Stationery,9619,Revenue,Tobacco Products,USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Taiwan,Hobby & Stationery,9619,Revenue Change,Total,percent,Statista,,20.453,34.68,39.244,12.781,2.906,26.341,16.188,14.949,7.698,10.943
+Taiwan,Hobby & Stationery,9619,Revenue Change,Construction Sets & Models,percent,Statista,,9.055,13.873,37.047,6.808,2.29,26.77,16.44,15.164,7.135,10.779
+Taiwan,Hobby & Stationery,9619,Revenue Change,Drones,percent,Statista,,6.958,11.978,47.556,17.106,-6.028,17.172,7.749,6.508,6.734,8.974
+Taiwan,Hobby & Stationery,9619,Revenue Change,Musical Instruments,percent,Statista,,8.434,14.727,61.258,31.702,-3.035,22.18,13.737,12.505,8.353,11.118
+Taiwan,Hobby & Stationery,9619,Revenue Change,Office Furniture,percent,Statista,,10.506,15.485,52.393,3.69,3.467,29.101,19.672,18.779,7.593,11.612
+Taiwan,Hobby & Stationery,9619,Revenue Change,Other Hobby & Stationery,percent,Statista,,�,�,�,�,�,�,�,�,�,�
+Taiwan,Hobby & Stationery,9619,Revenue Change,Tobacco Products,percent,Statista,,0,0,0,0,0,0,0,0,0,0
+Taiwan,Hobby & Stationery,9619,Average Revenue per User,Total,USD (US$),Statista,68.92,49.85,47.36,50.16,43.88,43.44,47.28,48.89,50.67,50.36,51.92
+Taiwan,Hobby & Stationery,9619,Average Revenue per User,Construction Sets & Models,USD (US$),Statista,43.19,28.28,22.73,23.69,19.62,19.31,21.09,21.85,22.69,22.43,23.09
+Taiwan,Hobby & Stationery,9619,Average Revenue per User,Drones,USD (US$),Statista,7.995,5.135,4.057,4.553,4.134,3.739,3.774,3.618,3.474,3.422,3.465
+Taiwan,Hobby & Stationery,9619,Average Revenue per User,Musical Instruments,USD (US$),Statista,23.96,15.6,12.63,15.49,15.82,14.76,15.54,15.72,15.95,15.95,16.47
+Taiwan,Hobby & Stationery,9619,Average Revenue per User,Office Furniture,USD (US$),Statista,56.59,37.55,30.59,35.48,28.52,28.39,31.58,33.63,36.01,35.75,37.08
+Taiwan,Hobby & Stationery,9619,Average Revenue per User,Other Hobby & Stationery,USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Taiwan,Hobby & Stationery,9619,Average Revenue per User,Tobacco Products,USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Taiwan,Hobby & Stationery,9619,Comparable Estimates - Hobby & Stationery (Worldwide),*Statista,billion USD (US$),,111.3,127.7,145.7,177.2,210.1,199.3,240,267.6,300.6,319.8,341.7
+Taiwan,Hobby & Stationery,9619,Comparable Estimates - Hobby & Stationery (Worldwide),Million Insights,billion USD (US$),,,,,95.6,99.4,,,,,,
+Taiwan,Hobby & Stationery,9619,Users,Total,million users,Statista,1.372,2.285,3.239,4.257,5.491,5.706,6.624,7.444,8.257,8.946,9.627
+Taiwan,Hobby & Stationery,9619,Users,Construction Sets & Models,million users,Statista,0.412,0.686,0.972,1.277,1.647,1.712,1.987,2.233,2.477,2.684,2.889
+Taiwan,Hobby & Stationery,9619,Users,Drones,million users,Statista,0.261,0.434,0.615,0.809,1.043,1.084,1.258,1.414,1.569,1.7,1.829
+Taiwan,Hobby & Stationery,9619,Users,Musical Instruments,million users,Statista,0.302,0.503,0.713,0.937,1.208,1.255,1.457,1.638,1.817,1.968,2.118
+Taiwan,Hobby & Stationery,9619,Users,Office Furniture,million users,Statista,0.96,1.6,2.267,2.98,3.844,3.994,4.636,5.21,5.78,6.262,6.739
+Taiwan,Hobby & Stationery,9619,Users,Other Hobby & Stationery,million users,Statista,0.398,0.663,0.939,1.235,1.592,1.655,1.921,2.159,2.394,2.595,2.792
+Taiwan,Hobby & Stationery,9619,Users,Tobacco Products,million users,Statista,0,0,0,0,0,0,0,0,0,0,0
+Taiwan,Hobby & Stationery,9619,Penetration Rate,Construction Sets & Models,percent,Statista,1.738,2.889,4.087,5.362,6.906,7.165,8.308,9.326,10.336,11.192,12.037
+Taiwan,Hobby & Stationery,9619,Penetration Rate,Drones,percent,Statista,1.101,1.83,2.588,3.396,4.374,4.538,5.262,5.907,6.546,7.088,7.623
+Taiwan,Hobby & Stationery,9619,Penetration Rate,Hobby & Stationery,percent,Statista,5.795,9.631,13.623,17.875,23.019,23.884,27.693,31.088,34.454,37.302,40.118
+Taiwan,Hobby & Stationery,9619,Penetration Rate,Musical Instruments,percent,Statista,1.275,2.119,2.997,3.932,5.064,5.255,6.092,6.839,7.58,8.207,8.827
+Taiwan,Hobby & Stationery,9619,Penetration Rate,Office Furniture,percent,Statista,4.056,6.742,9.536,12.512,16.113,16.719,19.385,21.762,24.117,26.112,28.082
+Taiwan,Hobby & Stationery,9619,Penetration Rate,Other Hobby & Stationery,percent,Statista,1.681,2.793,3.951,5.184,6.676,6.926,8.031,9.016,9.992,10.819,11.636
+Taiwan,Hobby & Stationery,9619,Penetration Rate,Tobacco Products,percent,Statista,0,0,0,0,0,0,0,0,0,0,0
+Taiwan,Media,4901,Revenue,Total,million USD (US$),Statista,93.09,112.6,128.9,192.2,220.2,206.1,236.9,250.7,260.4,272.4,290.2
+Taiwan,Media,4901,Revenue,"Books, Movies, Music & Games",million USD (US$),Statista,93.09,112.6,128.9,192.2,220.2,206.1,236.9,250.7,260.4,272.4,290.2
+Taiwan,Media,4901,Revenue Change,Total,percent,Statista,,20.958,14.476,49.108,14.568,-6.403,14.944,5.825,3.869,4.608,6.535
+Taiwan,Media,4901,Revenue Change,"Books, Movies, Music & Games",percent,Statista,,20.958,14.476,49.108,14.568,-6.403,14.944,5.825,3.869,4.608,6.535
+Taiwan,Media,4901,Average Revenue per User,Total,USD (US$),Statista,25.74,25.03,24.35,31.46,30.95,30.13,31.57,30.81,29.72,29.88,30.6
+Taiwan,Media,4901,Average Revenue per User,"Books, Movies, Music & Games",USD (US$),Statista,25.74,25.03,24.35,31.46,30.95,30.13,31.57,30.81,29.72,29.88,30.6
+Taiwan,Media,4901,Comparable Estimates - eCommerce (China),*Statista,trillion USD (US$),,1.015,1.053,1.098,1.26,1.368,1.156,1.396,1.457,1.544,1.593,1.649
+Taiwan,Media,4901,Comparable Estimates - eCommerce (China),UNCTAD,trillion USD (US$),,,,1.539,,,,,,,,
+Taiwan,Media,4901,Users,Total,million users,Statista,3.616,4.5,5.295,6.109,7.117,6.84,7.502,8.135,8.761,9.116,9.482
+Taiwan,Media,4901,Users,"Books, Movies, Music & Games",million users,Statista,3.616,4.5,5.295,6.109,7.117,6.84,7.502,8.135,8.761,9.116,9.482
+Taiwan,Media,4901,Penetration Rate,"Books, Movies, Music & Games",percent,Statista,15.275,18.966,22.272,25.649,29.833,28.634,31.365,33.977,36.557,38.009,39.513
+Taiwan,Media,4901,Penetration Rate,Media,percent,Statista,15.275,18.966,22.272,25.649,29.833,28.634,31.365,33.977,36.557,38.009,39.513
+Taiwan,"Books, Movies, Music & Games",4903,Comparable Estimates - eCommerce (China),*Statista,trillion USD (US$),,1.015,1.053,1.098,1.26,1.368,1.156,1.396,1.457,1.544,1.593,1.649
+Taiwan,"Books, Movies, Music & Games",4903,Comparable Estimates - eCommerce (China),UNCTAD,trillion USD (US$),,,,1.539,,,,,,,,
+Taiwan,"Books, Movies, Music & Games",4903,Revenue,Total,million USD (US$),Statista,93.09,112.6,128.9,192.2,220.2,206.1,236.9,250.7,260.4,272.4,290.2
+Taiwan,"Books, Movies, Music & Games",4903,Revenue Change,Total,percent,Statista,,20.958,14.476,49.108,14.568,-6.403,14.944,5.825,3.869,4.608,6.535
+Taiwan,"Books, Movies, Music & Games",4903,Average Revenue per User by Segment,Total,USD (US$),Statista,25.74,25.03,24.35,31.46,30.95,30.13,31.57,30.81,29.72,29.88,30.6
+Taiwan,"Books, Movies, Music & Games",4903,Users by Segment,Total,million users,Statista,3.616,4.5,5.295,6.109,7.117,6.84,7.502,8.135,8.761,9.116,9.482
+Taiwan,"Books, Movies, Music & Games",4903,Penetration Rate by Segment,"Books, Movies, Music & Games",percent,Statista,15.275,18.966,22.272,25.649,29.833,28.634,31.365,33.977,36.557,38.009,39.513
+Taiwan,Food,2106,Revenue,Total,million USD (US$),Statista,472,528.4,596,978.2,"1,213","1,108","1,261","1,303","1,333","1,391","1,474"
+Taiwan,Food,2106,Revenue,Bread & Cereal Products,million USD (US$),Statista,64.85,71.63,81.29,153.1,213.2,192.1,216.1,220.9,224.1,234.4,248.2
+Taiwan,Food,2106,Revenue,Confectionery & Snacks,million USD (US$),Statista,43.41,49.47,56.55,97.26,114.9,106.6,123.3,130,135.8,143,153.2
+Taiwan,Food,2106,Revenue,Convenience Food,million USD (US$),Statista,27.98,30.58,34.1,62.42,98.67,89.67,101.6,104.5,106.4,112.5,120.1
+Taiwan,Food,2106,Revenue,Dairy Products & Eggs,million USD (US$),Statista,22.55,25.74,28.78,44.32,51.91,47.66,54.48,56.45,57.84,60.33,64
+Taiwan,Food,2106,Revenue,Fish & Seafood,million USD (US$),Statista,75.91,82.1,94.9,147.1,190.8,174.6,199,205.7,210.3,220.4,234.3
+Taiwan,Food,2106,Revenue,Fruits & Nuts,million USD (US$),Statista,44.95,51.16,57.37,89.74,97.28,89.11,101.7,105.2,107.6,111.1,116.8
+Taiwan,Food,2106,Revenue,Meat,million USD (US$),Statista,111.9,126.7,142.5,225.5,254.4,232.3,264.3,272.6,278.2,287.8,303
+Taiwan,Food,2106,Revenue,Oils & Fats,million USD (US$),Statista,9.207,10.05,11.34,17.42,22.39,20.51,23.37,24.15,24.68,25.85,27.49
+Taiwan,Food,2106,Revenue,Sauces & Spices,million USD (US$),Statista,3.859,4.187,4.534,6.199,6.916,6.146,6.754,6.717,6.575,6.654,6.846
+Taiwan,Food,2106,Revenue,Spreads & Sweeteners,million USD (US$),Statista,5.636,6.355,7.485,10.51,12.52,11.75,13.68,14.56,15.29,16.22,17.53
+Taiwan,Food,2106,Revenue,Vegetables,million USD (US$),Statista,61.8,70.34,77.17,124.6,150.3,137.5,156.8,162.1,165.8,172.8,183
+Taiwan,Food,2106,Revenue Change,Total,percent,Statista,,11.949,12.793,64.128,24.003,-8.656,13.809,3.331,2.302,4.351,5.967
+Taiwan,Food,2106,Revenue Change,Bread & Cereal Products,percent,Statista,,10.455,13.486,88.338,39.255,-9.897,12.493,2.221,1.449,4.596,5.887
+Taiwan,Food,2106,Revenue Change,Confectionery & Snacks,percent,Statista,,13.96,14.312,71.989,18.137,-7.224,15.666,5.434,4.462,5.302,7.133
+Taiwan,Food,2106,Revenue Change,Convenience Food,percent,Statista,,9.292,11.511,83.05,58.074,-9.121,13.304,2.854,1.818,5.733,6.756
+Taiwan,Food,2106,Revenue Change,Dairy Products & Eggs,percent,Statista,,14.146,11.81,53.996,17.125,-8.187,14.31,3.616,2.462,4.305,6.083
+Taiwan,Food,2106,Revenue Change,Fish & Seafood,percent,Statista,,8.154,15.591,55.005,29.708,-8.491,13.975,3.367,2.236,4.803,6.307
+Taiwan,Food,2106,Revenue Change,Fruits & Nuts,percent,Statista,,13.815,12.138,56.423,8.402,-8.398,14.129,3.441,2.281,3.253,5.131
+Taiwan,Food,2106,Revenue Change,Meat,percent,Statista,,13.226,12.47,58.246,12.816,-8.687,13.775,3.14,2.054,3.451,5.281
+Taiwan,Food,2106,Revenue Change,Oils & Fats,percent,Statista,,9.156,12.836,53.616,28.53,-8.397,13.944,3.338,2.195,4.741,6.344
+Taiwan,Food,2106,Revenue Change,Sauces & Spices,percent,Statista,,8.5,8.288,36.723,11.566,-11.134,9.893,-0.548,-2.114,1.202,2.885
+Taiwan,Food,2106,Revenue Change,Spreads & Sweeteners,percent,Statista,,12.757,17.781,40.414,19.125,-6.15,16.426,6.433,5.014,6.082,8.076
+Taiwan,Food,2106,Revenue Change,Vegetables,percent,Statista,,13.819,9.71,61.462,20.626,-8.516,14.036,3.38,2.283,4.222,5.903
+Taiwan,Food,2106,Average Revenue per User,Total,USD (US$),Statista,688.5,717.4,723.1,"1,087","1,195",981.9,"1,019",979,935.7,292.9,295.9
+Taiwan,Food,2106,Average Revenue per User,Bread & Cereal Products,USD (US$),Statista,107.6,82.13,72.07,109.2,124.1,111.2,109.9,101.1,93.29,91.45,91.08
+Taiwan,Food,2106,Average Revenue per User,Confectionery & Snacks,USD (US$),Statista,69.08,54.4,48.09,66.54,64.13,59.23,60.13,57.03,54.21,53.5,53.92
+Taiwan,Food,2106,Average Revenue per User,Convenience Food,USD (US$),Statista,38.96,29.43,25.37,37.36,48.18,43.58,43.35,40.12,37.18,36.83,36.98
+Taiwan,Food,2106,Average Revenue per User,Dairy Products & Eggs,USD (US$),Statista,76.47,60.32,52.13,64.59,61.71,56.4,56.6,52.78,49.2,48.08,47.98
+Taiwan,Food,2106,Average Revenue per User,Fish & Seafood,USD (US$),Statista,311.6,232.9,208.1,259.6,274.6,250.1,250.2,232.7,216.5,212.6,212.6
+Taiwan,Food,2106,Average Revenue per User,Fruits & Nuts,USD (US$),Statista,67.41,53.02,45.97,57.85,51.16,46.64,46.71,43.49,40.5,39.16,38.75
+Taiwan,Food,2106,Average Revenue per User,Meat,USD (US$),Statista,290.8,227.6,197.9,251.9,231.9,210.8,210.5,195.4,181.4,175.8,174.2
+Taiwan,Food,2106,Average Revenue per User,Oils & Fats,USD (US$),Statista,28.72,21.66,18.91,23.36,24.5,22.32,22.34,20.77,19.31,18.96,18.96
+Taiwan,Food,2106,Average Revenue per User,Sauces & Spices,USD (US$),Statista,6.839,5.128,4.294,4.722,4.298,3.802,3.668,3.283,2.924,2.772,2.684
+Taiwan,Food,2106,Average Revenue per User,Spreads & Sweeteners,USD (US$),Statista,13.32,10.38,9.452,10.67,10.38,9.687,9.907,9.491,9.064,9.009,9.162
+Taiwan,Food,2106,Average Revenue per User,Vegetables,USD (US$),Statista,98.36,77.36,65.63,85.22,83.86,76.4,76.46,71.14,66.2,64.65,64.41
+Taiwan,Food,2106,Comparable Estimates - Food (China),*Statista,billion USD (US$),,23.71,32.5,42.06,61.99,85.79,77.5,91.56,98.11,105.2,111.8,117.8
+Taiwan,Food,2106,Comparable Estimates - Food (China),Common Thread Collective,billion USD (US$),,,,,,,,,,25,,
+Taiwan,Food,2106,Users,Total,million users,Statista,0.686,0.737,0.824,0.9,1.016,1.129,1.238,1.331,1.424,4.75,4.983
+Taiwan,Food,2106,Users,Bread & Cereal Products,million users,Statista,0.603,0.872,1.128,1.402,1.719,1.727,1.967,2.186,2.402,2.564,2.725
+Taiwan,Food,2106,Users,Confectionery & Snacks,million users,Statista,0.628,0.909,1.176,1.462,1.792,1.8,2.051,2.279,2.504,2.673,2.841
+Taiwan,Food,2106,Users,Convenience Food,million users,Statista,0.718,1.039,1.344,1.671,2.048,2.058,2.344,2.604,2.862,3.055,3.247
+Taiwan,Food,2106,Users,Dairy Products & Eggs,million users,Statista,0.295,0.427,0.552,0.686,0.841,0.845,0.963,1.07,1.176,1.255,1.334
+Taiwan,Food,2106,Users,Fish & Seafood,million users,Statista,0.244,0.353,0.456,0.567,0.695,0.698,0.795,0.884,0.971,1.036,1.102
+Taiwan,Food,2106,Users,Fruits & Nuts,million users,Statista,0.667,0.965,1.248,1.551,1.902,1.911,2.176,2.418,2.658,2.836,3.015
+Taiwan,Food,2106,Users,Meat,million users,Statista,0.385,0.557,0.72,0.895,1.097,1.102,1.256,1.395,1.533,1.636,1.74
+Taiwan,Food,2106,Users,Oils & Fats,million users,Statista,0.321,0.464,0.6,0.746,0.914,0.919,1.046,1.163,1.278,1.364,1.45
+Taiwan,Food,2106,Users,Sauces & Spices,million users,Statista,0.564,0.817,1.056,1.313,1.609,1.617,1.842,2.046,2.249,2.4,2.551
+Taiwan,Food,2106,Users,Spreads & Sweeteners,million users,Statista,0.423,0.612,0.792,0.985,1.207,1.213,1.381,1.535,1.687,1.8,1.913
+Taiwan,Food,2106,Users,Vegetables,million users,Statista,0.628,0.909,1.176,1.462,1.792,1.8,2.051,2.279,2.504,2.673,2.841
+Taiwan,Food,2106,Penetration Rate,Bread & Cereal Products,percent,Statista,2.546,3.676,4.744,5.887,7.205,7.229,8.225,9.129,10.024,10.689,11.356
+Taiwan,Food,2106,Penetration Rate,Confectionery & Snacks,percent,Statista,2.654,3.833,4.946,6.138,7.512,7.537,8.575,9.517,10.451,11.144,11.839
+Taiwan,Food,2106,Penetration Rate,Convenience Food,percent,Statista,3.033,4.38,5.653,7.015,8.585,8.614,9.8,10.877,11.943,12.736,13.53
+Taiwan,Food,2106,Penetration Rate,Dairy Products & Eggs,percent,Statista,1.246,1.799,2.322,2.881,3.526,3.538,4.025,4.467,4.905,5.232,5.558
+Taiwan,Food,2106,Penetration Rate,Fish & Seafood,percent,Statista,1.029,1.486,1.918,2.38,2.913,2.922,3.325,3.69,4.052,4.321,4.591
+Taiwan,Food,2106,Penetration Rate,Food,percent,Statista,2.896,3.104,3.467,3.78,4.257,4.724,5.174,5.557,5.943,19.804,20.764
+Taiwan,Food,2106,Penetration Rate,Fruits & Nuts,percent,Statista,2.817,4.067,5.249,6.514,7.971,7.998,9.1,10.1,11.09,11.827,12.564
+Taiwan,Food,2106,Penetration Rate,Meat,percent,Statista,1.625,2.346,3.028,3.758,4.599,4.614,5.25,5.827,6.398,6.823,7.249
+Taiwan,Food,2106,Penetration Rate,Oils & Fats,percent,Statista,1.354,1.955,2.524,3.132,3.832,3.845,4.375,4.856,5.332,5.687,6.042
+Taiwan,Food,2106,Penetration Rate,Sauces & Spices,percent,Statista,2.383,3.441,4.442,5.512,6.745,6.768,7.7,8.546,9.384,10.007,10.631
+Taiwan,Food,2106,Penetration Rate,Spreads & Sweeteners,percent,Statista,1.787,2.581,3.331,4.134,5.059,5.076,5.775,6.41,7.038,7.505,7.973
+Taiwan,Food,2106,Penetration Rate,Vegetables,percent,Statista,2.654,3.833,4.946,6.138,7.512,7.537,8.575,9.517,10.451,11.144,11.839
+Taiwan,Bread & Cereal Products,1904,Comparable Estimates - Bread & Cereal Products (Worldwide),*Statista,billion USD (US$),,10.5,13.58,17.1,29.4,43.47,43.97,56.13,66.7,80.16,87.05,95.23
+Taiwan,Bread & Cereal Products,1904,Comparable Estimates - Bread & Cereal Products (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,81,,
+Taiwan,Bread & Cereal Products,1904,Revenue,Total,million USD (US$),Statista,64.85,71.63,81.29,153.1,213.2,192.1,216.1,220.9,224.1,234.4,248.2
+Taiwan,Bread & Cereal Products,1904,Revenue,Bread,million USD (US$),Statista,32.39,35.23,40.52,79.07,109,98.38,110.9,113.6,115.5,121,128.3
+Taiwan,Bread & Cereal Products,1904,Revenue,Breakfast Cereals,million USD (US$),Statista,2.842,3.145,3.463,5.707,7.788,7.182,8.247,8.586,8.843,9.352,10.02
+Taiwan,Bread & Cereal Products,1904,Revenue,Other Bread & Cereal Products,million USD (US$),Statista,9.901,10.91,12.38,23.26,32.55,29.31,32.96,33.66,34.14,35.71,37.79
+Taiwan,Bread & Cereal Products,1904,Revenue,Pasta,million USD (US$),Statista,3.675,4,4.617,8.735,13.26,12.02,13.61,14,14.3,15.08,16.08
+Taiwan,Bread & Cereal Products,1904,Revenue,Rice,million USD (US$),Statista,16.03,18.35,20.31,36.38,50.64,45.2,50.39,51.01,51.29,53.29,56.05
+Taiwan,Bread & Cereal Products,1904,Revenue Change,Total,percent,Statista,,10.455,13.486,88.338,39.255,-9.897,12.493,2.221,1.449,4.596,5.887
+Taiwan,Bread & Cereal Products,1904,Revenue Change,Bread,percent,Statista,,8.768,15.016,95.138,37.853,-9.743,12.726,2.435,1.673,4.762,6.033
+Taiwan,Bread & Cereal Products,1904,Revenue Change,Breakfast Cereals,percent,Statista,,10.662,10.111,64.799,36.464,-7.781,14.829,4.111,2.993,5.756,7.143
+Taiwan,Bread & Cereal Products,1904,Revenue Change,Other Bread & Cereal Products,percent,Statista,,10.191,13.474,87.884,39.94,-9.954,12.453,2.124,1.426,4.599,5.825
+Taiwan,Bread & Cereal Products,1904,Revenue Change,Pasta,percent,Statista,,8.844,15.425,89.192,51.803,-9.351,13.228,2.866,2.143,5.455,6.631
+Taiwan,Bread & Cereal Products,1904,Revenue Change,Rice,percent,Statista,,14.473,10.681,79.124,39.197,-10.742,11.482,1.23,0.549,3.899,5.179
+Taiwan,Bread & Cereal Products,1904,Average Revenue per User by Segment,Total,USD (US$),Statista,107.6,82.13,72.07,109.2,124.1,111.2,109.9,101.1,93.29,91.45,91.08
+Taiwan,Bread & Cereal Products,1904,Average Revenue per User by Segment,Bread,USD (US$),Statista,85.31,64.12,57.02,89.51,100.6,90.42,89.51,82.5,76.35,74.92,74.7
+Taiwan,Bread & Cereal Products,1904,Average Revenue per User by Segment,Breakfast Cereals,USD (US$),Statista,5.682,4.344,3.699,4.904,5.459,5.011,5.051,4.733,4.435,4.395,4.43
+Taiwan,Bread & Cereal Products,1904,Average Revenue per User by Segment,Other Bread & Cereal Products,USD (US$),Statista,36.5,27.79,24.39,36.86,42.09,37.71,37.23,34.23,31.58,30.95,30.81
+Taiwan,Bread & Cereal Products,1904,Average Revenue per User by Segment,Pasta,USD (US$),Statista,6.775,5.096,4.548,6.922,8.57,7.733,7.687,7.116,6.613,6.536,6.555
+Taiwan,Bread & Cereal Products,1904,Average Revenue per User by Segment,Rice,USD (US$),Statista,29.89,23.64,20.24,29.15,33.11,29.41,28.78,26.22,23.99,23.36,23.11
+Taiwan,Bread & Cereal Products,1904,Users by Segment,Total,million users,Statista,0.603,0.872,1.128,1.402,1.719,1.727,1.967,2.186,2.402,2.564,2.725
+Taiwan,Bread & Cereal Products,1904,Users by Segment,Bread,million users,Statista,0.38,0.549,0.711,0.883,1.083,1.088,1.239,1.377,1.513,1.615,1.717
+Taiwan,Bread & Cereal Products,1904,Users by Segment,Breakfast Cereals,million users,Statista,0.5,0.724,0.936,1.164,1.427,1.433,1.633,1.814,1.994,2.128,2.262
+Taiwan,Bread & Cereal Products,1904,Users by Segment,Other Bread & Cereal Products,million users,Statista,0.271,0.392,0.508,0.631,0.773,0.777,0.885,0.984,1.081,1.154,1.226
+Taiwan,Bread & Cereal Products,1904,Users by Segment,Pasta,million users,Statista,0.542,0.785,1.015,1.262,1.547,1.554,1.77,1.967,2.162,2.307,2.453
+Taiwan,Bread & Cereal Products,1904,Users by Segment,Rice,million users,Statista,0.536,0.776,1.004,1.248,1.53,1.537,1.751,1.945,2.138,2.282,2.425
+Taiwan,Bread & Cereal Products,1904,Penetration Rate by Segment,Bread,percent,Statista,1.604,2.316,2.989,3.709,4.539,4.554,5.181,5.751,6.315,6.735,7.155
+Taiwan,Bread & Cereal Products,1904,Penetration Rate by Segment,Bread & Cereal Products,percent,Statista,2.546,3.676,4.744,5.887,7.205,7.229,8.225,9.129,10.024,10.689,11.356
+Taiwan,Bread & Cereal Products,1904,Penetration Rate by Segment,Breakfast Cereals,percent,Statista,2.113,3.051,3.938,4.887,5.98,6,6.826,7.577,8.32,8.872,9.426
+Taiwan,Bread & Cereal Products,1904,Penetration Rate by Segment,Other Bread & Cereal Products,percent,Statista,1.146,1.654,2.135,2.649,3.242,3.253,3.701,4.108,4.511,4.811,5.111
+Taiwan,Bread & Cereal Products,1904,Penetration Rate by Segment,Pasta,percent,Statista,2.291,3.308,4.27,5.299,6.484,6.506,7.402,8.216,9.022,9.621,10.221
+Taiwan,Bread & Cereal Products,1904,Penetration Rate by Segment,Rice,percent,Statista,2.266,3.272,4.222,5.24,6.412,6.434,7.32,8.125,8.921,9.514,10.107
+Taiwan,Confectionery & Snacks,1806,Comparable Estimates - Confectionery & Snacks (Worldwide),*Statista,billion USD (US$),,15.6,18.81,22.4,33.59,43.05,49.06,68.05,88.6,115.9,125,138.1
+Taiwan,Confectionery & Snacks,1806,Comparable Estimates - Confectionery & Snacks (Worldwide),Common Thread Collective,billion USD (US$),,,,,,43,,,,113,,
+Taiwan,Confectionery & Snacks,1806,Revenue,Total,million USD (US$),Statista,43.41,49.47,56.55,97.26,114.9,106.6,123.3,130,135.8,143,153.2
+Taiwan,Confectionery & Snacks,1806,Revenue,Confectionery,million USD (US$),Statista,33.75,38.2,43.49,74.52,87.07,80.72,93.28,97.99,102.1,107.3,114.7
+Taiwan,Confectionery & Snacks,1806,Revenue,Other Confectionery & Snacks,million USD (US$),Statista,0.478,0.544,0.622,1.07,1.265,1.173,1.357,1.43,1.494,1.573,1.686
+Taiwan,Confectionery & Snacks,1806,Revenue,Snack Food,million USD (US$),Statista,9.182,10.72,12.43,21.68,26.58,24.75,28.69,30.54,32.22,34.15,36.82
+Taiwan,Confectionery & Snacks,1806,Revenue Change,Total,percent,Statista,,13.96,14.312,71.989,18.137,-7.224,15.666,5.434,4.462,5.302,7.133
+Taiwan,Confectionery & Snacks,1806,Revenue Change,Confectionery,percent,Statista,,13.185,13.848,71.35,16.841,-7.293,15.56,5.049,4.194,5.093,6.897
+Taiwan,Confectionery & Snacks,1806,Revenue Change,Other Confectionery & Snacks,percent,Statista,,13.942,14.33,71.943,18.224,-7.273,15.686,5.38,4.476,5.288,7.184
+Taiwan,Confectionery & Snacks,1806,Revenue Change,Snack Food,percent,Statista,,16.75,15.951,74.417,22.601,-6.885,15.919,6.448,5.501,5.99,7.818
+Taiwan,Confectionery & Snacks,1806,Average Revenue per User by Segment,Total,USD (US$),Statista,69.08,54.4,48.09,66.54,64.13,59.23,60.13,57.03,54.21,53.5,53.92
+Taiwan,Confectionery & Snacks,1806,Average Revenue per User by Segment,Confectionery,USD (US$),Statista,65.5,51.23,45.1,62.16,59.26,54.67,55.46,52.44,49.69,48.94,49.22
+Taiwan,Confectionery & Snacks,1806,Average Revenue per User by Segment,Other Confectionery & Snacks,USD (US$),Statista,1.382,1.088,0.962,1.331,1.283,1.185,1.203,1.141,1.085,1.07,1.078
+Taiwan,Confectionery & Snacks,1806,Average Revenue per User by Segment,Snack Food,USD (US$),Statista,15.71,12.68,11.37,15.95,15.95,14.78,15.04,14.41,13.83,13.74,13.94
+Taiwan,Confectionery & Snacks,1806,Users by Segment,Total,million users,Statista,0.628,0.909,1.176,1.462,1.792,1.8,2.051,2.279,2.504,2.673,2.841
+Taiwan,Confectionery & Snacks,1806,Users by Segment,Confectionery,million users,Statista,0.515,0.746,0.964,1.199,1.469,1.476,1.682,1.869,2.054,2.192,2.33
+Taiwan,Confectionery & Snacks,1806,Users by Segment,Other Confectionery & Snacks,million users,Statista,0.346,0.5,0.647,0.804,0.986,0.99,1.128,1.253,1.377,1.47,1.563
+Taiwan,Confectionery & Snacks,1806,Users by Segment,Snack Food,million users,Statista,0.584,0.846,1.094,1.36,1.666,1.674,1.907,2.119,2.329,2.486,2.642
+Taiwan,Confectionery & Snacks,1806,Penetration Rate by Segment,Confectionery,percent,Statista,2.176,3.143,4.056,5.033,6.16,6.18,7.031,7.804,8.569,9.139,9.708
+Taiwan,Confectionery & Snacks,1806,Penetration Rate by Segment,Confectionery & Snacks,percent,Statista,2.654,3.833,4.946,6.138,7.512,7.537,8.575,9.517,10.451,11.144,11.839
+Taiwan,Confectionery & Snacks,1806,Penetration Rate by Segment,Other Confectionery & Snacks,percent,Statista,1.46,2.108,2.72,3.376,4.131,4.145,4.716,5.234,5.748,6.13,6.513
+Taiwan,Confectionery & Snacks,1806,Penetration Rate by Segment,Snack Food,percent,Statista,2.468,3.564,4.6,5.708,6.986,7.009,7.974,8.851,9.719,10.364,11.01
+Taiwan,Convenience Food,2106,Comparable Estimates - Food (China),*Statista,billion USD (US$),,23.71,32.5,42.06,61.99,85.79,77.5,91.56,98.11,105.2,111.8,117.8
+Taiwan,Convenience Food,2106,Comparable Estimates - Food (China),Common Thread Collective,billion USD (US$),,,,,,,,,,25,,
+Taiwan,Convenience Food,2106,Revenue,Total,million USD (US$),Statista,27.98,30.58,34.1,62.42,98.67,89.67,101.6,104.5,106.4,112.5,120.1
+Taiwan,Convenience Food,2106,Revenue,Ready-to-Eat Meals,million USD (US$),Statista,20.52,22.3,24.87,45.2,72.6,66.13,75.08,77.33,78.9,83.55,89.32
+Taiwan,Convenience Food,2106,Revenue,Soups,million USD (US$),Statista,7.455,8.279,9.235,17.23,26.06,23.55,26.53,27.15,27.53,28.94,30.74
+Taiwan,Convenience Food,2106,Revenue Change,Total,percent,Statista,,9.292,11.511,83.05,58.074,-9.121,13.304,2.854,1.818,5.733,6.756
+Taiwan,Convenience Food,2106,Revenue Change,Ready-to-Eat Meals,percent,Statista,,8.674,11.525,81.745,60.619,-8.912,13.534,2.997,2.03,5.894,6.906
+Taiwan,Convenience Food,2106,Revenue Change,Soups,percent,Statista,,11.053,11.547,86.573,51.248,-9.632,12.654,2.337,1.4,5.122,6.22
+Taiwan,Convenience Food,2106,Average Revenue per User by Segment,Total,USD (US$),Statista,38.96,29.43,25.37,37.36,48.18,43.58,43.35,40.12,37.18,36.83,36.98
+Taiwan,Convenience Food,2106,Average Revenue per User by Segment,Ready-to-Eat Meals,USD (US$),Statista,41.42,31.1,26.82,39.21,51.38,46.58,46.42,43.03,39.95,39.64,39.87
+Taiwan,Convenience Food,2106,Average Revenue per User by Segment,Soups,USD (US$),Statista,17.3,13.28,11.45,17.19,21.21,19.07,18.87,17.37,16.03,15.79,15.77
+Taiwan,Convenience Food,2106,Users by Segment,Total,million users,Statista,0.718,1.039,1.344,1.671,2.048,2.058,2.344,2.604,2.862,3.055,3.247
+Taiwan,Convenience Food,2106,Users by Segment,Ready-to-Eat Meals,million users,Statista,0.495,0.717,0.927,1.153,1.413,1.42,1.617,1.797,1.975,2.108,2.241
+Taiwan,Convenience Food,2106,Users by Segment,Soups,million users,Statista,0.431,0.624,0.806,1.002,1.229,1.235,1.406,1.563,1.717,1.833,1.949
+Taiwan,Convenience Food,2106,Penetration Rate by Segment,Convenience Food,percent,Statista,3.033,4.38,5.653,7.015,8.585,8.614,9.8,10.877,11.943,12.736,13.53
+Taiwan,Convenience Food,2106,Penetration Rate by Segment,Ready-to-Eat Meals,percent,Statista,2.093,3.022,3.9,4.84,5.923,5.943,6.762,7.505,8.241,8.788,9.336
+Taiwan,Convenience Food,2106,Penetration Rate by Segment,Soups,percent,Statista,1.82,2.628,3.392,4.209,5.151,5.168,5.88,6.526,7.166,7.643,8.12
+Taiwan,Dairy Products & Eggs,402,Comparable Estimates - Dairy Products & Eggs (Worldwide),*Statista,billion USD (US$),,7.819,9.672,11.84,17.09,22.71,24.25,32.69,41.2,52.55,56.62,62.13
+Taiwan,Dairy Products & Eggs,402,Comparable Estimates - Dairy Products & Eggs (Worldwide),Common Thread Collective,billion USD (US$),,,,,,22,,,,51,,
+Taiwan,Dairy Products & Eggs,402,Revenue,Total,million USD (US$),Statista,22.55,25.74,28.78,44.32,51.91,47.66,54.48,56.45,57.84,60.33,64
+Taiwan,Dairy Products & Eggs,402,Revenue,Cheese,million USD (US$),Statista,0.971,1.092,1.24,1.948,2.193,1.996,2.262,2.323,2.359,2.433,2.554
+Taiwan,Dairy Products & Eggs,402,Revenue,Eggs,million USD (US$),Statista,6.535,7.403,8.245,12.55,15.91,14.61,16.71,17.32,17.75,18.59,19.77
+Taiwan,Dairy Products & Eggs,402,Revenue,Milk,million USD (US$),Statista,10.88,12.63,14.39,22.63,25.73,23.99,27.84,29.28,30.44,31.92,34.08
+Taiwan,Dairy Products & Eggs,402,Revenue,Other Dairy Products & Eggs,million USD (US$),Statista,3.328,3.758,4.03,5.986,6.645,5.914,6.544,6.558,6.491,6.589,6.809
+Taiwan,Dairy Products & Eggs,402,Revenue,Yogurt,million USD (US$),Statista,0.837,0.857,0.875,1.211,1.426,1.148,1.128,0.978,0.806,0.799,0.784
+Taiwan,Dairy Products & Eggs,402,Revenue Change,Total,percent,Statista,,14.146,11.81,53.996,17.125,-8.187,14.31,3.616,2.462,4.305,6.083
+Taiwan,Dairy Products & Eggs,402,Revenue Change,Cheese,percent,Statista,,12.496,13.553,57.097,12.577,-8.983,13.327,2.697,1.55,3.137,4.973
+Taiwan,Dairy Products & Eggs,402,Revenue Change,Eggs,percent,Statista,,13.282,11.374,52.213,26.773,-8.171,14.374,3.651,2.483,4.732,6.347
+Taiwan,Dairy Products & Eggs,402,Revenue Change,Milk,percent,Statista,,16.085,13.935,57.262,13.699,-6.763,16.048,5.172,3.962,4.862,6.767
+Taiwan,Dairy Products & Eggs,402,Revenue Change,Other Dairy Products & Eggs,percent,Statista,,12.921,7.238,48.536,11.009,-11.001,10.653,0.214,-1.022,1.51,3.339
+Taiwan,Dairy Products & Eggs,402,Revenue Change,Yogurt,percent,Statista,,2.426,2.042,38.447,17.754,-19.495,-1.742,-13.342,-17.524,-0.918,-1.79
+Taiwan,Dairy Products & Eggs,402,Average Revenue per User by Segment,Total,USD (US$),Statista,76.47,60.32,52.13,64.59,61.71,56.4,56.6,52.78,49.2,48.08,47.98
+Taiwan,Dairy Products & Eggs,402,Average Revenue per User by Segment,Cheese,USD (US$),Statista,4.388,3.412,2.995,3.784,3.476,3.149,3.132,2.896,2.675,2.586,2.553
+Taiwan,Dairy Products & Eggs,402,Average Revenue per User by Segment,Eggs,USD (US$),Statista,51.53,40.34,34.74,42.54,43.99,40.22,40.37,37.65,35.11,34.46,34.47
+Taiwan,Dairy Products & Eggs,402,Average Revenue per User by Segment,Milk,USD (US$),Statista,47.31,37.95,33.42,42.28,39.22,36.4,37.08,35.09,33.19,32.62,32.76
+Taiwan,Dairy Products & Eggs,402,Average Revenue per User by Segment,Other Dairy Products & Eggs,USD (US$),Statista,32.24,25.15,20.86,24.92,22.57,19.99,19.42,17.52,15.78,15,14.58
+Taiwan,Dairy Products & Eggs,402,Average Revenue per User by Segment,Yogurt,USD (US$),Statista,5.159,3.652,2.881,3.209,3.082,2.469,2.13,1.662,1.247,1.158,1.069
+Taiwan,Dairy Products & Eggs,402,Users by Segment,Total,million users,Statista,0.295,0.427,0.552,0.686,0.841,0.845,0.963,1.07,1.176,1.255,1.334
+Taiwan,Dairy Products & Eggs,402,Users by Segment,Cheese,million users,Statista,0.221,0.32,0.414,0.515,0.631,0.634,0.722,0.802,0.882,0.941,1
+Taiwan,Dairy Products & Eggs,402,Users by Segment,Eggs,million users,Statista,0.127,0.184,0.237,0.295,0.362,0.363,0.414,0.46,0.505,0.54,0.574
+Taiwan,Dairy Products & Eggs,402,Users by Segment,Milk,million users,Statista,0.23,0.333,0.431,0.535,0.656,0.659,0.751,0.834,0.917,0.979,1.04
+Taiwan,Dairy Products & Eggs,402,Users by Segment,Other Dairy Products & Eggs,million users,Statista,0.103,0.149,0.193,0.24,0.294,0.296,0.337,0.374,0.411,0.439,0.467
+Taiwan,Dairy Products & Eggs,402,Users by Segment,Yogurt,million users,Statista,0.162,0.235,0.304,0.377,0.463,0.465,0.529,0.588,0.647,0.69,0.734
+Taiwan,Dairy Products & Eggs,402,Penetration Rate by Segment,Cheese,percent,Statista,0.934,1.349,1.741,2.161,2.644,2.653,3.019,3.35,3.679,3.923,4.168
+Taiwan,Dairy Products & Eggs,402,Penetration Rate by Segment,Dairy Products & Eggs,percent,Statista,1.246,1.799,2.322,2.881,3.526,3.538,4.025,4.467,4.905,5.232,5.558
+Taiwan,Dairy Products & Eggs,402,Penetration Rate by Segment,Eggs,percent,Statista,0.536,0.774,0.998,1.239,1.516,1.521,1.731,1.921,2.109,2.25,2.39
+Taiwan,Dairy Products & Eggs,402,Penetration Rate by Segment,Milk,percent,Statista,0.972,1.403,1.811,2.247,2.75,2.759,3.139,3.484,3.826,4.08,4.335
+Taiwan,Dairy Products & Eggs,402,Penetration Rate by Segment,Other Dairy Products & Eggs,percent,Statista,0.436,0.63,0.813,1.008,1.234,1.238,1.409,1.564,1.717,1.831,1.946
+Taiwan,Dairy Products & Eggs,402,Penetration Rate by Segment,Yogurt,percent,Statista,0.685,0.989,1.277,1.585,1.939,1.946,2.214,2.457,2.698,2.877,3.057
+Taiwan,Fish & Seafood,303,Comparable Estimates - Food (China),*Statista,billion USD (US$),,23.71,32.5,42.06,61.99,85.79,77.5,91.56,98.11,105.2,111.8,117.8
+Taiwan,Fish & Seafood,303,Comparable Estimates - Food (China),Common Thread Collective,billion USD (US$),,,,,,,,,,25,,
+Taiwan,Fish & Seafood,303,Revenue,Total,million USD (US$),Statista,75.91,82.1,94.9,147.1,190.8,174.6,199,205.7,210.3,220.4,234.3
+Taiwan,Fish & Seafood,303,Revenue,Fresh Fish,million USD (US$),Statista,51.37,54.14,64.17,97.48,129.3,118.4,135,139.6,142.8,150,159.7
+Taiwan,Fish & Seafood,303,Revenue,Fresh Seafood,million USD (US$),Statista,10.98,12.47,14.22,22.56,26.48,24.28,27.72,28.7,29.4,30.59,32.35
+Taiwan,Fish & Seafood,303,Revenue,Processed Fish & Seafood,million USD (US$),Statista,13.56,15.49,16.51,27.08,35,31.92,36.27,37.36,38.08,39.81,42.21
+Taiwan,Fish & Seafood,303,Revenue Change,Total,percent,Statista,,8.154,15.591,55.005,29.708,-8.491,13.975,3.367,2.236,4.803,6.307
+Taiwan,Fish & Seafood,303,Revenue Change,Fresh Fish,percent,Statista,,5.392,18.526,51.909,32.643,-8.43,14.02,3.407,2.292,5.042,6.467
+Taiwan,Fish & Seafood,303,Revenue Change,Fresh Seafood,percent,Statista,,13.57,14.034,58.65,17.376,-8.308,14.168,3.535,2.439,4.048,5.754
+Taiwan,Fish & Seafood,303,Revenue Change,Processed Fish & Seafood,percent,Statista,,14.233,6.585,64.022,29.247,-8.8,13.628,3.005,1.927,4.543,6.029
+Taiwan,Fish & Seafood,303,Average Revenue per User by Segment,Total,USD (US$),Statista,311.6,232.9,208.1,259.6,274.6,250.1,250.2,232.7,216.5,212.6,212.6
+Taiwan,Fish & Seafood,303,Average Revenue per User by Segment,Fresh Fish,USD (US$),Statista,540.6,393.7,360.8,441,477.3,434.9,435.3,405.1,377,370.9,371.5
+Taiwan,Fish & Seafood,303,Average Revenue per User by Segment,Fresh Seafood,USD (US$),Statista,351.3,371.4,378.4,549.6,571.9,471.8,491.2,473,452.7,141.2,142.4
+Taiwan,Fish & Seafood,303,Average Revenue per User by Segment,Processed Fish & Seafood,USD (US$),Statista,61.84,48.82,40.23,53.09,55.97,50.81,50.67,46.98,43.57,42.68,42.57
+Taiwan,Fish & Seafood,303,Users by Segment,Total,million users,Statista,0.244,0.353,0.456,0.567,0.695,0.698,0.795,0.884,0.971,1.036,1.102
+Taiwan,Fish & Seafood,303,Users by Segment,Fresh Fish,million users,Statista,0.095,0.138,0.178,0.221,0.271,0.272,0.31,0.345,0.379,0.404,0.43
+Taiwan,Fish & Seafood,303,Users by Segment,Fresh Seafood,million users,Statista,0.031,0.034,0.038,0.041,0.046,0.051,0.056,0.061,0.065,0.217,0.227
+Taiwan,Fish & Seafood,303,Users by Segment,Processed Fish & Seafood,million users,Statista,0.219,0.317,0.41,0.51,0.625,0.628,0.716,0.795,0.874,0.933,0.992
+Taiwan,Fish & Seafood,303,Penetration Rate by Segment,Fish & Seafood,percent,Statista,1.029,1.486,1.918,2.38,2.913,2.922,3.325,3.69,4.052,4.321,4.591
+Taiwan,Fish & Seafood,303,Penetration Rate by Segment,Fresh Fish,percent,Statista,0.401,0.58,0.748,0.928,1.136,1.14,1.297,1.439,1.58,1.686,1.792
+Taiwan,Fish & Seafood,303,Penetration Rate by Segment,Fresh Seafood,percent,Statista,0.132,0.142,0.158,0.172,0.194,0.215,0.236,0.253,0.271,0.903,0.947
+Taiwan,Fish & Seafood,303,Penetration Rate by Segment,Processed Fish & Seafood,percent,Statista,0.926,1.337,1.726,2.142,2.621,2.63,2.992,3.321,3.647,3.889,4.132
+Taiwan,Fruits & Nuts,802,Comparable Estimates - Food (China),*Statista,billion USD (US$),,23.71,32.5,42.06,61.99,85.79,77.5,91.56,98.11,105.2,111.8,117.8
+Taiwan,Fruits & Nuts,802,Comparable Estimates - Food (China),Common Thread Collective,billion USD (US$),,,,,,,,,,25,,
+Taiwan,Fruits & Nuts,802,Revenue,Total,million USD (US$),Statista,44.95,51.16,57.37,89.74,97.28,89.11,101.7,105.2,107.6,111.1,116.8
+Taiwan,Fruits & Nuts,802,Revenue,Fresh Fruits,million USD (US$),Statista,40.85,46.56,52.21,81.67,88.19,80.77,92.12,95.28,97.5,100.6,105.7
+Taiwan,Fruits & Nuts,802,Revenue,Nuts,million USD (US$),Statista,2.786,3.138,3.497,5.456,6.114,5.603,6.396,6.62,6.779,7.026,7.415
+Taiwan,Fruits & Nuts,802,Revenue,Processed & Frozen Fruits,million USD (US$),Statista,1.314,1.469,1.662,2.615,2.973,2.738,3.14,3.266,3.36,3.5,3.71
+Taiwan,Fruits & Nuts,802,Revenue Change,Total,percent,Statista,,13.815,12.138,56.423,8.402,-8.398,14.129,3.441,2.281,3.253,5.131
+Taiwan,Fruits & Nuts,802,Revenue Change,Fresh Fruits,percent,Statista,,13.978,12.135,56.426,7.983,-8.414,14.052,3.43,2.33,3.179,5.07
+Taiwan,Fruits & Nuts,802,Revenue Change,Nuts,percent,Statista,,12.635,11.44,56.019,12.06,-8.358,14.153,3.502,2.402,3.644,5.537
+Taiwan,Fruits & Nuts,802,Revenue Change,Processed & Frozen Fruits,percent,Statista,,11.796,13.138,57.341,13.69,-7.904,14.682,4.013,2.878,4.167,6
+Taiwan,Fruits & Nuts,802,Average Revenue per User by Segment,Total,USD (US$),Statista,67.41,53.02,45.97,57.85,51.16,46.64,46.71,43.49,40.5,39.16,38.75
+Taiwan,Fruits & Nuts,802,Average Revenue per User by Segment,Fresh Fruits,USD (US$),Statista,87.51,68.92,59.77,75.2,66.26,60.39,60.47,56.29,52.41,50.65,50.09
+Taiwan,Fruits & Nuts,802,Average Revenue per User by Segment,Nuts,USD (US$),Statista,8.356,6.504,5.604,7.034,6.43,5.865,5.877,5.475,5.101,4.954,4.917
+Taiwan,Fruits & Nuts,802,Average Revenue per User by Segment,Processed & Frozen Fruits,USD (US$),Statista,3.941,3.045,2.664,3.371,3.127,2.866,2.886,2.701,2.528,2.467,2.46
+Taiwan,Fruits & Nuts,802,Users by Segment,Total,million users,Statista,0.667,0.965,1.248,1.551,1.902,1.911,2.176,2.418,2.658,2.836,3.015
+Taiwan,Fruits & Nuts,802,Users by Segment,Fresh Fruits,million users,Statista,0.467,0.675,0.874,1.086,1.331,1.337,1.523,1.693,1.86,1.986,2.111
+Taiwan,Fruits & Nuts,802,Users by Segment,Nuts,million users,Statista,0.333,0.482,0.624,0.776,0.951,0.955,1.088,1.209,1.329,1.418,1.508
+Taiwan,Fruits & Nuts,802,Users by Segment,Processed & Frozen Fruits,million users,Statista,0.333,0.482,0.624,0.776,0.951,0.955,1.088,1.209,1.329,1.418,1.508
+Taiwan,Fruits & Nuts,802,Penetration Rate by Segment,Fresh Fruits,percent,Statista,1.972,2.847,3.674,4.56,5.58,5.599,6.37,7.07,7.763,8.279,8.795
+Taiwan,Fruits & Nuts,802,Penetration Rate by Segment,Fruits & Nuts,percent,Statista,2.817,4.067,5.249,6.514,7.971,7.998,9.1,10.1,11.09,11.827,12.564
+Taiwan,Fruits & Nuts,802,Penetration Rate by Segment,Nuts,percent,Statista,1.408,2.034,2.625,3.257,3.986,3.999,4.55,5.05,5.545,5.914,6.283
+Taiwan,Fruits & Nuts,802,Penetration Rate by Segment,Processed & Frozen Fruits,percent,Statista,1.408,2.034,2.625,3.257,3.986,3.999,4.55,5.05,5.545,5.914,6.283
+Taiwan,Meat,203,Comparable Estimates - Meat (Worldwide),*Statista,billion USD (US$),,9.887,11.76,13.92,20.64,26.88,30.14,41.97,54.61,71.56,77.12,85.15
+Taiwan,Meat,203,Comparable Estimates - Meat (Worldwide),Common Thread Collective,billion USD (US$),,,,,,26,,,,70,,
+Taiwan,Meat,203,Revenue,Total,million USD (US$),Statista,111.9,126.7,142.5,225.5,254.4,232.3,264.3,272.6,278.2,287.8,303
+Taiwan,Meat,203,Revenue,Fresh Meat,million USD (US$),Statista,109.7,124.2,139.7,221.1,248.9,227.4,258.8,267.1,272.8,282.2,297.1
+Taiwan,Meat,203,Revenue,Processed Meat,million USD (US$),Statista,2.218,2.549,2.794,4.414,5.488,4.892,5.431,5.462,5.432,5.576,5.809
+Taiwan,Meat,203,Revenue Change,Total,percent,Statista,,13.226,12.47,58.246,12.816,-8.687,13.775,3.14,2.054,3.451,5.281
+Taiwan,Meat,203,Revenue Change,Fresh Meat,percent,Statista,,13.218,12.48,58.268,12.573,-8.638,13.808,3.207,2.134,3.446,5.28
+Taiwan,Meat,203,Revenue Change,Processed Meat,percent,Statista,,14.923,9.612,57.981,24.332,-10.86,11.018,0.571,-0.549,2.651,4.179
+Taiwan,Meat,203,Average Revenue per User by Segment,Total,USD (US$),Statista,290.8,227.6,197.9,251.9,231.9,210.8,210.5,195.4,181.4,175.8,174.2
+Taiwan,Meat,203,Average Revenue per User by Segment,Fresh Meat,USD (US$),Statista,413.2,323.3,281.2,358,328.8,299,298.8,277.5,257.8,249.9,247.5
+Taiwan,Meat,203,Average Revenue per User by Segment,Processed Meat,USD (US$),Statista,6.626,5.262,4.461,5.669,5.75,5.101,4.972,4.5,4.072,3.917,3.837
+Taiwan,Meat,203,Users by Segment,Total,million users,Statista,0.385,0.557,0.72,0.895,1.097,1.102,1.256,1.395,1.533,1.636,1.74
+Taiwan,Meat,203,Users by Segment,Fresh Meat,million users,Statista,0.265,0.384,0.497,0.618,0.757,0.761,0.866,0.963,1.058,1.129,1.2
+Taiwan,Meat,203,Users by Segment,Processed Meat,million users,Statista,0.335,0.484,0.626,0.779,0.954,0.959,1.092,1.214,1.334,1.424,1.514
+Taiwan,Meat,203,Penetration Rate by Segment,Fresh Meat,percent,Statista,1.121,1.619,2.09,2.593,3.173,3.184,3.622,4.021,4.415,4.708,5.002
+Taiwan,Meat,203,Penetration Rate by Segment,Meat,percent,Statista,1.625,2.346,3.028,3.758,4.599,4.614,5.25,5.827,6.398,6.823,7.249
+Taiwan,Meat,203,Penetration Rate by Segment,Processed Meat,percent,Statista,1.414,2.041,2.635,3.269,4.001,4.015,4.567,5.069,5.567,5.937,6.308
+Taiwan,Oils & Fats,1517,Comparable Estimates - Food (China),*Statista,billion USD (US$),,23.71,32.5,42.06,61.99,85.79,77.5,91.56,98.11,105.2,111.8,117.8
+Taiwan,Oils & Fats,1517,Comparable Estimates - Food (China),Common Thread Collective,billion USD (US$),,,,,,,,,,25,,
+Taiwan,Oils & Fats,1517,Revenue,Total,million USD (US$),Statista,9.207,10.05,11.34,17.42,22.39,20.51,23.37,24.15,24.68,25.85,27.49
+Taiwan,Oils & Fats,1517,Revenue,Butter,million USD (US$),Statista,0.338,0.386,0.438,0.681,0.765,0.706,0.811,0.844,0.869,0.904,0.958
+Taiwan,Oils & Fats,1517,Revenue,Edible Oils,million USD (US$),Statista,1.037,1.122,1.209,1.84,2.2,1.97,2.194,2.214,2.208,2.268,2.365
+Taiwan,Oils & Fats,1517,Revenue,Margarine,million USD (US$),Statista,0.977,1.057,1.208,1.842,2.458,2.262,2.59,2.688,2.759,2.907,3.106
+Taiwan,Oils & Fats,1517,Revenue,Other Oils & Fats,million USD (US$),Statista,6.855,7.485,8.49,13.06,16.97,15.57,17.78,18.41,18.84,19.78,21.06
+Taiwan,Oils & Fats,1517,Revenue Change,Total,percent,Statista,,9.156,12.836,53.616,28.53,-8.397,13.944,3.338,2.195,4.741,6.344
+Taiwan,Oils & Fats,1517,Revenue Change,Butter,percent,Statista,,14.248,13.456,55.736,12.311,-7.735,14.854,4.093,2.937,4.016,5.918
+Taiwan,Oils & Fats,1517,Revenue Change,Edible Oils,percent,Statista,,8.197,7.754,52.192,19.565,-10.455,11.371,0.912,-0.271,2.717,4.277
+Taiwan,Oils & Fats,1517,Revenue Change,Margarine,percent,Statista,,8.199,14.286,52.483,33.442,-7.974,14.5,3.784,2.641,5.364,6.846
+Taiwan,Oils & Fats,1517,Revenue Change,Other Oils & Fats,percent,Statista,,9.19,13.427,53.828,29.939,-8.25,14.194,3.543,2.336,4.989,6.471
+Taiwan,Oils & Fats,1517,Average Revenue per User by Segment,Total,USD (US$),Statista,28.72,21.66,18.91,23.36,24.5,22.32,22.34,20.77,19.31,18.96,18.96
+Taiwan,Oils & Fats,1517,Average Revenue per User by Segment,Butter,USD (US$),Statista,1.316,1.039,0.912,1.142,1.047,0.961,0.969,0.908,0.85,0.829,0.826
+Taiwan,Oils & Fats,1517,Average Revenue per User by Segment,Edible Oils,USD (US$),Statista,4.044,3.022,2.52,3.084,3.008,2.68,2.621,2.381,2.16,2.079,2.039
+Taiwan,Oils & Fats,1517,Average Revenue per User by Segment,Margarine,USD (US$),Statista,3.809,2.847,2.517,3.086,3.361,3.077,3.094,2.89,2.699,2.665,2.678
+Taiwan,Oils & Fats,1517,Average Revenue per User by Segment,Other Oils & Fats,USD (US$),Statista,35.64,26.89,23.58,29.19,30.94,28.25,28.32,26.39,24.57,24.17,24.21
+Taiwan,Oils & Fats,1517,Users by Segment,Total,million users,Statista,0.321,0.464,0.6,0.746,0.914,0.919,1.046,1.163,1.278,1.364,1.45
+Taiwan,Oils & Fats,1517,Users by Segment,Butter,million users,Statista,0.256,0.371,0.48,0.597,0.731,0.735,0.837,0.93,1.022,1.091,1.16
+Taiwan,Oils & Fats,1517,Users by Segment,Edible Oils,million users,Statista,0.256,0.371,0.48,0.597,0.731,0.735,0.837,0.93,1.022,1.091,1.16
+Taiwan,Oils & Fats,1517,Users by Segment,Margarine,million users,Statista,0.256,0.371,0.48,0.597,0.731,0.735,0.837,0.93,1.022,1.091,1.16
+Taiwan,Oils & Fats,1517,Users by Segment,Other Oils & Fats,million users,Statista,0.192,0.278,0.36,0.448,0.549,0.551,0.628,0.698,0.767,0.818,0.87
+Taiwan,Oils & Fats,1517,Penetration Rate by Segment,Butter,percent,Statista,1.083,1.564,2.019,2.505,3.066,3.076,3.5,3.885,4.266,4.549,4.833
+Taiwan,Oils & Fats,1517,Penetration Rate by Segment,Edible Oils,percent,Statista,1.083,1.564,2.019,2.505,3.066,3.076,3.5,3.885,4.266,4.549,4.833
+Taiwan,Oils & Fats,1517,Penetration Rate by Segment,Margarine,percent,Statista,1.083,1.564,2.019,2.505,3.066,3.076,3.5,3.885,4.266,4.549,4.833
+Taiwan,Oils & Fats,1517,Penetration Rate by Segment,Oils & Fats,percent,Statista,1.354,1.955,2.524,3.132,3.832,3.845,4.375,4.856,5.332,5.687,6.042
+Taiwan,Oils & Fats,1517,Penetration Rate by Segment,Other Oils & Fats,percent,Statista,0.812,1.173,1.514,1.879,2.299,2.307,2.625,2.913,3.199,3.412,3.625
+Taiwan,Sauces & Spices,2103,Comparable Estimates - Food (China),*Statista,billion USD (US$),,23.71,32.5,42.06,61.99,85.79,77.5,91.56,98.11,105.2,111.8,117.8
+Taiwan,Sauces & Spices,2103,Comparable Estimates - Food (China),Common Thread Collective,billion USD (US$),,,,,,,,,,25,,
+Taiwan,Sauces & Spices,2103,Revenue,Total,million USD (US$),Statista,3.859,4.187,4.534,6.199,6.916,6.146,6.754,6.717,6.575,6.654,6.846
+Taiwan,Sauces & Spices,2103,Revenue,Spices & Culinary Herbs,million USD (US$),Statista,2.446,2.65,2.884,3.965,4.209,3.757,4.158,4.16,4.098,4.144,4.269
+Taiwan,Sauces & Spices,2103,Revenue,Tomato Ketchup,million USD (US$),Statista,0.057,0.063,0.08,0.129,0.157,0.151,0.162,0.168,0.172,0.177,0.181
+Taiwan,Sauces & Spices,2103,Revenue Change,Total,percent,Statista,,8.5,8.288,36.723,11.566,-11.134,9.893,-0.548,-2.114,1.202,2.885
+Taiwan,Sauces & Spices,2103,Revenue Change,Spices & Culinary Herbs,percent,Statista,,8.34,8.83,37.483,6.154,-10.739,10.673,0.048,-1.49,1.122,3.016
+Taiwan,Sauces & Spices,2103,Revenue Change,Tomato Ketchup,percent,Statista,,11.914,25.92,62.318,21.484,-4.198,7.769,3.389,2.801,2.551,2.148
+Taiwan,Sauces & Spices,2103,Average Revenue per User by Segment,Total,USD (US$),Statista,6.839,5.128,4.294,4.722,4.298,3.802,3.668,3.283,2.924,2.772,2.684
+Taiwan,Sauces & Spices,2103,Average Revenue per User by Segment,Spices & Culinary Herbs,USD (US$),Statista,5.42,4.056,3.414,3.775,3.27,2.904,2.822,2.542,2.278,2.158,2.091
+Taiwan,Sauces & Spices,2103,Average Revenue per User by Segment,Tomato Ketchup,USD (US$),Statista,0.167,0.129,0.126,0.164,0.163,0.155,0.147,0.137,0.128,0.123,0.118
+Taiwan,Sauces & Spices,2103,Users by Segment,Total,million users,Statista,0.564,0.817,1.056,1.313,1.609,1.617,1.842,2.046,2.249,2.4,2.551
+Taiwan,Sauces & Spices,2103,Users by Segment,Spices & Culinary Herbs,million users,Statista,0.451,0.653,0.845,1.05,1.287,1.293,1.473,1.637,1.799,1.92,2.041
+Taiwan,Sauces & Spices,2103,Users by Segment,Tomato Ketchup,million users,Statista,0.339,0.49,0.634,0.788,0.965,0.97,1.105,1.228,1.349,1.44,1.531
+Taiwan,Sauces & Spices,2103,Penetration Rate by Segment,Sauces & Spices,percent,Statista,2.383,3.441,4.442,5.512,6.745,6.768,7.7,8.546,9.384,10.007,10.631
+Taiwan,Sauces & Spices,2103,Penetration Rate by Segment,Spices & Culinary Herbs,percent,Statista,1.907,2.753,3.553,4.409,5.396,5.414,6.16,6.837,7.507,8.007,8.506
+Taiwan,Sauces & Spices,2103,Penetration Rate by Segment,Tomato Ketchup,percent,Statista,1.43,2.065,2.665,3.307,4.047,4.061,4.62,5.128,5.631,6.005,6.38
+Taiwan,Spreads & Sweeteners,2106,Comparable Estimates - Food (China),*Statista,billion USD (US$),,23.71,32.5,42.06,61.99,85.79,77.5,91.56,98.11,105.2,111.8,117.8
+Taiwan,Spreads & Sweeteners,2106,Comparable Estimates - Food (China),Common Thread Collective,billion USD (US$),,,,,,,,,,25,,
+Taiwan,Spreads & Sweeteners,2106,Revenue,Total,million USD (US$),Statista,5.636,6.355,7.485,10.51,12.52,11.75,13.68,14.56,15.29,16.22,17.53
+Taiwan,Spreads & Sweeteners,2106,Revenue,Other Spreads & Sweeteners,million USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Taiwan,Spreads & Sweeteners,2106,Revenue,Spreads,million USD (US$),Statista,3.716,4.165,4.889,6.663,8.237,7.79,9.147,9.823,10.4,11.14,12.16
+Taiwan,Spreads & Sweeteners,2106,Revenue,Sweeteners,million USD (US$),Statista,1.919,2.19,2.596,3.844,4.286,3.957,4.536,4.742,4.886,5.072,5.365
+Taiwan,Spreads & Sweeteners,2106,Revenue Change,Total,percent,Statista,,12.757,17.781,40.414,19.125,-6.15,16.426,6.433,5.014,6.082,8.076
+Taiwan,Spreads & Sweeteners,2106,Revenue Change,Other Spreads & Sweeteners,percent,Statista,,�,�,�,�,�,�,�,�,�,�
+Taiwan,Spreads & Sweeteners,2106,Revenue Change,Spreads,percent,Statista,,12.083,17.383,36.286,23.623,-5.427,17.42,7.39,5.874,7.115,9.156
+Taiwan,Spreads & Sweeteners,2106,Revenue Change,Sweeteners,percent,Statista,,14.122,18.539,48.074,11.498,-7.676,14.632,4.541,3.037,3.807,5.777
+Taiwan,Spreads & Sweeteners,2106,Average Revenue per User by Segment,Total,USD (US$),Statista,13.32,10.38,9.452,10.67,10.38,9.687,9.907,9.491,9.064,9.009,9.162
+Taiwan,Spreads & Sweeteners,2106,Average Revenue per User by Segment,Spreads,USD (US$),Statista,10.98,8.501,7.717,8.46,8.531,8.03,8.278,8.001,7.709,7.738,7.945
+Taiwan,Spreads & Sweeteners,2106,Average Revenue per User by Segment,Sweeteners,USD (US$),Statista,9.449,7.449,6.829,8.135,7.398,6.798,6.843,6.437,6.035,5.87,5.841
+Taiwan,Spreads & Sweeteners,2106,Users by Segment,Total,million users,Statista,0.423,0.612,0.792,0.985,1.207,1.213,1.381,1.535,1.687,1.8,1.913
+Taiwan,Spreads & Sweeteners,2106,Users by Segment,Spreads,million users,Statista,0.339,0.49,0.634,0.788,0.965,0.97,1.105,1.228,1.349,1.44,1.531
+Taiwan,Spreads & Sweeteners,2106,Users by Segment,Sweeteners,million users,Statista,0.203,0.294,0.38,0.473,0.579,0.582,0.663,0.737,0.81,0.864,0.918
+Taiwan,Spreads & Sweeteners,2106,Penetration Rate by Segment,Spreads,percent,Statista,1.43,2.065,2.665,3.307,4.047,4.061,4.62,5.128,5.631,6.005,6.38
+Taiwan,Spreads & Sweeteners,2106,Penetration Rate by Segment,Spreads & Sweeteners,percent,Statista,1.787,2.581,3.331,4.134,5.059,5.076,5.775,6.41,7.038,7.505,7.973
+Taiwan,Spreads & Sweeteners,2106,Penetration Rate by Segment,Sweeteners,percent,Statista,0.858,1.239,1.599,1.984,2.428,2.436,2.772,3.077,3.378,3.603,3.827
+Taiwan,Vegetables,701,Comparable Estimates - Vegetables (Worldwide),*Statista,billion USD (US$),,7.843,9.812,12.02,17.83,24.47,25.76,34.23,42.47,53.34,57.77,63.58
+Taiwan,Vegetables,701,Comparable Estimates - Vegetables (Worldwide),Common Thread Collective,billion USD (US$),,,,,,24,,,,53,,
+Taiwan,Vegetables,701,Revenue,Total,million USD (US$),Statista,61.8,70.34,77.17,124.6,150.3,137.5,156.8,162.1,165.8,172.8,183
+Taiwan,Vegetables,701,Revenue,Fresh Vegetables,million USD (US$),Statista,59.6,68.02,74.54,120.5,144.7,132.5,151,156.1,159.7,166.4,176.1
+Taiwan,Vegetables,701,Revenue,Processed & Frozen Vegetables,million USD (US$),Statista,2.201,2.318,2.638,4.112,5.557,5.084,5.793,5.986,6.12,6.438,6.863
+Taiwan,Vegetables,701,Revenue Change,Total,percent,Statista,,13.819,9.71,61.462,20.626,-8.516,14.036,3.38,2.283,4.222,5.903
+Taiwan,Vegetables,701,Revenue Change,Fresh Vegetables,percent,Statista,,14.128,9.585,61.658,20.083,-8.431,13.962,3.377,2.306,4.195,5.829
+Taiwan,Vegetables,701,Revenue Change,Processed & Frozen Vegetables,percent,Statista,,5.316,13.805,55.876,35.141,-8.512,13.946,3.332,2.239,5.196,6.601
+Taiwan,Vegetables,701,Average Revenue per User by Segment,Total,USD (US$),Statista,98.36,77.36,65.63,85.22,83.86,76.4,76.46,71.14,66.2,64.65,64.41
+Taiwan,Vegetables,701,Average Revenue per User by Segment,Fresh Vegetables,USD (US$),Statista,253.5,269.3,263.6,390.1,415.4,342.2,355.8,342.1,326.9,102.1,103.1
+Taiwan,Vegetables,701,Average Revenue per User by Segment,Processed & Frozen Vegetables,USD (US$),Statista,7.005,5.099,4.487,5.626,6.202,5.648,5.65,5.254,4.887,4.816,4.83
+Taiwan,Vegetables,701,Users by Segment,Total,million users,Statista,0.628,0.909,1.176,1.462,1.792,1.8,2.051,2.279,2.504,2.673,2.841
+Taiwan,Vegetables,701,Users by Segment,Fresh Vegetables,million users,Statista,0.235,0.253,0.283,0.309,0.348,0.387,0.424,0.456,0.489,1.629,1.709
+Taiwan,Vegetables,701,Users by Segment,Processed & Frozen Vegetables,million users,Statista,0.314,0.455,0.588,0.731,0.896,0.9,1.025,1.139,1.252,1.337,1.421
+Taiwan,Vegetables,701,Penetration Rate by Segment,Fresh Vegetables,percent,Statista,0.993,1.065,1.189,1.297,1.46,1.62,1.775,1.906,2.038,6.793,7.122
+Taiwan,Vegetables,701,Penetration Rate by Segment,Processed & Frozen Vegetables,percent,Statista,1.327,1.916,2.473,3.069,3.756,3.768,4.287,4.759,5.225,5.573,5.921
+Taiwan,Vegetables,701,Penetration Rate by Segment,Vegetables,percent,Statista,2.654,3.833,4.946,6.138,7.512,7.537,8.575,9.517,10.451,11.144,11.839
+Taiwan,Furniture,9403,Revenue,Total,million USD (US$),Statista,782,850.2,969.8,"1,465","1,509","1,342","1,863","2,214","2,608","2,791","3,101"
+Taiwan,Furniture,9403,Revenue,Bedroom Furniture,million USD (US$),Statista,151.3,164.5,188.9,273.6,277.8,246.1,340.6,403.6,474.1,506.1,561.4
+Taiwan,Furniture,9403,Revenue,Floor Covering,million USD (US$),Statista,61.7,67.56,77.35,116.3,119.5,106.9,149.3,178.4,211.4,226.5,252.1
+Taiwan,Furniture,9403,Revenue,Kitchen Furniture,million USD (US$),Statista,126,137.5,156.6,236.7,242.6,215.6,298.8,354.5,416.9,445.3,494
+Taiwan,Furniture,9403,Revenue,Lamps & Lighting,million USD (US$),Statista,160.3,175,200.2,302.7,311.5,280,393.1,472.2,562.3,602.2,670.8
+Taiwan,Furniture,9403,Revenue,Living-Room & Dining-Room Furniture,million USD (US$),Statista,150.8,162.2,183,288,302.5,266.3,366.3,431,502.7,538.6,598.2
+Taiwan,Furniture,9403,Revenue,Other Furniture,million USD (US$),Statista,124.9,135.9,155.1,234.8,242.2,215.4,299.3,355.7,419.3,449,499.2
+Taiwan,Furniture,9403,Revenue,Plastic & Other Furniture,million USD (US$),Statista,7.029,7.611,8.631,12.73,12.87,11.33,15.59,18.36,21.45,22.88,25.35
+Taiwan,Furniture,9403,Revenue Change,Total,percent,Statista,,8.721,14.067,51.062,3.003,-11.067,38.823,18.841,17.796,7.017,11.107
+Taiwan,Furniture,9403,Revenue Change,Bedroom Furniture,percent,Statista,,8.724,14.833,44.839,1.535,-11.411,38.399,18.497,17.468,6.75,10.927
+Taiwan,Furniture,9403,Revenue Change,Floor Covering,percent,Statista,,9.498,14.491,50.356,2.752,-10.544,39.663,19.491,18.498,7.143,11.302
+Taiwan,Furniture,9403,Revenue Change,Kitchen Furniture,percent,Statista,,9.127,13.891,51.149,2.493,-11.129,38.59,18.641,17.602,6.812,10.936
+Taiwan,Furniture,9403,Revenue Change,Lamps & Lighting,percent,Statista,,9.17,14.4,51.199,2.907,-10.112,40.393,20.122,19.081,7.096,11.392
+Taiwan,Furniture,9403,Revenue Change,Living-Room & Dining-Room Furniture,percent,Statista,,7.56,12.824,57.377,5.035,-11.967,37.552,17.663,16.636,7.141,11.066
+Taiwan,Furniture,9403,Revenue Change,Other Furniture,percent,Statista,,8.807,14.128,51.386,3.152,-11.065,38.951,18.844,17.88,7.083,11.18
+Taiwan,Furniture,9403,Revenue Change,Plastic & Other Furniture,percent,Statista,,8.28,13.402,47.492,1.1,-11.966,37.599,17.768,16.83,6.667,10.795
+Taiwan,Furniture,9403,Average Revenue per User,Total,USD (US$),Statista,721.9,418.7,323.7,368.3,291.2,248.7,299.3,316.3,335.8,333,345.1
+Taiwan,Furniture,9403,Average Revenue per User,Bedroom Furniture,USD (US$),Statista,332.5,192.8,150.1,163.8,127.7,108.6,130.3,137.3,145.3,143.8,148.8
+Taiwan,Furniture,9403,Average Revenue per User,Floor Covering,USD (US$),Statista,316.4,184.8,143.4,162.5,128.1,110.1,133.3,141.6,151.3,150.1,155.8
+Taiwan,Furniture,9403,Average Revenue per User,Kitchen Furniture,USD (US$),Statista,387.9,225.6,174.2,198.4,156.1,133.2,160,168.8,178.9,177.1,183.3
+Taiwan,Furniture,9403,Average Revenue per User,Lamps & Lighting,USD (US$),Statista,336.4,195.8,151.8,172.9,136.6,118,143.5,153.4,164.6,163.3,169.7
+Taiwan,Furniture,9403,Average Revenue per User,Living-Room & Dining-Room Furniture,USD (US$),Statista,397.6,228.3,174.5,206.9,166.8,141.1,168.1,175.9,184.9,183.6,190.2
+Taiwan,Furniture,9403,Average Revenue per User,Other Furniture,USD (US$),Statista,397.5,230.8,178.5,203.5,161.1,137.7,165.8,175.3,186.2,184.7,191.6
+Taiwan,Furniture,9403,Average Revenue per User,Plastic & Other Furniture,USD (US$),Statista,28.22,16.29,12.53,13.92,10.8,9.132,10.89,11.4,12.01,11.87,12.26
+Taiwan,Furniture,9403,Comparable Estimates - Furniture (Worldwide),*Statista,billion USD (US$),,335.3,337.3,347.1,396.5,443.8,389.2,530.7,604.4,686.3,721.8,768.3
+Taiwan,Furniture,9403,Comparable Estimates - Furniture (Worldwide),Million Insights,billion USD (US$),,,,,33.08,33.77,,,,,,
+Taiwan,Furniture,9403,Comparable Estimates - Furniture (Worldwide),The BRC,billion USD (US$),,,,,,634.5,692.8,,,,939.6,
+Taiwan,Furniture,9403,Users,Total,million users,Statista,1.083,2.031,2.996,3.978,5.182,5.394,6.224,6.998,7.766,8.381,8.985
+Taiwan,Furniture,9403,Users,Bedroom Furniture,million users,Statista,0.455,0.853,1.258,1.671,2.177,2.266,2.614,2.939,3.262,3.52,3.773
+Taiwan,Furniture,9403,Users,Floor Covering,million users,Statista,0.195,0.366,0.539,0.716,0.933,0.971,1.12,1.26,1.398,1.509,1.618
+Taiwan,Furniture,9403,Users,Kitchen Furniture,million users,Statista,0.325,0.609,0.899,1.193,1.555,1.618,1.867,2.1,2.33,2.514,2.696
+Taiwan,Furniture,9403,Users,Lamps & Lighting,million users,Statista,0.477,0.894,1.318,1.75,2.28,2.373,2.739,3.079,3.417,3.688,3.953
+Taiwan,Furniture,9403,Users,Living-Room & Dining-Room Furniture,million users,Statista,0.379,0.711,1.049,1.392,1.814,1.888,2.178,2.449,2.718,2.933,3.145
+Taiwan,Furniture,9403,Users,Other Furniture,million users,Statista,0.314,0.589,0.869,1.154,1.503,1.564,1.805,2.03,2.252,2.431,2.606
+Taiwan,Furniture,9403,Users,Plastic & Other Furniture,million users,Statista,0.249,0.467,0.689,0.915,1.192,1.241,1.432,1.61,1.786,1.928,2.067
+Taiwan,Furniture,9403,Penetration Rate,Bedroom Furniture,percent,Statista,1.922,3.595,5.293,7.015,9.124,9.484,10.93,12.276,13.611,14.677,15.724
+Taiwan,Furniture,9403,Penetration Rate,Floor Covering,percent,Statista,0.824,1.541,2.268,3.006,3.91,4.064,4.684,5.261,5.833,6.291,6.741
+Taiwan,Furniture,9403,Penetration Rate,Furniture,percent,Statista,4.575,8.559,12.602,16.702,21.724,22.581,26.023,29.229,32.407,34.945,37.44
+Taiwan,Furniture,9403,Penetration Rate,Kitchen Furniture,percent,Statista,1.373,2.568,3.781,5.011,6.517,6.774,7.807,8.769,9.722,10.484,11.232
+Taiwan,Furniture,9403,Penetration Rate,Lamps & Lighting,percent,Statista,2.013,3.766,5.545,7.349,9.558,9.935,11.45,12.861,14.259,15.375,16.473
+Taiwan,Furniture,9403,Penetration Rate,Living-Room & Dining-Room Furniture,percent,Statista,1.601,2.996,4.411,5.846,7.603,7.903,9.108,10.23,11.342,12.231,13.104
+Taiwan,Furniture,9403,Penetration Rate,Other Furniture,percent,Statista,1.327,2.482,3.655,4.844,6.3,6.548,7.547,8.476,9.398,10.134,10.858
+Taiwan,Furniture,9403,Penetration Rate,Plastic & Other Furniture,percent,Statista,1.052,1.969,2.898,3.841,4.996,5.194,5.985,6.723,7.454,8.039,8.614
+Taiwan,Bedroom Furniture,9403,Comparable Estimates - Furniture (Worldwide),*Statista,billion USD (US$),,335.3,337.3,347.1,396.5,443.8,389.2,530.7,604.4,686.3,721.8,768.3
+Taiwan,Bedroom Furniture,9403,Comparable Estimates - Furniture (Worldwide),Million Insights,billion USD (US$),,,,,33.08,33.77,,,,,,
+Taiwan,Bedroom Furniture,9403,Comparable Estimates - Furniture (Worldwide),The BRC,billion USD (US$),,,,,,634.5,692.8,,,,939.6,
+Taiwan,Bedroom Furniture,9403,Revenue,Total,million USD (US$),Statista,151.3,164.5,188.9,273.6,277.8,246.1,340.6,403.6,474.1,506.1,561.4
+Taiwan,Bedroom Furniture,9403,Revenue,Beds,million USD (US$),Statista,56.37,62.27,71.76,104.8,103.2,91.17,125.7,148.3,173.5,185,205
+Taiwan,Bedroom Furniture,9403,Revenue,"Closets, Nightstands & Dressers",million USD (US$),Statista,26.14,27.4,31.19,45.27,47.87,42.4,58.7,69.57,81.75,87.35,96.95
+Taiwan,Bedroom Furniture,9403,Revenue,Mattresses,million USD (US$),Statista,30.91,33.65,38.69,55.06,57.19,50.94,71.01,84.7,100.2,107.1,119
+Taiwan,Bedroom Furniture,9403,Revenue,Other Bedroom Furniture,million USD (US$),Statista,37.86,41.16,47.28,68.47,69.53,61.59,85.25,101,118.7,126.7,140.5
+Taiwan,Bedroom Furniture,9403,Revenue Change,Total,percent,Statista,,8.724,14.833,44.839,1.535,-11.411,38.399,18.497,17.468,6.75,10.927
+Taiwan,Bedroom Furniture,9403,Revenue Change,Beds,percent,Statista,,10.467,15.24,46.042,-1.527,-11.657,37.874,17.979,16.993,6.628,10.811
+Taiwan,Bedroom Furniture,9403,Revenue Change,"Closets, Nightstands & Dressers",percent,Statista,,4.82,13.832,45.143,5.743,-11.427,38.443,18.518,17.508,6.85,10.99
+Taiwan,Bedroom Furniture,9403,Revenue Change,Mattresses,percent,Statista,,8.864,14.978,42.311,3.869,-10.928,39.399,19.279,18.3,6.886,11.111
+Taiwan,Bedroom Furniture,9403,Revenue Change,Other Bedroom Furniture,percent,Statista,,8.716,14.869,44.818,1.548,-11.42,38.415,18.475,17.525,6.74,10.892
+Taiwan,Bedroom Furniture,9403,Average Revenue per User by Segment,Total,USD (US$),Statista,332.5,192.8,150.1,163.8,127.7,108.6,130.3,137.3,145.3,143.8,148.8
+Taiwan,Bedroom Furniture,9403,Average Revenue per User by Segment,Beds,USD (US$),Statista,184.9,109,85.12,93.62,70.8,60.06,71.76,75.3,79.4,78.45,81.07
+Taiwan,Bedroom Furniture,9403,Average Revenue per User by Segment,"Closets, Nightstands & Dressers",USD (US$),Statista,91.19,50.99,39.35,43.01,34.91,29.71,35.65,37.57,39.78,39.39,40.78
+Taiwan,Bedroom Furniture,9403,Average Revenue per User by Segment,Mattresses,USD (US$),Statista,158,91.74,71.5,76.64,61.11,52.29,63.17,67.01,71.42,70.73,73.31
+Taiwan,Bedroom Furniture,9403,Average Revenue per User by Segment,Other Bedroom Furniture,USD (US$),Statista,237.8,137.9,107.4,117.1,91.28,77.67,93.17,98.17,103.9,102.8,106.4
+Taiwan,Bedroom Furniture,9403,Users by Segment,Total,million users,Statista,0.455,0.853,1.258,1.671,2.177,2.266,2.614,2.939,3.262,3.52,3.773
+Taiwan,Bedroom Furniture,9403,Users by Segment,Beds,million users,Statista,0.305,0.571,0.843,1.119,1.458,1.518,1.751,1.969,2.185,2.358,2.528
+Taiwan,Bedroom Furniture,9403,Users by Segment,"Closets, Nightstands & Dressers",million users,Statista,0.287,0.537,0.793,1.053,1.371,1.427,1.647,1.852,2.055,2.218,2.377
+Taiwan,Bedroom Furniture,9403,Users by Segment,Mattresses,million users,Statista,0.196,0.367,0.541,0.718,0.936,0.974,1.124,1.264,1.403,1.514,1.623
+Taiwan,Bedroom Furniture,9403,Users by Segment,Other Bedroom Furniture,million users,Statista,0.159,0.299,0.44,0.585,0.762,0.793,0.915,1.029,1.142,1.232,1.321
+Taiwan,Bedroom Furniture,9403,Penetration Rate by Segment,Bedroom Furniture,percent,Statista,1.922,3.595,5.293,7.015,9.124,9.484,10.93,12.276,13.611,14.677,15.724
+Taiwan,Bedroom Furniture,9403,Penetration Rate by Segment,Beds,percent,Statista,1.288,2.409,3.546,4.7,6.113,6.354,7.323,8.225,9.119,9.834,10.536
+Taiwan,Bedroom Furniture,9403,Penetration Rate by Segment,"Closets, Nightstands & Dressers",percent,Statista,1.211,2.265,3.334,4.419,5.748,5.975,6.886,7.734,8.575,9.247,9.907
+Taiwan,Bedroom Furniture,9403,Penetration Rate by Segment,Mattresses,percent,Statista,0.826,1.546,2.276,3.016,3.923,4.078,4.7,5.279,5.853,6.312,6.763
+Taiwan,Bedroom Furniture,9403,Penetration Rate by Segment,Other Bedroom Furniture,percent,Statista,0.673,1.258,1.852,2.455,3.193,3.319,3.825,4.297,4.764,5.137,5.504
+Taiwan,Floor Covering,5603,Comparable Estimates - Furniture (Worldwide),*Statista,billion USD (US$),,335.3,337.3,347.1,396.5,443.8,389.2,530.7,604.4,686.3,721.8,768.3
+Taiwan,Floor Covering,5603,Comparable Estimates - Furniture (Worldwide),Million Insights,billion USD (US$),,,,,33.08,33.77,,,,,,
+Taiwan,Floor Covering,5603,Comparable Estimates - Furniture (Worldwide),The BRC,billion USD (US$),,,,,,634.5,692.8,,,,939.6,
+Taiwan,Floor Covering,5603,Revenue,Total,million USD (US$),Statista,61.7,67.56,77.35,116.3,119.5,106.9,149.3,178.4,211.4,226.5,252.1
+Taiwan,Floor Covering,5603,Revenue Change,Total,percent,Statista,,9.498,14.491,50.356,2.752,-10.544,39.663,19.491,18.498,7.143,11.302
+Taiwan,Floor Covering,5603,Average Revenue per User by Segment,Total,USD (US$),Statista,316.4,184.8,143.4,162.5,128.1,110.1,133.3,141.6,151.3,150.1,155.8
+Taiwan,Floor Covering,5603,Users by Segment,Total,million users,Statista,0.195,0.366,0.539,0.716,0.933,0.971,1.12,1.26,1.398,1.509,1.618
+Taiwan,Floor Covering,5603,Penetration Rate by Segment,Floor Covering,percent,Statista,0.824,1.541,2.268,3.006,3.91,4.064,4.684,5.261,5.833,6.291,6.741
+Taiwan,Kitchen Furniture,9403,Comparable Estimates - Furniture (Worldwide),*Statista,billion USD (US$),,335.3,337.3,347.1,396.5,443.8,389.2,530.7,604.4,686.3,721.8,768.3
+Taiwan,Kitchen Furniture,9403,Comparable Estimates - Furniture (Worldwide),Million Insights,billion USD (US$),,,,,33.08,33.77,,,,,,
+Taiwan,Kitchen Furniture,9403,Comparable Estimates - Furniture (Worldwide),The BRC,billion USD (US$),,,,,,634.5,692.8,,,,939.6,
+Taiwan,Kitchen Furniture,9403,Revenue,Total,million USD (US$),Statista,126,137.5,156.6,236.7,242.6,215.6,298.8,354.5,416.9,445.3,494
+Taiwan,Kitchen Furniture,9403,Revenue Change,Total,percent,Statista,,9.127,13.891,51.149,2.493,-11.129,38.59,18.641,17.602,6.812,10.936
+Taiwan,Kitchen Furniture,9403,Average Revenue per User by Segment,Total,USD (US$),Statista,387.9,225.6,174.2,198.4,156.1,133.2,160,168.8,178.9,177.1,183.3
+Taiwan,Kitchen Furniture,9403,Users by Segment,Total,million users,Statista,0.325,0.609,0.899,1.193,1.555,1.618,1.867,2.1,2.33,2.514,2.696
+Taiwan,Kitchen Furniture,9403,Penetration Rate by Segment,Kitchen Furniture,percent,Statista,1.373,2.568,3.781,5.011,6.517,6.774,7.807,8.769,9.722,10.484,11.232
+Taiwan,Lamps & Lighting,9405,Comparable Estimates - Furniture (Worldwide),*Statista,billion USD (US$),,335.3,337.3,347.1,396.5,443.8,389.2,530.7,604.4,686.3,721.8,768.3
+Taiwan,Lamps & Lighting,9405,Comparable Estimates - Furniture (Worldwide),Million Insights,billion USD (US$),,,,,33.08,33.77,,,,,,
+Taiwan,Lamps & Lighting,9405,Comparable Estimates - Furniture (Worldwide),The BRC,billion USD (US$),,,,,,634.5,692.8,,,,939.6,
+Taiwan,Lamps & Lighting,9405,Revenue,Total,billion USD (US$),Statista,0.16,0.175,0.2,0.303,0.311,0.28,0.393,0.472,0.562,0.602,0.671
+Taiwan,Lamps & Lighting,9405,Revenue Change,Total,percent,Statista,,9.17,14.4,51.199,2.907,-10.112,40.393,20.122,19.081,7.096,11.392
+Taiwan,Lamps & Lighting,9405,Average Revenue per User by Segment,Total,USD (US$),Statista,336.4,195.8,151.8,172.9,136.6,118,143.5,153.4,164.6,163.3,169.7
+Taiwan,Lamps & Lighting,9405,Users by Segment,Total,million users,Statista,0.477,0.894,1.318,1.75,2.28,2.373,2.739,3.079,3.417,3.688,3.953
+Taiwan,Lamps & Lighting,9405,Penetration Rate by Segment,Lamps & Lighting,percent,Statista,2.013,3.766,5.545,7.349,9.558,9.935,11.45,12.861,14.259,15.375,16.473
+Taiwan,Living-Room & Dining-Room Furniture,9403,Comparable Estimates - Furniture (Worldwide),*Statista,billion USD (US$),,335.3,337.3,347.1,396.5,443.8,389.2,530.7,604.4,686.3,721.8,768.3
+Taiwan,Living-Room & Dining-Room Furniture,9403,Comparable Estimates - Furniture (Worldwide),Million Insights,billion USD (US$),,,,,33.08,33.77,,,,,,
+Taiwan,Living-Room & Dining-Room Furniture,9403,Comparable Estimates - Furniture (Worldwide),The BRC,billion USD (US$),,,,,,634.5,692.8,,,,939.6,
+Taiwan,Living-Room & Dining-Room Furniture,9403,Revenue,Total,million USD (US$),Statista,150.8,162.2,183,288,302.5,266.3,366.3,431,502.7,538.6,598.2
+Taiwan,Living-Room & Dining-Room Furniture,9403,Revenue,Living & Dining Room,million USD (US$),Statista,46.62,52.8,59.2,88.21,91.06,79.39,108.2,126.3,146.1,156.1,172.7
+Taiwan,Living-Room & Dining-Room Furniture,9403,Revenue,Other Living-Room & Dining-Room Furniture,million USD (US$),Statista,15.09,16.25,18.32,28.84,30.29,26.67,36.67,43.15,50.33,53.93,59.89
+Taiwan,Living-Room & Dining-Room Furniture,9403,Revenue,Seats & Sofas,million USD (US$),Statista,89.04,93.2,105.5,171,181.1,160.3,221.4,261.5,306.2,328.7,365.6
+Taiwan,Living-Room & Dining-Room Furniture,9403,Revenue Change,Total,percent,Statista,,7.56,12.824,57.377,5.035,-11.967,37.552,17.663,16.636,7.141,11.066
+Taiwan,Living-Room & Dining-Room Furniture,9403,Revenue Change,Living & Dining Room,percent,Statista,,13.256,12.121,49.003,3.231,-12.816,36.289,16.728,15.677,6.845,10.634
+Taiwan,Living-Room & Dining-Room Furniture,9403,Revenue Change,Other Living-Room & Dining-Room Furniture,percent,Statista,,7.687,12.738,57.424,5.028,-11.951,37.495,17.671,16.64,7.153,11.051
+Taiwan,Living-Room & Dining-Room Furniture,9403,Revenue Change,Seats & Sofas,percent,Statista,,4.672,13.197,62.085,5.906,-11.485,38.116,18.112,17.094,7.348,11.226
+Taiwan,Living-Room & Dining-Room Furniture,9403,Average Revenue per User by Segment,Total,USD (US$),Statista,397.6,228.3,174.5,206.9,166.8,141.1,168.1,175.9,184.9,183.6,190.2
+Taiwan,Living-Room & Dining-Room Furniture,9403,Average Revenue per User by Segment,Living & Dining Room,USD (US$),Statista,168.4,101.8,77.34,86.8,68.78,57.61,68.07,70.63,73.63,72.88,75.24
+Taiwan,Living-Room & Dining-Room Furniture,9403,Average Revenue per User by Segment,Other Living-Room & Dining-Room Furniture,USD (US$),Statista,199.1,114.3,87.38,103.6,83.49,70.62,84.17,88.08,92.58,91.92,95.21
+Taiwan,Living-Room & Dining-Room Furniture,9403,Average Revenue per User by Segment,Seats & Sofas,USD (US$),Statista,335.5,187.3,143.7,175.4,142.7,121.3,145.2,152.5,160.9,160.1,166.1
+Taiwan,Living-Room & Dining-Room Furniture,9403,Users by Segment,Total,million users,Statista,0.379,0.711,1.049,1.392,1.814,1.888,2.178,2.449,2.718,2.933,3.145
+Taiwan,Living-Room & Dining-Room Furniture,9403,Users by Segment,Living & Dining Room,million users,Statista,0.277,0.519,0.765,1.016,1.324,1.378,1.59,1.788,1.984,2.141,2.296
+Taiwan,Living-Room & Dining-Room Furniture,9403,Users by Segment,Other Living-Room & Dining-Room Furniture,million users,Statista,0.076,0.142,0.21,0.278,0.363,0.378,0.436,0.49,0.544,0.587,0.629
+Taiwan,Living-Room & Dining-Room Furniture,9403,Users by Segment,Seats & Sofas,million users,Statista,0.265,0.498,0.734,0.975,1.27,1.322,1.525,1.715,1.903,2.053,2.201
+Taiwan,Living-Room & Dining-Room Furniture,9403,Penetration Rate by Segment,Living & Dining Room,percent,Statista,1.169,2.187,3.22,4.267,5.55,5.769,6.649,7.468,8.28,8.929,9.566
+Taiwan,Living-Room & Dining-Room Furniture,9403,Penetration Rate by Segment,Living-Room & Dining-Room Furniture,percent,Statista,1.601,2.996,4.411,5.846,7.603,7.903,9.108,10.23,11.342,12.231,13.104
+Taiwan,Living-Room & Dining-Room Furniture,9403,Penetration Rate by Segment,Other Living-Room & Dining-Room Furniture,percent,Statista,0.32,0.599,0.882,1.169,1.521,1.581,1.822,2.046,2.268,2.446,2.621
+Taiwan,Living-Room & Dining-Room Furniture,9403,Penetration Rate by Segment,Seats & Sofas,percent,Statista,1.121,2.097,3.087,4.092,5.322,5.532,6.376,7.161,7.94,8.562,9.173
+Taiwan,Plastic & Other Furniture,9403,Comparable Estimates - Furniture (Worldwide),*Statista,billion USD (US$),,335.3,337.3,347.1,396.5,443.8,389.2,530.7,604.4,686.3,721.8,768.3
+Taiwan,Plastic & Other Furniture,9403,Comparable Estimates - Furniture (Worldwide),Million Insights,billion USD (US$),,,,,33.08,33.77,,,,,,
+Taiwan,Plastic & Other Furniture,9403,Comparable Estimates - Furniture (Worldwide),The BRC,billion USD (US$),,,,,,634.5,692.8,,,,939.6,
+Taiwan,Plastic & Other Furniture,9403,Revenue,Total,million USD (US$),Statista,7.029,7.611,8.631,12.73,12.87,11.33,15.59,18.36,21.45,22.88,25.35
+Taiwan,Plastic & Other Furniture,9403,Revenue Change,Total,percent,Statista,,8.28,13.402,47.492,1.1,-11.966,37.599,17.768,16.83,6.667,10.795
+Taiwan,Plastic & Other Furniture,9403,Average Revenue per User by Segment,Total,USD (US$),Statista,28.22,16.29,12.53,13.92,10.8,9.132,10.89,11.4,12.01,11.87,12.26
+Taiwan,Plastic & Other Furniture,9403,Users by Segment,Total,million users,Statista,0.249,0.467,0.689,0.915,1.192,1.241,1.432,1.61,1.786,1.928,2.067
+Taiwan,Plastic & Other Furniture,9403,Penetration Rate by Segment,Plastic & Other Furniture,percent,Statista,1.052,1.969,2.898,3.841,4.996,5.194,5.985,6.723,7.454,8.039,8.614
+Taiwan,Beverages,2202,Comparable Estimates - Beverages (China),*Statista,billion USD (US$),,27.06,36.98,47.8,63.46,83.64,74.06,85.73,89.89,94.22,100.7,106.3
+Taiwan,Beverages,2202,Comparable Estimates - Beverages (China),Common Thread Collective,billion USD (US$),,,,,,,,,,16,,
+Taiwan,Beverages,2202,Revenue,Total,million USD (US$),Statista,103.5,117.4,145.3,209.9,252.5,275,368.7,455.1,554.2,601.4,677.3
+Taiwan,Beverages,2202,Revenue,Alcoholic Drinks,million USD (US$),Statista,39.51,42.77,47.97,68.18,81.16,85.19,113.9,141.5,173.4,187.3,210.6
+Taiwan,Beverages,2202,Revenue,Hot Drinks,million USD (US$),Statista,25.47,28.74,36.2,53.67,66.57,71.24,92.76,110.1,129.9,140.6,157.1
+Taiwan,Beverages,2202,Revenue,Non-Alcoholic Drinks,million USD (US$),Statista,38.56,45.89,61.15,88.07,104.8,118.6,162,203.5,250.8,273.5,309.6
+Taiwan,Beverages,2202,Revenue,Other Beverages,million USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Taiwan,Beverages,2202,Revenue Change,Total,percent,Statista,,13.43,23.765,44.46,20.295,8.911,34.073,23.434,21.775,8.517,12.621
+Taiwan,Beverages,2202,Revenue Change,Alcoholic Drinks,percent,Statista,,8.251,12.158,42.13,19.038,4.966,33.701,24.232,22.544,8.016,12.44
+Taiwan,Beverages,2202,Revenue Change,Hot Drinks,percent,Statista,,12.839,25.957,48.26,24.036,7.015,30.208,18.693,17.984,8.237,11.735
+Taiwan,Beverages,2202,Revenue Change,Non-Alcoholic Drinks,percent,Statista,,19.009,33.253,44.023,18.996,13.168,36.594,25.617,23.243,9.051,13.199
+Taiwan,Beverages,2202,Revenue Change,Other Beverages,percent,Statista,,�,�,�,�,�,�,�,�,�,�
+Taiwan,Beverages,2202,Average Revenue per User by Segment,Total,USD (US$),Statista,75.93,59.49,56.94,66.16,64.92,70.38,82.82,92.01,102,103.7,109.8
+Taiwan,Beverages,2202,Average Revenue per User by Segment,Alcoholic Drinks,USD (US$),Statista,41.99,31.41,27.24,31.14,30.24,31.6,37.09,41.46,46.24,46.79,49.49
+Taiwan,Beverages,2202,Average Revenue per User by Segment,Hot Drinks,USD (US$),Statista,24.9,19.42,18.91,22.55,22.82,24.31,27.79,29.68,31.87,32.31,33.98
+Taiwan,Beverages,2202,Average Revenue per User by Segment,Non-Alcoholic Drinks,USD (US$),Statista,34.07,28.02,28.87,33.44,32.46,36.56,43.85,49.58,55.59,56.81,60.49
+Taiwan,Beverages,2202,Average Revenue per User by Segment,Other Beverages,USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Taiwan,Beverages,2202,Users by Segment,Total,million users,Statista,1.364,1.974,2.552,3.173,3.889,3.908,4.451,4.946,5.436,5.801,6.166
+Taiwan,Beverages,2202,Users by Segment,Alcoholic Drinks,million users,Statista,0.941,1.362,1.761,2.189,2.683,2.696,3.071,3.413,3.751,4.003,4.255
+Taiwan,Beverages,2202,Users by Segment,Hot Drinks,million users,Statista,1.023,1.48,1.914,2.38,2.917,2.931,3.338,3.709,4.077,4.351,4.624
+Taiwan,Beverages,2202,Users by Segment,Non-Alcoholic Drinks,million users,Statista,1.132,1.638,2.118,2.633,3.228,3.243,3.694,4.105,4.512,4.815,5.118
+Taiwan,Beverages,2202,Users by Segment,Other Beverages,million users,Statista,0.068,0.099,0.128,0.159,0.194,0.195,0.223,0.247,0.272,0.29,0.309
+Taiwan,Beverages,2202,Penetration Rate by Segment,Alcoholic Drinks,percent,Statista,3.975,5.739,7.407,9.192,11.249,11.287,12.841,14.253,15.65,16.689,17.729
+Taiwan,Beverages,2202,Penetration Rate by Segment,Beverages,percent,Statista,5.76,8.318,10.735,13.322,16.303,16.358,18.61,20.656,22.682,24.188,25.696
+Taiwan,Beverages,2202,Penetration Rate by Segment,Hot Drinks,percent,Statista,4.32,6.239,8.052,9.991,12.227,12.268,13.958,15.492,17.011,18.14,19.27
+Taiwan,Beverages,2202,Penetration Rate by Segment,Non-Alcoholic Drinks,percent,Statista,4.781,6.904,8.91,11.057,13.532,13.577,15.446,17.145,18.826,20.076,21.328
+Taiwan,Beverages,2202,Penetration Rate by Segment,Other Beverages,percent,Statista,0.288,0.416,0.537,0.666,0.815,0.818,0.931,1.033,1.134,1.21,1.286
+Taiwan,Alcoholic Drinks,2208,Comparable Estimates - Alcoholic Drinks (Worldwide),*Statista,billion USD (US$),,32.67,41.21,50.77,69.15,92.97,86.6,101.5,109.6,118.6,125.9,133
+Taiwan,Alcoholic Drinks,2208,Comparable Estimates - Alcoholic Drinks (Worldwide),Common Thread Collective,billion USD (US$),,,,,,93,,,,123,,
+Taiwan,Alcoholic Drinks,2208,Revenue,Total,million USD (US$),Statista,39.51,42.77,47.97,68.18,81.16,85.19,113.9,141.5,173.4,187.3,210.6
+Taiwan,Alcoholic Drinks,2208,Revenue,Beer,million USD (US$),Statista,19.55,20.76,23.43,33.33,40.62,43.01,58,72.47,89.23,96.5,108.7
+Taiwan,Alcoholic Drinks,2208,Revenue,"Cider, Perry & Rice Wine",million USD (US$),Statista,0.001,0.002,0.002,0.003,0.003,0.003,0.005,0.006,0.007,0.007,0.008
+Taiwan,Alcoholic Drinks,2208,Revenue,Other Alcoholic Drinks,million USD (US$),Statista,0.86,0.931,1.044,1.484,1.767,1.855,2.48,3.08,3.775,4.077,4.584
+Taiwan,Alcoholic Drinks,2208,Revenue,Spirits,million USD (US$),Statista,8.071,8.192,8.816,12.63,16.24,16.56,21.73,26.8,32.75,35.31,39.63
+Taiwan,Alcoholic Drinks,2208,Revenue,Wine,million USD (US$),Statista,11.04,12.89,14.68,20.73,22.54,23.77,31.69,39.13,47.66,51.4,57.69
+Taiwan,Alcoholic Drinks,2208,Revenue Change,Total,percent,Statista,,8.251,12.158,42.13,19.038,4.966,33.701,24.232,22.544,8.016,12.44
+Taiwan,Alcoholic Drinks,2208,Revenue Change,Beer,percent,Statista,,6.189,12.861,42.254,21.872,5.884,34.852,24.948,23.127,8.147,12.642
+Taiwan,Alcoholic Drinks,2208,Revenue Change,"Cider, Perry & Rice Wine",percent,Statista,,19.016,12.578,50.277,16.611,-0.517,31.9,22.872,21.678,7.642,12.009
+Taiwan,Alcoholic Drinks,2208,Revenue Change,Other Alcoholic Drinks,percent,Statista,,8.242,12.125,42.146,19.07,4.98,33.693,24.194,22.565,8,12.436
+Taiwan,Alcoholic Drinks,2208,Revenue Change,Spirits,percent,Statista,,1.499,7.617,43.262,28.583,1.97,31.22,23.332,22.201,7.817,12.234
+Taiwan,Alcoholic Drinks,2208,Revenue Change,Wine,percent,Statista,,16.757,13.887,41.213,8.731,5.457,33.319,23.477,21.799,7.847,12.237
+Taiwan,Alcoholic Drinks,2208,Average Revenue per User by Segment,Total,USD (US$),Statista,41.99,31.41,27.24,31.14,30.24,31.6,37.09,41.46,46.24,46.79,49.49
+Taiwan,Alcoholic Drinks,2208,Average Revenue per User by Segment,Beer,USD (US$),Statista,27.33,20.06,17.51,20.04,19.92,20.99,24.85,27.94,31.3,31.72,33.6
+Taiwan,Alcoholic Drinks,2208,Average Revenue per User by Segment,"Cider, Perry & Rice Wine",USD (US$),Statista,0.003,0.003,0.002,0.003,0.003,0.003,0.003,0.003,0.004,0.004,0.004
+Taiwan,Alcoholic Drinks,2208,Average Revenue per User by Segment,Other Alcoholic Drinks,USD (US$),Statista,2.539,1.899,1.647,1.883,1.829,1.911,2.243,2.507,2.796,2.829,2.992
+Taiwan,Alcoholic Drinks,2208,Average Revenue per User by Segment,Spirits,USD (US$),Statista,12.8,8.979,7.472,8.608,9.031,9.166,10.56,11.72,13.03,13.17,13.9
+Taiwan,Alcoholic Drinks,2208,Average Revenue per User by Segment,Wine,USD (US$),Statista,26.75,29.08,29.59,38.27,36.88,35,42.56,48.87,55.62,17.99,19.24
+Taiwan,Alcoholic Drinks,2208,Users by Segment,Total,million users,Statista,0.941,1.362,1.761,2.189,2.683,2.696,3.071,3.413,3.751,4.003,4.255
+Taiwan,Alcoholic Drinks,2208,Users by Segment,Beer,million users,Statista,0.715,1.035,1.338,1.664,2.039,2.049,2.334,2.594,2.85,3.042,3.234
+Taiwan,Alcoholic Drinks,2208,Users by Segment,"Cider, Perry & Rice Wine",million users,Statista,0.461,0.667,0.863,1.073,1.315,1.321,1.505,1.672,1.838,1.961,2.085
+Taiwan,Alcoholic Drinks,2208,Users by Segment,Other Alcoholic Drinks,million users,Statista,0.339,0.49,0.634,0.788,0.966,0.971,1.106,1.229,1.35,1.441,1.532
+Taiwan,Alcoholic Drinks,2208,Users by Segment,Spirits,million users,Statista,0.63,0.912,1.18,1.467,1.798,1.807,2.058,2.286,2.513,2.682,2.851
+Taiwan,Alcoholic Drinks,2208,Users by Segment,Wine,million users,Statista,0.413,0.443,0.496,0.542,0.611,0.679,0.745,0.801,0.857,2.858,2.998
+Taiwan,Alcoholic Drinks,2208,Penetration Rate by Segment,Alcoholic Drinks,percent,Statista,3.975,5.739,7.407,9.192,11.249,11.287,12.841,14.253,15.65,16.689,17.729
+Taiwan,Alcoholic Drinks,2208,Penetration Rate by Segment,Beer,percent,Statista,3.021,4.362,5.63,6.986,8.549,8.578,9.759,10.832,11.894,12.684,13.474
+Taiwan,Alcoholic Drinks,2208,Penetration Rate by Segment,"Cider, Perry & Rice Wine",percent,Statista,1.948,2.812,3.63,4.504,5.512,5.531,6.292,6.984,7.669,8.178,8.688
+Taiwan,Alcoholic Drinks,2208,Penetration Rate by Segment,Other Alcoholic Drinks,percent,Statista,1.431,2.066,2.667,3.309,4.05,4.063,4.623,5.131,5.634,6.009,6.384
+Taiwan,Alcoholic Drinks,2208,Penetration Rate by Segment,Spirits,percent,Statista,2.663,3.845,4.963,6.159,7.537,7.562,8.603,9.549,10.486,11.182,11.879
+Taiwan,Alcoholic Drinks,2208,Penetration Rate by Segment,Wine,percent,Statista,1.742,1.868,2.086,2.275,2.562,2.843,3.113,3.344,3.576,11.917,12.494
+Taiwan,Hot Drinks,2101,Comparable Estimates - Hot Drinks (Worldwide),*Statista,billion USD (US$),,10.68,13.64,17.01,23.99,32.6,32.68,41.01,47.84,56.19,60.29,65.18
+Taiwan,Hot Drinks,2101,Comparable Estimates - Hot Drinks (Worldwide),Common Thread Collective,billion USD (US$),,,,,,33,,,,56,,
+Taiwan,Hot Drinks,2101,Revenue,Total,million USD (US$),Statista,25.47,28.74,36.2,53.67,66.57,71.24,92.76,110.1,129.9,140.6,157.1
+Taiwan,Hot Drinks,2101,Revenue,Cocoa,million USD (US$),Statista,0.496,0.564,0.655,1.007,1.204,1.348,1.966,2.553,3.31,3.598,4.093
+Taiwan,Hot Drinks,2101,Revenue,Coffee,million USD (US$),Statista,21.92,23.08,25.91,43.13,52.98,57,75.27,90.93,109.2,118.7,133.5
+Taiwan,Hot Drinks,2101,Revenue,Tea,million USD (US$),Statista,3.053,5.103,9.633,9.533,12.38,12.89,15.53,16.61,17.46,18.3,19.5
+Taiwan,Hot Drinks,2101,Revenue Change,Total,percent,Statista,,12.839,25.957,48.26,24.036,7.015,30.208,18.693,17.984,8.237,11.735
+Taiwan,Hot Drinks,2101,Revenue Change,Cocoa,percent,Statista,,13.672,16.285,53.623,19.563,11.96,45.846,29.858,29.651,8.701,13.758
+Taiwan,Hot Drinks,2101,Revenue Change,Coffee,percent,Statista,,5.292,12.262,66.461,22.838,7.588,32.053,20.805,20.092,8.7,12.468
+Taiwan,Hot Drinks,2101,Revenue Change,Tea,percent,Statista,,67.147,88.771,-1.038,29.865,4.12,20.481,6.954,5.117,4.811,6.557
+Taiwan,Hot Drinks,2101,Average Revenue per User by Segment,Total,USD (US$),Statista,24.9,19.42,18.91,22.55,22.82,24.31,27.79,29.68,31.87,32.31,33.98
+Taiwan,Hot Drinks,2101,Average Revenue per User by Segment,Cocoa,USD (US$),Statista,1.616,1.269,1.141,1.41,1.376,1.533,1.963,2.294,2.707,2.756,2.949
+Taiwan,Hot Drinks,2101,Average Revenue per User by Segment,Coffee,USD (US$),Statista,30.62,22.27,19.34,25.89,25.95,27.78,32.21,35.02,38.26,38.97,41.24
+Taiwan,Hot Drinks,2101,Average Revenue per User by Segment,Tea,USD (US$),Statista,4.264,4.925,7.189,5.723,6.063,6.285,6.646,6.395,6.117,6.008,6.024
+Taiwan,Hot Drinks,2101,Users by Segment,Total,million users,Statista,1.023,1.48,1.914,2.38,2.917,2.931,3.338,3.709,4.077,4.351,4.624
+Taiwan,Hot Drinks,2101,Users by Segment,Cocoa,million users,Statista,0.307,0.444,0.574,0.714,0.875,0.879,1.002,1.113,1.223,1.305,1.388
+Taiwan,Hot Drinks,2101,Users by Segment,Coffee,million users,Statista,0.716,1.036,1.34,1.666,2.042,2.052,2.337,2.597,2.854,3.045,3.237
+Taiwan,Hot Drinks,2101,Users by Segment,Tea,million users,Statista,0.716,1.036,1.34,1.666,2.042,2.052,2.337,2.597,2.854,3.045,3.237
+Taiwan,Hot Drinks,2101,Penetration Rate by Segment,Cocoa,percent,Statista,1.296,1.872,2.415,2.997,3.668,3.681,4.187,4.648,5.103,5.443,5.783
+Taiwan,Hot Drinks,2101,Penetration Rate by Segment,Coffee,percent,Statista,3.024,4.367,5.636,6.994,8.559,8.588,9.77,10.844,11.908,12.698,13.49
+Taiwan,Hot Drinks,2101,Penetration Rate by Segment,Hot Drinks,percent,Statista,4.32,6.239,8.052,9.991,12.227,12.268,13.958,15.492,17.011,18.14,19.27
+Taiwan,Hot Drinks,2101,Penetration Rate by Segment,Tea,percent,Statista,3.024,4.367,5.636,6.994,8.559,8.588,9.77,10.844,11.908,12.698,13.49
+Taiwan,Non-Alcoholic Drinks,2202,Comparable Estimates - Non-Alcoholic Drinks (Worldwide),*Statista,billion USD (US$),,28.9,34.77,41.65,59.24,78.97,86.3,111.9,136.1,165.5,178.8,195.6
+Taiwan,Non-Alcoholic Drinks,2202,Comparable Estimates - Non-Alcoholic Drinks (Worldwide),Common Thread Collective,billion USD (US$),,,,,,79,,,,160,,
+Taiwan,Non-Alcoholic Drinks,2202,Revenue,Total,million USD (US$),Statista,38.56,45.89,61.15,88.07,104.8,118.6,162,203.5,250.8,273.5,309.6
+Taiwan,Non-Alcoholic Drinks,2202,Revenue,Bottled Water,million USD (US$),Statista,3.348,5.736,11.71,12.21,15.45,16.95,21.3,24.09,26.82,29.44,32.91
+Taiwan,Non-Alcoholic Drinks,2202,Revenue,Juices,million USD (US$),Statista,3.992,4.297,5.149,7.88,9.669,11.28,16.09,21.12,27.3,29.72,33.83
+Taiwan,Non-Alcoholic Drinks,2202,Revenue,Other Non-Alcoholic Drinks,million USD (US$),Statista,0.84,0.999,1.331,1.917,2.281,2.582,3.527,4.43,5.46,5.955,6.742
+Taiwan,Non-Alcoholic Drinks,2202,Revenue,Soft Drinks,million USD (US$),Statista,30.38,34.86,42.96,66.06,77.37,87.78,121.1,153.9,191.2,208.4,236.1
+Taiwan,Non-Alcoholic Drinks,2202,Revenue Change,Total,percent,Statista,,19.009,33.253,44.023,18.996,13.168,36.594,25.617,23.243,9.051,13.199
+Taiwan,Non-Alcoholic Drinks,2202,Revenue Change,Bottled Water,percent,Statista,,71.326,104.149,4.27,26.536,9.709,25.664,13.099,11.333,9.769,11.787
+Taiwan,Non-Alcoholic Drinks,2202,Revenue Change,Juices,percent,Statista,,7.64,19.828,53.039,22.703,16.661,42.642,31.262,29.261,8.864,13.829
+Taiwan,Non-Alcoholic Drinks,2202,Revenue Change,Other Non-Alcoholic Drinks,percent,Statista,,19.011,33.22,44.027,18.988,13.196,36.6,25.602,23.251,9.066,13.216
+Taiwan,Non-Alcoholic Drinks,2202,Revenue Change,Soft Drinks,percent,Statista,,14.747,23.236,53.771,17.121,13.455,37.959,27.085,24.237,8.996,13.292
+Taiwan,Non-Alcoholic Drinks,2202,Average Revenue per User by Segment,Total,USD (US$),Statista,34.07,28.02,28.87,33.44,32.46,36.56,43.85,49.58,55.59,56.81,60.49
+Taiwan,Non-Alcoholic Drinks,2202,Average Revenue per User by Segment,Bottled Water,USD (US$),Statista,3.439,4.072,6.428,5.391,5.567,6.075,6.704,6.824,6.912,7.111,7.478
+Taiwan,Non-Alcoholic Drinks,2202,Average Revenue per User by Segment,Juices,USD (US$),Statista,4.703,3.498,3.241,3.99,3.994,4.636,5.806,6.861,8.069,8.231,8.814
+Taiwan,Non-Alcoholic Drinks,2202,Average Revenue per User by Segment,Other Non-Alcoholic Drinks,USD (US$),Statista,2.06,1.694,1.746,2.022,1.963,2.211,2.652,2.998,3.362,3.436,3.659
+Taiwan,Non-Alcoholic Drinks,2202,Average Revenue per User by Segment,Soft Drinks,USD (US$),Statista,33.14,26.27,25.04,30.97,29.59,33.41,40.46,46.27,52.33,53.44,56.96
+Taiwan,Non-Alcoholic Drinks,2202,Users by Segment,Total,million users,Statista,1.132,1.638,2.118,2.633,3.228,3.243,3.694,4.105,4.512,4.815,5.118
+Taiwan,Non-Alcoholic Drinks,2202,Users by Segment,Bottled Water,million users,Statista,0.973,1.409,1.822,2.265,2.776,2.789,3.177,3.53,3.88,4.141,4.401
+Taiwan,Non-Alcoholic Drinks,2202,Users by Segment,Juices,million users,Statista,0.849,1.229,1.589,1.975,2.421,2.433,2.771,3.079,3.384,3.611,3.838
+Taiwan,Non-Alcoholic Drinks,2202,Users by Segment,Other Non-Alcoholic Drinks,million users,Statista,0.407,0.59,0.763,0.948,1.162,1.168,1.33,1.478,1.624,1.733,1.843
+Taiwan,Non-Alcoholic Drinks,2202,Users by Segment,Soft Drinks,million users,Statista,0.917,1.327,1.716,2.133,2.615,2.627,2.993,3.325,3.654,3.9,4.145
+Taiwan,Non-Alcoholic Drinks,2202,Penetration Rate by Segment,Bottled Water,percent,Statista,4.112,5.937,7.663,9.509,11.637,11.676,13.284,14.744,16.19,17.264,18.34
+Taiwan,Non-Alcoholic Drinks,2202,Penetration Rate by Segment,Juices,percent,Statista,3.586,5.178,6.683,8.293,10.149,10.183,11.585,12.858,14.119,15.057,15.995
+Taiwan,Non-Alcoholic Drinks,2202,Penetration Rate by Segment,Non-Alcoholic Drinks,percent,Statista,4.781,6.904,8.91,11.057,13.532,13.577,15.446,17.145,18.826,20.076,21.328
+Taiwan,Non-Alcoholic Drinks,2202,Penetration Rate by Segment,Other Non-Alcoholic Drinks,percent,Statista,1.721,2.485,3.208,3.981,4.871,4.888,5.561,6.172,6.777,7.227,7.678
+Taiwan,Non-Alcoholic Drinks,2202,Penetration Rate by Segment,Soft Drinks,percent,Statista,3.873,5.592,7.217,8.956,10.961,10.997,12.512,13.887,15.249,16.261,17.274
+Taiwan,Other Beverages,2202,Comparable Estimates - Beverages (China),*Statista,billion USD (US$),,27.06,36.98,47.8,63.46,83.64,74.06,85.73,89.89,94.22,100.7,106.3
+Taiwan,Other Beverages,2202,Comparable Estimates - Beverages (China),Common Thread Collective,billion USD (US$),,,,,,,,,,16,,
+Taiwan,Other Beverages,2202,Revenue,Total,USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Taiwan,Other Beverages,2202,Average Revenue per User by Segment,Total,USD (US$),Statista,0,0,0,0,0,0,0,0,0,0,0
+Taiwan,Other Beverages,2202,Users by Segment,Total,million users,Statista,0.068,0.099,0.128,0.159,0.194,0.195,0.223,0.247,0.272,0.29,0.309
+Taiwan,Other Beverages,2202,Penetration Rate by Segment,Other Beverages,percent,Statista,0.288,0.416,0.537,0.666,0.815,0.818,0.931,1.033,1.134,1.21,1.286
+Taiwan,Other Furniture,9403,Comparable Estimates - Furniture (Worldwide),*Statista,billion USD (US$),,335.3,337.3,347.1,396.5,443.8,389.2,530.7,604.4,686.3,721.8,768.3
+Taiwan,Other Furniture,9403,Comparable Estimates - Furniture (Worldwide),Million Insights,billion USD (US$),,,,,33.08,33.77,,,,,,
+Taiwan,Other Furniture,9403,Comparable Estimates - Furniture (Worldwide),The BRC,billion USD (US$),,,,,,634.5,692.8,,,,939.6,
+Taiwan,Other Furniture,9403,Revenue,Total,million USD (US$),Statista,124.9,135.9,155.1,234.8,242.2,215.4,299.3,355.7,419.3,449,499.2
+Taiwan,Other Furniture,9403,Revenue Change,Total,percent,Statista,,8.807,14.128,51.386,3.152,-11.065,38.951,18.844,17.88,7.083,11.18
+Taiwan,Other Furniture,9403,Average Revenue per User by Segment,Total,USD (US$),Statista,397.5,230.8,178.5,203.5,161.1,137.7,165.8,175.3,186.2,184.7,191.6
+Taiwan,Other Furniture,9403,Users by Segment,Total,million users,Statista,0.314,0.589,0.869,1.154,1.503,1.564,1.805,2.03,2.252,2.431,2.606
+Taiwan,Other Furniture,9403,Penetration Rate by Segment,Other Furniture,percent,Statista,1.327,2.482,3.655,4.844,6.3,6.548,7.547,8.476,9.398,10.134,10.858
+Taiwan,eCommerce,4907,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,11.892,,,,,,
+Taiwan,eCommerce,4907,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,22.647,,,,,,
+Taiwan,eCommerce,4907,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,23.061,,,,,,
+Taiwan,eCommerce,4907,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,23.888,,,,,,
+Taiwan,eCommerce,4907,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,18.511,,,,,,
+Taiwan,eCommerce,4907,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,54.498,,,,,,
+Taiwan,eCommerce,4907,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,45.502,,,,,,
+Taiwan,eCommerce,4907,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,36.26,,,,,,
+Taiwan,eCommerce,4907,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,29.262,,,,,,
+Taiwan,eCommerce,4907,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,34.478,,,,,,
+Taiwan,eCommerce,4907,Revenue,Total,billion USD (US$),Statista,6.847,7.621,8.694,12.3,13.96,13.74,17.5,20.14,22.83,24.4,26.9
+Taiwan,eCommerce,4907,Revenue,"Beauty, Health, Personal & Household Care",billion USD (US$),Statista,0.358,0.394,0.454,0.606,0.695,0.707,0.911,1.085,1.258,1.354,1.507
+Taiwan,eCommerce,4907,Revenue,Beverages,billion USD (US$),Statista,0.103,0.117,0.145,0.21,0.253,0.275,0.369,0.455,0.554,0.601,0.677
+Taiwan,eCommerce,4907,Revenue,Electronics,billion USD (US$),Statista,1.016,1.084,1.204,1.701,1.783,1.457,1.775,1.859,1.916,1.966,2.067
+Taiwan,eCommerce,4907,Revenue,Fashion,billion USD (US$),Statista,3.542,3.941,4.456,6.039,6.964,7.278,9.366,10.99,12.65,13.6,15.09
+Taiwan,eCommerce,4907,Revenue,Food,billion USD (US$),Statista,0.472,0.528,0.596,0.978,1.213,1.108,1.261,1.303,1.333,1.391,1.474
+Taiwan,eCommerce,4907,Revenue,Furniture,billion USD (US$),Statista,0.782,0.85,0.97,1.465,1.509,1.342,1.863,2.214,2.608,2.791,3.101
+Taiwan,eCommerce,4907,Revenue,Media,billion USD (US$),Statista,0.093,0.113,0.129,0.192,0.22,0.206,0.237,0.251,0.26,0.272,0.29
+Taiwan,eCommerce,4907,Revenue,"Toys, Hobby & DIY",billion USD (US$),Statista,0.481,0.595,0.739,1.104,1.321,1.363,1.723,1.983,2.249,2.429,2.694
+Taiwan,eCommerce,4907,Revenue Change,Total,percent,Statista,,11.304,14.08,41.477,13.496,-1.576,27.365,15.086,13.357,6.877,10.246
+Taiwan,eCommerce,4907,Revenue Change,"Beauty, Health, Personal & Household Care",percent,Statista,,10.036,15.447,33.451,14.545,1.756,28.891,19.1,15.945,7.631,11.3
+Taiwan,eCommerce,4907,Revenue Change,Beverages,percent,Statista,,13.43,23.765,44.46,20.295,8.911,34.073,23.434,21.775,8.517,12.621
+Taiwan,eCommerce,4907,Revenue Change,Electronics,percent,Statista,,6.693,11.07,41.279,4.821,-18.284,21.826,4.732,3.066,2.61,5.137
+Taiwan,eCommerce,4907,Revenue Change,Fashion,percent,Statista,,11.265,13.068,35.525,15.317,4.509,28.689,17.339,15.105,7.51,10.956
+Taiwan,eCommerce,4907,Revenue Change,Food,percent,Statista,,11.949,12.793,64.128,24.003,-8.656,13.809,3.331,2.302,4.351,5.967
+Taiwan,eCommerce,4907,Revenue Change,Furniture,percent,Statista,,8.721,14.067,51.062,3.003,-11.067,38.823,18.841,17.796,7.017,11.107
+Taiwan,eCommerce,4907,Revenue Change,Media,percent,Statista,,20.958,14.476,49.108,14.568,-6.403,14.944,5.825,3.869,4.608,6.535
+Taiwan,eCommerce,4907,Revenue Change,"Toys, Hobby & DIY",percent,Statista,,23.571,24.222,49.492,19.656,3.179,26.412,15.09,13.414,8.004,10.91
+Taiwan,eCommerce,4907,Average Revenue per User,Total,USD (US$),Statista,514.7,498.8,465,648.8,683.9,747.2,919.6,"1,026","1,131","1,199","1,309"
+Taiwan,eCommerce,4907,Average Revenue per User,"Beauty, Health, Personal & Household Care",USD (US$),Statista,103.1,89.33,89.38,106.7,105.5,109.6,127.9,140.8,151.8,156.7,167.4
+Taiwan,eCommerce,4907,Average Revenue per User,Beverages,USD (US$),Statista,75.93,59.49,56.94,66.16,64.92,70.38,82.82,92.01,102,103.7,109.8
+Taiwan,eCommerce,4907,Average Revenue per User,Electronics,USD (US$),Statista,222.2,179.3,163.3,194.2,171.4,142.8,156.5,150.4,143.3,140.2,140.8
+Taiwan,eCommerce,4907,Average Revenue per User,Fashion,USD (US$),Statista,900.1,702.4,633.4,712.4,677.2,711.9,817,873.8,925.1,"2,691","3,250"
+Taiwan,eCommerce,4907,Average Revenue per User,Food,USD (US$),Statista,688.5,717.4,723.1,"1,087","1,195",981.9,"1,019",979,935.7,292.9,295.9
+Taiwan,eCommerce,4907,Average Revenue per User,Furniture,USD (US$),Statista,721.9,418.7,323.7,368.3,291.2,248.7,299.3,316.3,335.8,333,345.1
+Taiwan,eCommerce,4907,Average Revenue per User,Media,USD (US$),Statista,25.74,25.03,24.35,31.46,30.95,30.13,31.57,30.81,29.72,29.88,30.6
+Taiwan,eCommerce,4907,Average Revenue per User,"Toys, Hobby & DIY",USD (US$),Statista,277.6,172,144.2,160.8,147.9,146.3,159.1,163,166.7,166.8,172.6
+Taiwan,eCommerce,4907,Comparable Estimates - eCommerce (China),*Statista,trillion USD (US$),,1.015,1.053,1.098,1.26,1.368,1.156,1.396,1.457,1.544,1.593,1.649
+Taiwan,eCommerce,4907,Comparable Estimates - eCommerce (China),UNCTAD,trillion USD (US$),,,,1.539,,,,,,,,
+Taiwan,eCommerce,4907,Users,Total,million users,Statista,13.302,15.278,18.694,18.952,20.409,18.384,19.035,19.622,20.188,20.351,20.543
+Taiwan,eCommerce,4907,Users,"Beauty, Health, Personal & Household Care",million users,Statista,3.468,4.406,5.085,5.683,6.586,6.448,7.123,7.708,8.285,8.64,9.001
+Taiwan,eCommerce,4907,Users,Beverages,million users,Statista,1.364,1.974,2.552,3.173,3.889,3.908,4.451,4.946,5.436,5.801,6.166
+Taiwan,eCommerce,4907,Users,Electronics,million users,Statista,4.571,6.046,7.375,8.761,10.399,10.199,11.34,12.364,13.375,14.026,14.677
+Taiwan,eCommerce,4907,Users,Fashion,million users,Statista,3.935,5.611,7.035,8.477,10.283,10.223,11.465,12.58,13.674,5.053,4.642
+Taiwan,eCommerce,4907,Users,Food,million users,Statista,0.686,0.737,0.824,0.9,1.016,1.129,1.238,1.331,1.424,4.75,4.983
+Taiwan,eCommerce,4907,Users,Furniture,million users,Statista,1.083,2.031,2.996,3.978,5.182,5.394,6.224,6.998,7.766,8.381,8.985
+Taiwan,eCommerce,4907,Users,Media,million users,Statista,3.616,4.5,5.295,6.109,7.117,6.84,7.502,8.135,8.761,9.116,9.482
+Taiwan,eCommerce,4907,Users,"Toys, Hobby & DIY",million users,Statista,1.733,3.456,5.121,6.866,8.935,9.317,10.831,12.166,13.489,14.561,15.607
+Taiwan,eCommerce,4907,Penetration Rate,"Beauty, Health, Personal & Household Care",percent,Statista,14.649,18.571,21.387,23.86,27.609,26.991,29.782,32.192,34.57,36.025,37.51
+Taiwan,eCommerce,4907,Penetration Rate,Beverages,percent,Statista,5.76,8.318,10.735,13.322,16.303,16.358,18.61,20.656,22.682,24.188,25.696
+Taiwan,eCommerce,4907,Penetration Rate,eCommerce,percent,Statista,56.186,64.393,78.632,79.573,85.556,76.956,79.587,81.953,84.238,84.855,85.604
+Taiwan,eCommerce,4907,Penetration Rate,Electronics,percent,Statista,19.309,25.483,31.021,36.784,43.593,42.693,47.411,51.64,55.809,58.482,61.161
+Taiwan,eCommerce,4907,Penetration Rate,Fashion,percent,Statista,16.621,23.647,29.593,35.591,43.104,42.795,47.935,52.541,57.056,21.068,19.345
+Taiwan,eCommerce,4907,Penetration Rate,Food,percent,Statista,2.896,3.104,3.467,3.78,4.257,4.724,5.174,5.557,5.943,19.804,20.764
+Taiwan,eCommerce,4907,Penetration Rate,Furniture,percent,Statista,4.575,8.559,12.602,16.702,21.724,22.581,26.023,29.229,32.407,34.945,37.44
+Taiwan,eCommerce,4907,Penetration Rate,Media,percent,Statista,15.275,18.966,22.272,25.649,29.833,28.634,31.365,33.977,36.557,38.009,39.513
+Taiwan,eCommerce,4907,Penetration Rate,"Toys, Hobby & DIY",percent,Statista,7.319,14.567,21.541,28.83,37.454,39.001,45.283,50.812,56.286,60.712,65.035
+Taiwan,Fashion,6101,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,12.589,,,,,,
+Taiwan,Fashion,6101,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,25.177,,,,,,
+Taiwan,Fashion,6101,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,24.645,,,,,,
+Taiwan,Fashion,6101,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,23.582,,,,,,
+Taiwan,Fashion,6101,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,14.007,,,,,,
+Taiwan,Fashion,6101,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,63.83,,,,,,
+Taiwan,Fashion,6101,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,36.17,,,,,,
+Taiwan,Fashion,6101,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,41.124,,,,,,
+Taiwan,Fashion,6101,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,24.27,,,,,,
+Taiwan,Fashion,6101,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,34.607,,,,,,
+Taiwan,Fashion,6101,Revenue,Total,billion USD (US$),Statista,3.542,3.941,4.456,6.039,6.964,7.278,9.366,10.99,12.65,13.6,15.09
+Taiwan,Fashion,6101,Revenue,Accessories,billion USD (US$),Statista,1.446,1.555,1.821,2.575,3.047,3.075,3.91,4.57,5.212,5.613,6.228
+Taiwan,Fashion,6101,Revenue,Apparel,billion USD (US$),Statista,1.841,2.092,2.299,2.967,3.316,3.63,4.757,5.629,6.55,7.029,7.8
+Taiwan,Fashion,6101,Revenue,Footwear,billion USD (US$),Statista,0.255,0.293,0.337,0.496,0.602,0.573,0.699,0.793,0.888,0.956,1.057
+Taiwan,Fashion,6101,Revenue Change,Total,percent,Statista,,11.265,13.068,35.525,15.317,4.509,28.689,17.339,15.105,7.51,10.956
+Taiwan,Fashion,6101,Revenue Change,Accessories,percent,Statista,,7.538,17.106,41.406,18.33,0.919,27.154,16.88,14.048,7.694,10.957
+Taiwan,Fashion,6101,Revenue Change,Apparel,percent,Statista,,13.634,9.895,29.056,11.763,9.469,31.047,18.331,16.362,7.313,10.969
+Taiwan,Fashion,6101,Revenue Change,Footwear,percent,Statista,,14.924,14.758,47.431,21.193,-4.737,22.021,13.428,11.989,7.644,10.542
+Taiwan,Fashion,6101,Average Revenue per User by Segment,Total,thousand USD (US$),Statista,0.9,0.702,0.633,0.712,0.677,0.712,0.817,0.874,0.925,2.691,3.25
+Taiwan,Fashion,6101,Average Revenue per User by Segment,Accessories,thousand USD (US$),Statista,0.761,0.479,0.401,0.434,0.395,0.378,0.409,0.422,0.43,0.423,0.432
+Taiwan,Fashion,6101,Average Revenue per User by Segment,Apparel,thousand USD (US$),Statista,0.339,0.326,0.317,0.368,0.367,0.43,0.524,0.582,0.639,0.672,0.729
+Taiwan,Fashion,6101,Average Revenue per User by Segment,Footwear,thousand USD (US$),Statista,0.059,0.053,0.052,0.066,0.068,0.067,0.074,0.078,0.082,0.085,0.091
+Taiwan,Fashion,6101,Comparable Estimates - Fashion (Worldwide),*Statista,trillion USD (US$),,0.529,0.578,0.631,0.771,0.901,0.88,1.068,1.196,1.338,1.421,1.517
+Taiwan,Fashion,6101,Comparable Estimates - Fashion (Worldwide),ShopifyPlus,trillion USD (US$),,,0.481,0.545,0.606,0.662,0.713,,,,,
+Taiwan,Fashion,6101,Users by Segment,Total,million users,Statista,3.935,5.611,7.035,8.477,10.283,10.223,11.465,12.58,13.674,5.053,4.642
+Taiwan,Fashion,6101,Users by Segment,Accessories,million users,Statista,1.898,3.248,4.542,5.934,7.723,8.146,9.551,10.839,12.117,13.257,14.399
+Taiwan,Fashion,6101,Users by Segment,Apparel,million users,Statista,5.431,6.428,7.245,8.053,9.03,8.438,9.085,9.673,10.252,10.464,10.703
+Taiwan,Fashion,6101,Users by Segment,Footwear,million users,Statista,4.348,5.505,6.501,7.544,8.909,8.605,9.401,10.114,10.818,11.227,11.635
+Taiwan,Fashion,6101,Penetration Rate by Segment,Accessories,percent,Statista,8.019,13.691,19.104,24.913,32.376,34.098,39.932,45.269,50.562,55.275,60.003
+Taiwan,Fashion,6101,Penetration Rate by Segment,Apparel,percent,Statista,22.939,27.091,30.476,33.811,37.852,35.322,37.983,40.401,42.778,43.631,44.599
+Taiwan,Fashion,6101,Penetration Rate by Segment,Fashion,percent,Statista,16.621,23.647,29.593,35.591,43.104,42.795,47.935,52.541,57.056,21.068,19.345
+Taiwan,Fashion,6101,Penetration Rate by Segment,Footwear,percent,Statista,18.364,23.201,27.347,31.676,37.346,36.02,39.305,42.243,45.138,46.811,48.485
+Taiwan,Apparel,6104,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,12.254,,,,,,
+Taiwan,Apparel,6104,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,25.164,,,,,,
+Taiwan,Apparel,6104,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,24.945,,,,,,
+Taiwan,Apparel,6104,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,23.195,,,,,,
+Taiwan,Apparel,6104,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,14.442,,,,,,
+Taiwan,Apparel,6104,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,68.49,,,,,,
+Taiwan,Apparel,6104,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,31.51,,,,,,
+Taiwan,Apparel,6104,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,43.733,,,,,,
+Taiwan,Apparel,6104,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,23.677,,,,,,
+Taiwan,Apparel,6104,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,32.591,,,,,,
+Taiwan,Apparel,6104,Revenue,Total,billion USD (US$),Statista,1.841,2.092,2.299,2.967,3.316,3.63,4.757,5.629,6.55,7.029,7.8
+Taiwan,Apparel,6104,Revenue,Children's Apparel,billion USD (US$),Statista,0.174,0.204,0.231,0.308,0.353,0.397,0.531,0.641,0.762,0.822,0.919
+Taiwan,Apparel,6104,Revenue,Luxury Apparel,billion USD (US$),Statista,0.052,0.067,0.085,0.121,0.122,0.125,0.162,0.194,0.228,0.246,0.275
+Taiwan,Apparel,6104,Revenue,Men's Apparel,billion USD (US$),Statista,0.485,0.552,0.61,0.79,0.883,0.963,1.265,1.498,1.743,1.866,2.066
+Taiwan,Apparel,6104,Revenue,Other Apparel,billion USD (US$),Statista,0.12,0.136,0.15,0.194,0.219,0.242,0.319,0.379,0.443,0.473,0.523
+Taiwan,Apparel,6104,Revenue,Women's Apparel,billion USD (US$),Statista,1.011,1.132,1.223,1.554,1.739,1.902,2.48,2.917,3.374,3.622,4.017
+Taiwan,Apparel,6104,Revenue Change,Total,percent,Statista,,13.634,9.895,29.056,11.763,9.469,31.047,18.331,16.362,7.313,10.969
+Taiwan,Apparel,6104,Revenue Change,Children's Apparel,percent,Statista,,17.117,13.242,33.348,14.713,12.458,33.711,20.618,18.92,7.955,11.783
+Taiwan,Apparel,6104,Revenue Change,Luxury Apparel,percent,Statista,,30.012,26.961,42.589,0.412,2.789,29.37,19.803,17.456,7.979,11.693
+Taiwan,Apparel,6104,Revenue Change,Men's Apparel,percent,Statista,,13.918,10.462,29.379,11.791,9.108,31.347,18.419,16.355,7.057,10.718
+Taiwan,Apparel,6104,Revenue Change,Other Apparel,percent,Statista,,13.88,10.059,29.553,12.873,10.356,31.79,18.852,16.865,6.752,10.599
+Taiwan,Apparel,6104,Revenue Change,Women's Apparel,percent,Statista,,11.968,8.039,27.065,11.905,9.373,30.389,17.621,15.667,7.35,10.906
+Taiwan,Apparel,6104,Average Revenue per User,Total,USD (US$),Statista,339,325.5,317.3,368.5,367.2,430.2,523.6,581.9,638.9,671.7,728.8
+Taiwan,Apparel,6104,Average Revenue per User,Children's Apparel,USD (US$),Statista,53.42,52.87,53.13,63.72,65.19,78.46,97.43,110.4,123.9,131,143.2
+Taiwan,Apparel,6104,Average Revenue per User,Luxury Apparel,USD (US$),Statista,47.49,52.16,58.76,75.35,67.5,74.26,89.19,100.4,111.3,117.7,128.5
+Taiwan,Apparel,6104,Average Revenue per User,Men's Apparel,USD (US$),Statista,297.7,286.5,280.8,326.9,325.9,380.4,464.1,516.1,566.7,594.4,643.6
+Taiwan,Apparel,6104,Average Revenue per User,Other Apparel,USD (US$),Statista,110.2,105.9,103.4,120.6,121.4,143.3,175.4,195.8,216,225.9,244.2
+Taiwan,Apparel,6104,Average Revenue per User,Women's Apparel,USD (US$),Statista,465.2,440.4,421.9,482.5,481.3,563.7,682.5,754,822.8,865.3,938.3
+Taiwan,Apparel,6104,Comparable Estimates - Apparel (Worldwide),*Statista,trillion USD (US$),,0.288,0.318,0.352,0.437,0.513,0.503,0.613,0.687,0.77,0.82,0.878
+Taiwan,Apparel,6104,Comparable Estimates - Apparel (Worldwide),The BRC,trillion USD (US$),,,,,,0.551,0.605,,,,0.843,
+Taiwan,Apparel,6104,Users,Total,million users,Statista,5.431,6.428,7.245,8.053,9.03,8.438,9.085,9.673,10.252,10.464,10.703
+Taiwan,Apparel,6104,Users,Children's Apparel,million users,Statista,3.258,3.857,4.347,4.832,5.418,5.063,5.451,5.804,6.151,6.278,6.421
+Taiwan,Apparel,6104,Users,Luxury Apparel,million users,Statista,1.086,1.286,1.449,1.611,1.806,1.688,1.817,1.935,2.05,2.093,2.141
+Taiwan,Apparel,6104,Users,Men's Apparel,million users,Statista,1.629,1.928,2.174,2.416,2.709,2.531,2.725,2.902,3.076,3.139,3.211
+Taiwan,Apparel,6104,Users,Other Apparel,million users,Statista,1.086,1.286,1.449,1.611,1.806,1.688,1.817,1.935,2.05,2.093,2.141
+Taiwan,Apparel,6104,Users,Women's Apparel,million users,Statista,2.172,2.571,2.898,3.221,3.612,3.375,3.634,3.869,4.101,4.186,4.281
+Taiwan,Apparel,6104,Penetration Rate,Apparel,percent,Statista,22.939,27.091,30.476,33.811,37.852,35.322,37.983,40.401,42.778,43.631,44.599
+Taiwan,Apparel,6104,Penetration Rate,Children's Apparel,percent,Statista,13.764,16.254,18.285,20.287,22.711,21.193,22.79,24.24,25.667,26.178,26.759
+Taiwan,Apparel,6104,Penetration Rate,Luxury Apparel,percent,Statista,4.588,5.418,6.095,6.762,7.57,7.064,7.597,8.08,8.556,8.726,8.92
+Taiwan,Apparel,6104,Penetration Rate,Men's Apparel,percent,Statista,6.882,8.127,9.143,10.143,11.356,10.597,11.395,12.12,12.833,13.089,13.379
+Taiwan,Apparel,6104,Penetration Rate,Other Apparel,percent,Statista,4.588,5.418,6.095,6.762,7.57,7.064,7.597,8.08,8.556,8.726,8.92
+Taiwan,Apparel,6104,Penetration Rate,Women's Apparel,percent,Statista,9.176,10.836,12.19,13.524,15.141,14.129,15.193,16.16,17.111,17.452,17.839
+Taiwan,Footwear,6403,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,12.963,,,,,,
+Taiwan,Footwear,6403,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,26.667,,,,,,
+Taiwan,Footwear,6403,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,24.074,,,,,,
+Taiwan,Footwear,6403,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,22.963,,,,,,
+Taiwan,Footwear,6403,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,13.333,,,,,,
+Taiwan,Footwear,6403,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,61.852,,,,,,
+Taiwan,Footwear,6403,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,38.148,,,,,,
+Taiwan,Footwear,6403,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,46.544,,,,,,
+Taiwan,Footwear,6403,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,22.581,,,,,,
+Taiwan,Footwear,6403,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,30.876,,,,,,
+Taiwan,Footwear,6403,Revenue,Total,million USD (US$),Statista,255.3,293.4,336.7,496.4,601.6,573.1,699.3,793.2,888.3,956.2,"1,057"
+Taiwan,Footwear,6403,Revenue,Leather Footwear,million USD (US$),Statista,96.5,115.5,133.8,191.2,235.5,220.5,265,294.5,323.4,347.8,383
+Taiwan,Footwear,6403,Revenue,Luxury Footwear,million USD (US$),Statista,32.46,39.42,49.07,71.62,78.47,81.16,105.8,127.9,151.8,164.3,184.1
+Taiwan,Footwear,6403,Revenue,Other Footwear,million USD (US$),Statista,6.347,7.207,8.226,12.33,15.28,14.41,17.45,19.65,21.84,23.52,25.97
+Taiwan,Footwear,6403,Revenue,Sneakers,million USD (US$),Statista,84.51,93.41,107.7,168.7,210.3,200.7,247.3,283.9,321.1,346.9,385.1
+Taiwan,Footwear,6403,Revenue,Textile & Other Footwear,million USD (US$),Statista,35.45,37.89,37.85,52.58,62.04,56.32,63.71,67.29,70.2,73.72,79.16
+Taiwan,Footwear,6403,Revenue Change,Total,percent,Statista,,14.924,14.758,47.431,21.193,-4.737,22.021,13.428,11.989,7.644,10.542
+Taiwan,Footwear,6403,Revenue Change,Leather Footwear,percent,Statista,,19.689,15.844,42.9,23.169,-6.369,20.181,11.132,9.813,7.545,10.121
+Taiwan,Footwear,6403,Revenue Change,Luxury Footwear,percent,Statista,,21.442,24.48,45.955,9.564,3.428,30.36,20.888,18.686,8.235,12.051
+Taiwan,Footwear,6403,Revenue Change,Other Footwear,percent,Statista,,13.55,14.139,49.891,23.925,-5.694,21.096,12.607,11.145,7.692,10.417
+Taiwan,Footwear,6403,Revenue Change,Sneakers,percent,Statista,,10.531,15.298,56.639,24.659,-4.565,23.219,14.8,13.103,8.035,11.012
+Taiwan,Footwear,6403,Revenue Change,Textile & Other Footwear,percent,Statista,,6.883,-0.106,38.917,17.992,-9.22,13.121,5.619,4.325,5.014,7.379
+Taiwan,Footwear,6403,Average Revenue per User,Total,USD (US$),Statista,58.71,53.3,51.79,65.79,67.52,66.6,74.39,78.43,82.12,85.17,90.87
+Taiwan,Footwear,6403,Average Revenue per User,Leather Footwear,USD (US$),Statista,63.42,59.94,58.82,72.4,75.52,73.22,80.55,83.2,85.41,88.5,94.03
+Taiwan,Footwear,6403,Average Revenue per User,Luxury Footwear,USD (US$),Statista,49.77,47.74,50.32,63.29,58.72,62.88,75.03,84.29,93.55,97.59,105.5
+Taiwan,Footwear,6403,Average Revenue per User,Other Footwear,USD (US$),Statista,7.299,6.547,6.326,8.174,8.573,8.371,9.283,9.716,10.1,10.47,11.16
+Taiwan,Footwear,6403,Average Revenue per User,Sneakers,USD (US$),Statista,24.3,21.21,20.72,27.94,29.5,29.15,32.89,35.09,37.1,38.62,41.37
+Taiwan,Footwear,6403,Average Revenue per User,Textile & Other Footwear,USD (US$),Statista,16.31,13.77,11.64,13.94,13.93,13.09,13.55,13.31,12.98,13.13,13.61
+Taiwan,Footwear,6403,Comparable Estimates - Fashion (Worldwide),*Statista,trillion USD (US$),,0.529,0.578,0.631,0.771,0.901,0.88,1.068,1.196,1.338,1.421,1.517
+Taiwan,Footwear,6403,Comparable Estimates - Fashion (Worldwide),ShopifyPlus,trillion USD (US$),,,0.481,0.545,0.606,0.662,0.713,,,,,
+Taiwan,Footwear,6403,Users,Total,million users,Statista,4.348,5.505,6.501,7.544,8.909,8.605,9.401,10.114,10.818,11.227,11.635
+Taiwan,Footwear,6403,Users,Leather Footwear,million users,Statista,1.522,1.927,2.275,2.64,3.118,3.012,3.29,3.54,3.786,3.929,4.073
+Taiwan,Footwear,6403,Users,Luxury Footwear,million users,Statista,0.652,0.826,0.975,1.132,1.336,1.291,1.41,1.517,1.623,1.684,1.745
+Taiwan,Footwear,6403,Users,Other Footwear,million users,Statista,0.87,1.101,1.3,1.509,1.782,1.721,1.88,2.023,2.164,2.245,2.327
+Taiwan,Footwear,6403,Users,Sneakers,million users,Statista,3.478,4.404,5.201,6.035,7.127,6.884,7.521,8.091,8.654,8.981,9.308
+Taiwan,Footwear,6403,Users,Textile & Other Footwear,million users,Statista,2.174,2.752,3.251,3.772,4.454,4.302,4.7,5.057,5.409,5.614,5.818
+Taiwan,Footwear,6403,Penetration Rate,Footwear,percent,Statista,18.364,23.201,27.347,31.676,37.346,36.02,39.305,42.243,45.138,46.811,48.485
+Taiwan,Footwear,6403,Penetration Rate,Leather Footwear,percent,Statista,6.427,8.12,9.571,11.086,13.071,12.607,13.757,14.785,15.798,16.384,16.97
+Taiwan,Footwear,6403,Penetration Rate,Luxury Footwear,percent,Statista,2.755,3.48,4.102,4.751,5.602,5.403,5.896,6.336,6.771,7.021,7.272
+Taiwan,Footwear,6403,Penetration Rate,Other Footwear,percent,Statista,3.673,4.64,5.469,6.335,7.469,7.204,7.861,8.449,9.028,9.362,9.697
+Taiwan,Footwear,6403,Penetration Rate,Sneakers,percent,Statista,14.691,18.561,21.877,25.341,29.877,28.816,31.444,33.794,36.111,37.448,38.786
+Taiwan,Footwear,6403,Penetration Rate,Textile & Other Footwear,percent,Statista,9.182,11.6,13.673,15.838,18.673,18.01,19.653,21.121,22.569,23.406,24.244
+Taiwan,Accessories,4202,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,13.6,,,,,,
+Taiwan,Accessories,4202,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,28.8,,,,,,
+Taiwan,Accessories,4202,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,26,,,,,,
+Taiwan,Accessories,4202,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,23.2,,,,,,
+Taiwan,Accessories,4202,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,8.4,,,,,,
+Taiwan,Accessories,4202,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,72.4,,,,,,
+Taiwan,Accessories,4202,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,27.6,,,,,,
+Taiwan,Accessories,4202,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,46.193,,,,,,
+Taiwan,Accessories,4202,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,20.812,,,,,,
+Taiwan,Accessories,4202,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,32.995,,,,,,
+Taiwan,Accessories,4202,Revenue,Total,million USD (US$),Statista,"1,446","1,555","1,821","2,575","3,047","3,075","3,910","4,570","5,212","5,613","6,228"
+Taiwan,Accessories,4202,Revenue,Clothing Accessories & Other Clothes (children),million USD (US$),Statista,16.93,19.07,20.69,26.41,29.26,32.12,41.91,49.43,57.44,61.81,68.78
+Taiwan,Accessories,4202,Revenue,Clothing Accessories & Other Clothes (men),million USD (US$),Statista,47.32,53.61,58.4,74.47,83.19,90.95,118.3,139.1,161.1,173.4,192.9
+Taiwan,Accessories,4202,Revenue,Clothing Accessories & Other Clothes (women),million USD (US$),Statista,80.41,90.38,97.81,124.4,138.7,151.6,196.9,231.2,267.3,287.6,319.7
+Taiwan,Accessories,4202,Revenue,Eyewear,million USD (US$),Statista,6.505,7.037,8.209,12.24,14.81,14.78,18.66,21.95,25.39,27.43,30.57
+Taiwan,Accessories,4202,Revenue,Luggage & Bags,million USD (US$),Statista,242.1,257.8,290.7,442.6,510,506.6,642.8,753.2,856.1,922.6,"1,024"
+Taiwan,Accessories,4202,Revenue,Luxury Leather Goods,million USD (US$),Statista,42.02,61.93,106.5,118.3,144.3,146.6,178.3,196.8,212.5,226.7,246.6
+Taiwan,Accessories,4202,Revenue,Other Accessories,million USD (US$),Statista,58.81,60.67,68.85,100.8,120.3,120.5,153.3,179.3,204.2,220.3,244.8
+Taiwan,Accessories,4202,Revenue,Watches & Jewelry,million USD (US$),Statista,951.7,"1,005","1,170","1,676","2,006","2,012","2,560","2,999","3,427","3,693","4,101"
+Taiwan,Accessories,4202,Revenue Change,Total,percent,Statista,,7.538,17.106,41.406,18.33,0.919,27.154,16.88,14.048,7.694,10.957
+Taiwan,Accessories,4202,Revenue Change,Clothing Accessories & Other Clothes (children),percent,Statista,,12.64,8.495,27.646,10.791,9.774,30.479,17.943,16.205,7.608,11.276
+Taiwan,Accessories,4202,Revenue Change,Clothing Accessories & Other Clothes (men),percent,Statista,,13.292,8.935,27.517,11.709,9.328,30.071,17.582,15.816,7.635,11.246
+Taiwan,Accessories,4202,Revenue Change,Clothing Accessories & Other Clothes (women),percent,Statista,,12.399,8.221,27.185,11.495,9.301,29.881,17.42,15.614,7.594,11.161
+Taiwan,Accessories,4202,Revenue Change,Eyewear,percent,Statista,,8.178,16.655,49.105,20.997,-0.203,26.252,17.631,15.672,8.035,11.447
+Taiwan,Accessories,4202,Revenue Change,Luggage & Bags,percent,Statista,,6.485,12.762,52.253,15.228,-0.667,26.885,17.175,13.662,7.768,10.991
+Taiwan,Accessories,4202,Revenue Change,Luxury Leather Goods,percent,Statista,,47.382,71.968,11.08,21.978,1.594,21.623,10.376,7.978,6.682,8.778
+Taiwan,Accessories,4202,Revenue Change,Other Accessories,percent,Statista,,3.163,13.483,46.405,19.345,0.166,27.22,16.96,13.887,7.884,11.121
+Taiwan,Accessories,4202,Revenue Change,Watches & Jewelry,percent,Statista,,5.601,16.418,43.248,19.69,0.299,27.237,17.148,14.271,7.762,11.048
+Taiwan,Accessories,4202,Average Revenue per User,Total,USD (US$),Statista,761.5,478.8,400.9,434,394.5,377.5,409.4,421.6,430.1,423.4,432.5
+Taiwan,Accessories,4202,Average Revenue per User,Clothing Accessories & Other Clothes (children),USD (US$),Statista,29.72,19.57,15.19,14.83,12.63,13.14,14.63,15.2,15.8,15.54,15.92
+Taiwan,Accessories,4202,Average Revenue per User,Clothing Accessories & Other Clothes (men),USD (US$),Statista,99.71,66.01,51.43,50.2,43.09,44.66,49.54,51.33,53.17,52.32,53.58
+Taiwan,Accessories,4202,Average Revenue per User,Clothing Accessories & Other Clothes (women),USD (US$),Statista,105.9,69.56,53.84,52.41,44.89,46.54,51.54,53.33,55.15,54.23,55.5
+Taiwan,Accessories,4202,Average Revenue per User,Eyewear,USD (US$),Statista,5.711,3.61,3.013,3.439,3.195,3.024,3.256,3.375,3.492,3.449,3.538
+Taiwan,Accessories,4202,Average Revenue per User,Luggage & Bags,USD (US$),Statista,196.2,122.1,98.46,114.8,101.6,95.69,103.5,106.9,108.7,107.1,109.4
+Taiwan,Accessories,4202,Average Revenue per User,Luxury Leather Goods,USD (US$),Statista,130.2,112.1,138,117.2,109.9,105.9,109.8,106.8,103.2,100.6,100.7
+Taiwan,Accessories,4202,Average Revenue per User,Other Accessories,USD (US$),Statista,134.7,81.2,65.91,73.83,67.72,64.32,69.78,71.93,73.28,72.26,73.92
+Taiwan,Accessories,4202,Average Revenue per User,Watches & Jewelry,USD (US$),Statista,716.1,442,367.9,403.5,371.1,352.9,382.9,395.3,404.1,397.9,406.8
+Taiwan,Accessories,4202,Comparable Estimates - Fashion (Worldwide),*Statista,trillion USD (US$),,0.529,0.578,0.631,0.771,0.901,0.88,1.068,1.196,1.338,1.421,1.517
+Taiwan,Accessories,4202,Comparable Estimates - Fashion (Worldwide),ShopifyPlus,trillion USD (US$),,,0.481,0.545,0.606,0.662,0.713,,,,,
+Taiwan,Accessories,4202,Users,Total,million users,Statista,1.898,3.248,4.542,5.934,7.723,8.146,9.551,10.839,12.117,13.257,14.399
+Taiwan,Accessories,4202,Users,Clothing Accessories & Other Clothes (children),million users,Statista,0.57,0.975,1.363,1.78,2.317,2.444,2.865,3.252,3.635,3.977,4.32
+Taiwan,Accessories,4202,Users,Clothing Accessories & Other Clothes (men),million users,Statista,0.475,0.812,1.135,1.483,1.931,2.036,2.388,2.71,3.029,3.314,3.6
+Taiwan,Accessories,4202,Users,Clothing Accessories & Other Clothes (women),million users,Statista,0.759,1.299,1.817,2.373,3.089,3.258,3.82,4.336,4.847,5.303,5.76
+Taiwan,Accessories,4202,Users,Eyewear,million users,Statista,1.139,1.949,2.725,3.56,4.634,4.887,5.73,6.503,7.27,7.954,8.64
+Taiwan,Accessories,4202,Users,Luggage & Bags,million users,Statista,1.234,2.112,2.952,3.857,5.02,5.295,6.208,7.045,7.876,8.617,9.36
+Taiwan,Accessories,4202,Users,Luxury Leather Goods,million users,Statista,0.323,0.552,0.772,1.009,1.313,1.385,1.624,1.843,2.06,2.254,2.448
+Taiwan,Accessories,4202,Users,Other Accessories,million users,Statista,0.437,0.747,1.045,1.365,1.776,1.873,2.197,2.493,2.787,3.049,3.312
+Taiwan,Accessories,4202,Users,Watches & Jewelry,million users,Statista,1.329,2.274,3.179,4.154,5.406,5.702,6.686,7.587,8.482,9.28,10.08
+Taiwan,Accessories,4202,Penetration Rate,Accessories,percent,Statista,8.019,13.691,19.104,24.913,32.376,34.098,39.932,45.269,50.562,55.275,60.003
+Taiwan,Accessories,4202,Penetration Rate,Clothing Accessories & Other Clothes (children),percent,Statista,2.406,4.107,5.731,7.474,9.713,10.229,11.979,13.581,15.169,16.583,18.002
+Taiwan,Accessories,4202,Penetration Rate,Clothing Accessories & Other Clothes (men),percent,Statista,2.005,3.423,4.776,6.228,8.094,8.525,9.983,11.317,12.641,13.819,15.001
+Taiwan,Accessories,4202,Penetration Rate,Clothing Accessories & Other Clothes (women),percent,Statista,3.208,5.477,7.641,9.965,12.951,13.639,15.973,18.107,20.225,22.11,24.002
+Taiwan,Accessories,4202,Penetration Rate,Eyewear,percent,Statista,4.811,8.215,11.462,14.948,19.426,20.459,23.959,27.161,30.337,33.166,36.003
+Taiwan,Accessories,4202,Penetration Rate,Luggage & Bags,percent,Statista,5.212,8.899,12.417,16.194,21.045,22.164,25.956,29.425,32.865,35.929,39.004
+Taiwan,Accessories,4202,Penetration Rate,Luxury Leather Goods,percent,Statista,1.363,2.328,3.248,4.235,5.504,5.797,6.788,7.696,8.596,9.397,10.201
+Taiwan,Accessories,4202,Penetration Rate,Other Accessories,percent,Statista,1.844,3.149,4.394,5.73,7.447,7.843,9.184,10.412,11.629,12.713,13.801
+Taiwan,Accessories,4202,Penetration Rate,Watches & Jewelry,percent,Statista,5.613,9.584,13.373,17.439,22.663,23.869,27.952,31.688,35.394,38.693,42.004
+Taiwan,Electronics,8542,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,12.798,,,,,,
+Taiwan,Electronics,8542,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,25.597,,,,,,
+Taiwan,Electronics,8542,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,24.078,,,,,,
+Taiwan,Electronics,8542,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,21.909,,,,,,
+Taiwan,Electronics,8542,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,15.618,,,,,,
+Taiwan,Electronics,8542,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,43.384,,,,,,
+Taiwan,Electronics,8542,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,56.616,,,,,,
+Taiwan,Electronics,8542,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,41.519,,,,,,
+Taiwan,Electronics,8542,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,25.57,,,,,,
+Taiwan,Electronics,8542,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,32.911,,,,,,
+Taiwan,Electronics,8542,Revenue,Total,billion USD (US$),Statista,1.016,1.084,1.204,1.701,1.783,1.457,1.775,1.859,1.916,1.966,2.067
+Taiwan,Electronics,8542,Revenue,Consumer Electronics,billion USD (US$),Statista,0.828,0.879,0.975,1.398,1.479,1.17,1.446,1.512,1.558,1.594,1.672
+Taiwan,Electronics,8542,Revenue,Household Appliances,billion USD (US$),Statista,0.187,0.204,0.23,0.303,0.304,0.287,0.33,0.347,0.358,0.372,0.396
+Taiwan,Electronics,8542,Revenue Change,Total,percent,Statista,,6.693,11.07,41.279,4.821,-18.284,21.826,4.732,3.066,2.61,5.137
+Taiwan,Electronics,8542,Revenue Change,Consumer Electronics,percent,Statista,,6.157,10.85,43.429,5.794,-20.892,23.59,4.564,3.042,2.311,4.893
+Taiwan,Electronics,8542,Revenue Change,Household Appliances,percent,Statista,,9.183,12.274,31.882,0.363,-5.495,14.728,5.432,3.138,3.907,6.258
+Taiwan,Electronics,8542,Average Revenue per User by Segment,Total,USD (US$),Statista,222.2,179.3,163.3,194.2,171.4,142.8,156.5,150.4,143.3,140.2,140.8
+Taiwan,Electronics,8542,Average Revenue per User by Segment,Consumer Electronics,USD (US$),Statista,174.2,148.9,141.8,175.4,159.4,131.4,148.5,143.9,138.3,136.3,137.8
+Taiwan,Electronics,8542,Average Revenue per User by Segment,Household Appliances,USD (US$),Statista,73.24,54.94,46.69,49.37,40.33,37.6,37.82,35.94,33.77,32.86,32.83
+Taiwan,Electronics,8542,Comparable Estimates - eCommerce (China),*Statista,trillion USD (US$),,1.015,1.053,1.098,1.26,1.368,1.156,1.396,1.457,1.544,1.593,1.649
+Taiwan,Electronics,8542,Comparable Estimates - eCommerce (China),UNCTAD,trillion USD (US$),,,,1.539,,,,,,,,
+Taiwan,Electronics,8542,Users by Segment,Total,million users,Statista,4.571,6.046,7.375,8.761,10.399,10.199,11.34,12.364,13.375,14.026,14.677
+Taiwan,Electronics,8542,Users by Segment,Consumer Electronics,million users,Statista,4.754,5.907,6.872,7.972,9.278,8.899,9.734,10.504,11.264,11.69,12.127
+Taiwan,Electronics,8542,Users by Segment,Household Appliances,million users,Statista,2.557,3.723,4.917,6.132,7.536,7.638,8.713,9.665,10.608,11.332,12.048
+Taiwan,Electronics,8542,Penetration Rate by Segment,Consumer Electronics,percent,Statista,20.08,24.896,28.905,33.473,38.894,37.254,40.696,43.87,47,48.744,50.534
+Taiwan,Electronics,8542,Penetration Rate by Segment,Electronics,percent,Statista,19.309,25.483,31.021,36.784,43.593,42.693,47.411,51.64,55.809,58.482,61.161
+Taiwan,Electronics,8542,Penetration Rate by Segment,Household Appliances,percent,Statista,10.802,15.69,20.683,25.749,31.591,31.971,36.431,40.368,44.265,47.248,50.206
+Taiwan,Consumer Electronics,8528,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,10.58,,,,,,
+Taiwan,Consumer Electronics,8528,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,19.795,,,,,,
+Taiwan,Consumer Electronics,8528,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,25.939,,,,,,
+Taiwan,Consumer Electronics,8528,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,24.573,,,,,,
+Taiwan,Consumer Electronics,8528,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,19.113,,,,,,
+Taiwan,Consumer Electronics,8528,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,34.13,,,,,,
+Taiwan,Consumer Electronics,8528,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,65.87,,,,,,
+Taiwan,Consumer Electronics,8528,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,42.46,,,,,,
+Taiwan,Consumer Electronics,8528,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,25.794,,,,,,
+Taiwan,Consumer Electronics,8528,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,31.746,,,,,,
+Taiwan,Consumer Electronics,8528,Revenue,Total,million USD (US$),Statista,828.3,879.3,974.7,"1,398","1,479","1,170","1,446","1,512","1,558","1,594","1,672"
+Taiwan,Consumer Electronics,8528,Revenue,Computing,million USD (US$),Statista,145.7,156.9,172.3,229,239.8,185.8,226.8,233.8,237.1,239.3,247.7
+Taiwan,Consumer Electronics,8528,Revenue,Other Consumer Electronics,million USD (US$),Statista,247.1,262.6,291,415.2,434.6,341.4,418.9,434.6,443.6,449.8,467.4
+Taiwan,Consumer Electronics,8528,Revenue,Telephony,million USD (US$),Statista,266.3,283.2,319.1,492.3,519.6,413.2,506.4,523.9,532.8,543.3,566.3
+Taiwan,Consumer Electronics,8528,Revenue,"TV, Radio & Multimedia",million USD (US$),Statista,164.2,171.9,187.5,256.2,279.3,225.1,288.4,314.6,338.9,355.8,384.7
+Taiwan,Consumer Electronics,8528,Revenue,TV Peripheral Devices,million USD (US$),Statista,4.969,4.675,4.753,5.556,5.317,4.175,5.02,5.175,5.358,5.329,5.487
+Taiwan,Consumer Electronics,8528,Revenue Change,Total,percent,Statista,,6.157,10.85,43.429,5.794,-20.892,23.59,4.564,3.042,2.311,4.893
+Taiwan,Consumer Electronics,8528,Revenue Change,Computing,percent,Statista,,7.687,9.815,32.908,4.716,-22.519,22.067,3.086,1.411,0.928,3.51
+Taiwan,Consumer Electronics,8528,Revenue Change,Other Consumer Electronics,percent,Statista,,6.273,10.815,42.68,4.672,-21.445,22.701,3.748,2.071,1.398,3.913
+Taiwan,Consumer Electronics,8528,Revenue Change,Telephony,percent,Statista,,6.346,12.677,54.278,5.545,-20.477,22.556,3.456,1.699,1.971,4.233
+Taiwan,Consumer Electronics,8528,Revenue Change,"TV, Radio & Multimedia",percent,Statista,,4.689,9.075,36.64,9.016,-19.406,28.121,9.085,7.724,4.987,8.123
+Taiwan,Consumer Electronics,8528,Revenue Change,TV Peripheral Devices,percent,Statista,,-5.917,1.668,16.895,-4.302,-21.478,20.24,3.088,3.536,-0.541,2.965
+Taiwan,Consumer Electronics,8528,Average Revenue per User,Total,USD (US$),Statista,174.2,148.9,141.8,175.4,159.4,131.4,148.5,143.9,138.3,136.3,137.8
+Taiwan,Consumer Electronics,8528,Average Revenue per User,Computing,USD (US$),Statista,43.78,37.95,35.82,41.03,36.93,29.82,33.29,31.79,30.08,29.25,29.18
+Taiwan,Consumer Electronics,8528,Average Revenue per User,Other Consumer Electronics,USD (US$),Statista,64.97,55.57,52.94,65.1,58.55,47.95,53.8,51.72,49.22,48.09,48.18
+Taiwan,Consumer Electronics,8528,Average Revenue per User,Telephony,USD (US$),Statista,70.03,59.92,58.04,77.19,70,58.04,65.03,62.35,59.13,58.09,58.37
+Taiwan,Consumer Electronics,8528,Average Revenue per User,"TV, Radio & Multimedia",USD (US$),Statista,86.36,72.75,68.23,80.34,75.27,63.24,74.08,74.87,75.22,76.09,79.3
+Taiwan,Consumer Electronics,8528,Average Revenue per User,TV Peripheral Devices,USD (US$),Statista,3.484,2.638,2.305,2.323,1.91,1.564,1.719,1.642,1.586,1.52,1.508
+Taiwan,Consumer Electronics,8528,Comparable Estimates - Consumer Electronics (Worldwide),*Statista,trillion USD (US$),,0.503,0.508,0.522,0.63,0.695,0.548,0.724,0.768,0.839,0.872,0.913
+Taiwan,Consumer Electronics,8528,Comparable Estimates - Consumer Electronics (Worldwide),The BRC,trillion USD (US$),,,,,,0.473,0.539,,,,0.825,
+Taiwan,Consumer Electronics,8528,Users,Total,million users,Statista,4.754,5.907,6.872,7.972,9.278,8.899,9.734,10.504,11.264,11.69,12.127
+Taiwan,Consumer Electronics,8528,Users,Computing,million users,Statista,3.328,4.135,4.81,5.581,6.495,6.23,6.814,7.353,7.885,8.183,8.489
+Taiwan,Consumer Electronics,8528,Users,Other Consumer Electronics,million users,Statista,3.803,4.726,5.497,6.378,7.423,7.119,7.787,8.403,9.011,9.352,9.702
+Taiwan,Consumer Electronics,8528,Users,Telephony,million users,Statista,3.803,4.726,5.497,6.378,7.423,7.119,7.787,8.403,9.011,9.352,9.702
+Taiwan,Consumer Electronics,8528,Users,"TV, Radio & Multimedia",million users,Statista,1.902,2.363,2.749,3.189,3.711,3.56,3.893,4.202,4.505,4.676,4.851
+Taiwan,Consumer Electronics,8528,Users,TV Peripheral Devices,million users,Statista,1.426,1.772,2.062,2.392,2.783,2.67,2.92,3.151,3.379,3.507,3.638
+Taiwan,Consumer Electronics,8528,Penetration Rate,Computing,percent,Statista,14.056,17.427,20.233,23.431,27.226,26.077,28.488,30.709,32.9,34.121,35.374
+Taiwan,Consumer Electronics,8528,Penetration Rate,Consumer Electronics,percent,Statista,20.08,24.896,28.905,33.473,38.894,37.254,40.696,43.87,47,48.744,50.534
+Taiwan,Consumer Electronics,8528,Penetration Rate,Other Consumer Electronics,percent,Statista,16.064,19.917,23.124,26.778,31.115,29.803,32.557,35.096,37.6,38.995,40.427
+Taiwan,Consumer Electronics,8528,Penetration Rate,Telephony,percent,Statista,16.064,19.917,23.124,26.778,31.115,29.803,32.557,35.096,37.6,38.995,40.427
+Taiwan,Consumer Electronics,8528,Penetration Rate,"TV, Radio & Multimedia",percent,Statista,8.032,9.958,11.562,13.389,15.558,14.901,16.279,17.548,18.8,19.498,20.215
+Taiwan,Consumer Electronics,8528,Penetration Rate,TV Peripheral Devices,percent,Statista,6.024,7.469,8.671,10.042,11.668,11.176,12.209,13.161,14.1,14.623,15.16
+Taiwan,Household Appliances,8516,Revenue,Total,million USD (US$),Statista,187.3,204.5,229.6,302.8,303.9,287.2,329.5,347.4,358.3,372.3,395.6
+Taiwan,Household Appliances,8516,Revenue,Major Appliances,million USD (US$),Statista,91.36,99.69,111.4,146.6,147,139.4,159.1,167.6,172.7,179.3,190.4
+Taiwan,Household Appliances,8516,Revenue,Other Household Appliances,million USD (US$),Statista,34.09,37.23,41.79,55.12,55.32,52.27,59.98,63.24,65.22,67.77,72
+Taiwan,Household Appliances,8516,Revenue,Small Appliances,million USD (US$),Statista,61.84,67.61,76.39,101,101.6,95.46,110.5,116.6,120.3,125.2,133.2
+Taiwan,Household Appliances,8516,Revenue Change,Total,percent,Statista,,9.183,12.274,31.882,0.363,-5.495,14.728,5.432,3.138,3.907,6.258
+Taiwan,Household Appliances,8516,Revenue Change,Major Appliances,percent,Statista,,9.118,11.746,31.598,0.273,-5.17,14.132,5.343,3.043,3.822,6.191
+Taiwan,Household Appliances,8516,Revenue Change,Other Household Appliances,percent,Statista,,9.211,12.248,31.898,0.363,-5.513,14.75,5.435,3.131,3.91,6.242
+Taiwan,Household Appliances,8516,Revenue Change,Small Appliances,percent,Statista,,9.331,12.986,32.216,0.594,-6.043,15.755,5.52,3.173,4.073,6.39
+Taiwan,Household Appliances,8516,Average Revenue per User,Total,USD (US$),Statista,73.24,54.94,46.69,49.37,40.33,37.6,37.82,35.94,33.77,32.86,32.83
+Taiwan,Household Appliances,8516,Average Revenue per User,Major Appliances,USD (US$),Statista,89.31,66.94,56.65,59.78,48.77,45.64,45.64,43.36,40.71,39.57,39.5
+Taiwan,Household Appliances,8516,Average Revenue per User,Other Household Appliances,USD (US$),Statista,66.66,50,42.5,44.94,36.7,34.22,34.42,32.71,30.74,29.9,29.88
+Taiwan,Household Appliances,8516,Average Revenue per User,Small Appliances,USD (US$),Statista,30.23,22.7,19.42,20.59,16.85,15.62,15.85,15.07,14.18,13.81,13.82
+Taiwan,Household Appliances,8516,Comparable Estimates - Household Appliances (Worldwide),*Statista,billion USD (US$),,128.4,145.6,163.7,197.3,233.1,221.4,264.4,291.3,322.3,342.6,365.2
+Taiwan,Household Appliances,8516,Comparable Estimates - Household Appliances (Worldwide),Million Insights,billion USD (US$),,,,,316,329.6,,,,,,
+Taiwan,Household Appliances,8516,Comparable Estimates - Household Appliances (Worldwide),The BRC,billion USD (US$),,,,307.6,,,,433.4,,,,
+Taiwan,Household Appliances,8516,Users,Total,million users,Statista,2.557,3.723,4.917,6.132,7.536,7.638,8.713,9.665,10.608,11.332,12.048
+Taiwan,Household Appliances,8516,Users,Major Appliances,million users,Statista,1.023,1.489,1.967,2.453,3.014,3.055,3.485,3.866,4.243,4.532,4.819
+Taiwan,Household Appliances,8516,Users,Other Household Appliances,million users,Statista,0.511,0.745,0.983,1.226,1.507,1.528,1.743,1.933,2.122,2.266,2.41
+Taiwan,Household Appliances,8516,Users,Small Appliances,million users,Statista,2.046,2.978,3.934,4.906,6.029,6.11,6.971,7.732,8.487,9.065,9.639
+Taiwan,Household Appliances,8516,Penetration Rate,Household Appliances,percent,Statista,10.802,15.69,20.683,25.749,31.591,31.971,36.431,40.368,44.265,47.248,50.206
+Taiwan,Household Appliances,8516,Penetration Rate,Major Appliances,percent,Statista,4.321,6.276,8.273,10.299,12.636,12.789,14.572,16.147,17.706,18.899,20.081
+Taiwan,Household Appliances,8516,Penetration Rate,Other Household Appliances,percent,Statista,2.16,3.138,4.137,5.15,6.318,6.394,7.286,8.074,8.853,9.45,10.042
+Taiwan,Household Appliances,8516,Penetration Rate,Small Appliances,percent,Statista,8.641,12.552,16.547,20.599,25.273,25.577,29.145,32.294,35.412,37.799,40.166
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,8.06,,,,,,
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,23.156,,,,,,
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,24.185,,,,,,
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,25.557,,,,,,
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,19.039,,,,,,
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,64.151,,,,,,
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,35.849,,,,,,
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,38.636,,,,,,
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,27.273,,,,,,
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,34.091,,,,,,
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Revenue,Total,million USD (US$),Statista,357.7,393.6,454.4,606.4,694.6,706.8,911,"1,085","1,258","1,354","1,507"
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Revenue,Beauty Care,million USD (US$),Statista,81.73,88.83,102.4,137.6,163.5,164.4,206.4,238.3,272,292.4,324.1
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Revenue,Health Care,million USD (US$),Statista,29.07,29.88,32.53,37.02,40.57,39.91,48.19,51.85,53.65,56.42,60.64
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Revenue,Household Care,million USD (US$),Statista,32.15,34.28,38.4,47.81,55.14,64.29,105.7,158.4,203.9,222.6,254.5
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Revenue,Personal Care,million USD (US$),Statista,214.7,240.6,281.1,384,435.3,438.2,550.7,636.6,728,782.4,867.4
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Revenue Change,Total,percent,Statista,,10.036,15.447,33.451,14.545,1.756,28.891,19.1,15.945,7.631,11.3
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Revenue Change,Beauty Care,percent,Statista,,8.687,15.276,34.375,18.823,0.55,25.547,15.455,14.142,7.5,10.841
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Revenue Change,Health Care,percent,Statista,,2.786,8.869,13.803,9.589,-1.627,20.747,7.595,3.472,5.163,7.48
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Revenue Change,Household Care,percent,Statista,,6.625,12.019,24.505,15.332,16.594,64.411,49.858,28.725,9.171,14.331
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Revenue Change,Personal Care,percent,Statista,,12.063,16.833,36.606,13.359,0.666,25.673,15.598,14.358,7.473,10.864
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Average Revenue per User by Segment,Total,USD (US$),Statista,103.1,89.33,89.38,106.7,105.5,109.6,127.9,140.8,151.8,156.7,167.4
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Average Revenue per User by Segment,Beauty Care,USD (US$),Statista,33.67,28.8,28.78,34.59,35.47,36.43,41.39,44.17,46.9,48.35,51.44
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Average Revenue per User by Segment,Health Care,USD (US$),Statista,13.1,10.6,9.996,10.18,9.626,9.672,10.57,10.51,10.12,10.2,10.52
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Average Revenue per User by Segment,Household Care,USD (US$),Statista,59.12,60.12,62.19,73.36,79.06,86.54,134.4,192.6,238.2,76.41,83.4
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Average Revenue per User by Segment,Personal Care,USD (US$),Statista,99.86,88.07,89.16,109,106.6,109.6,124.7,133.2,141.7,146,155.4
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Comparable Estimates - eCommerce (China),*Statista,trillion USD (US$),,1.015,1.053,1.098,1.26,1.368,1.156,1.396,1.457,1.544,1.593,1.649
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Comparable Estimates - eCommerce (China),UNCTAD,trillion USD (US$),,,,1.539,,,,,,,,
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Users by Segment,Total,million users,Statista,3.468,4.406,5.085,5.683,6.586,6.448,7.123,7.708,8.285,8.64,9.001
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Users by Segment,Beauty Care,million users,Statista,2.428,3.084,3.559,3.978,4.61,4.513,4.986,5.396,5.799,6.048,6.301
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Users by Segment,Health Care,million users,Statista,2.22,2.82,3.254,3.637,4.215,4.127,4.559,4.933,5.302,5.53,5.762
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Users by Segment,Household Care,million users,Statista,0.544,0.57,0.617,0.652,0.697,0.743,0.786,0.822,0.856,2.914,3.051
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Users by Segment,Personal Care,million users,Statista,2.15,2.732,3.152,3.523,4.083,3.998,4.416,4.779,5.136,5.357,5.581
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Penetration Rate by Segment,"Beauty, Health, Personal & Household Care",percent,Statista,14.649,18.571,21.387,23.86,27.609,26.991,29.782,32.192,34.57,36.025,37.51
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Penetration Rate by Segment,Beauty Care,percent,Statista,10.254,13,14.971,16.702,19.326,18.894,20.847,22.535,24.199,25.218,26.259
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Penetration Rate by Segment,Health Care,percent,Statista,9.375,11.885,13.688,15.27,17.669,17.274,19.06,20.603,22.125,23.057,24.009
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Penetration Rate by Segment,Household Care,percent,Statista,2.297,2.403,2.597,2.736,2.923,3.11,3.288,3.434,3.573,12.149,12.715
+Taiwan,"Beauty, Health, Personal & Household Care",3304,Penetration Rate by Segment,Personal Care,percent,Statista,9.082,11.514,13.26,14.793,17.117,16.734,18.465,19.959,21.433,22.336,23.258
+Taiwan,Personal Care,3304,Users by Age,18-24 years,percent,Statista|Statista Global Consumer Survey,,,,,8.95,,,,,,
+Taiwan,Personal Care,3304,Users by Age,25-34 years,percent,Statista|Statista Global Consumer Survey,,,,,24.691,,,,,,
+Taiwan,Personal Care,3304,Users by Age,35-44 years,percent,Statista|Statista Global Consumer Survey,,,,,25.926,,,,,,
+Taiwan,Personal Care,3304,Users by Age,45-54 years,percent,Statista|Statista Global Consumer Survey,,,,,28.086,,,,,,
+Taiwan,Personal Care,3304,Users by Age,55-64 years,percent,Statista|Statista Global Consumer Survey,,,,,12.346,,,,,,
+Taiwan,Personal Care,3304,Users by Gender,female,percent,Statista|Statista Global Consumer Survey,,,,,76.852,,,,,,
+Taiwan,Personal Care,3304,Users by Gender,male,percent,Statista|Statista Global Consumer Survey,,,,,23.148,,,,,,
+Taiwan,Personal Care,3304,Users by Income,high income,percent,Statista|Statista Global Consumer Survey,,,,,41.636,,,,,,
+Taiwan,Personal Care,3304,Users by Income,low income,percent,Statista|Statista Global Consumer Survey,,,,,26.394,,,,,,
+Taiwan,Personal Care,3304,Users by Income,medium income,percent,Statista|Statista Global Consumer Survey,,,,,31.97,,,,,,
+Taiwan,Personal Care,3304,Revenue,Total,million USD (US$),Statista,214.7,240.6,281.1,384,435.3,438.2,550.7,636.6,728,782.4,867.4
+Taiwan,Personal Care,3304,Revenue,Body Care,million USD (US$),Statista,34.91,40.38,47.14,64.76,73.07,73.97,93.32,108.1,124,133.4,148.1
+Taiwan,Personal Care,3304,Revenue,Eye Care,million USD (US$),Statista,15.87,16.78,19.18,28.07,33.34,32.8,40.88,47.51,54.34,58.47,64.87
+Taiwan,Personal Care,3304,Revenue,Hair Care,million USD (US$),Statista,38.33,45.45,52.95,72.44,74.08,74.53,93.44,107.6,122.7,131.3,145.1
+Taiwan,Personal Care,3304,Revenue,Oral Care,million USD (US$),Statista,20.68,23.43,26.72,36.65,41.8,42.22,53.18,61.53,70.51,75.79,84.05
+Taiwan,Personal Care,3304,Revenue,Other Personal Care,million USD (US$),Statista,52.25,60.78,70.55,96.72,105.1,106.1,133.5,154.2,176.4,189.4,209.9
+Taiwan,Personal Care,3304,Revenue,Skin Care,million USD (US$),Statista,52.67,53.77,64.55,85.37,107.9,108.5,136.4,157.7,180.1,194,215.4
+Taiwan,Personal Care,3304,Revenue Change,Total,percent,Statista,,12.063,16.833,36.606,13.359,0.666,25.673,15.598,14.358,7.473,10.864
+Taiwan,Personal Care,3304,Revenue Change,Body Care,percent,Statista,,15.669,16.741,37.378,12.832,1.232,26.159,15.838,14.709,7.581,11.019
+Taiwan,Personal Care,3304,Revenue Change,Eye Care,percent,Statista,,5.734,14.303,46.35,18.774,-1.62,24.634,16.218,14.376,7.6,10.946
+Taiwan,Personal Care,3304,Revenue Change,Hair Care,percent,Statista,,18.576,16.502,36.808,2.264,0.607,25.372,15.154,14.033,7.009,10.51
+Taiwan,Personal Care,3304,Revenue Change,Oral Care,percent,Statista,,13.298,14.042,37.163,14.052,1.005,25.959,15.701,14.595,7.488,10.899
+Taiwan,Personal Care,3304,Revenue Change,Other Personal Care,percent,Statista,,16.325,16.074,37.094,8.664,0.951,25.825,15.506,14.397,7.37,10.824
+Taiwan,Personal Care,3304,Revenue Change,Skin Care,percent,Statista,,2.088,20.048,32.254,26.391,0.556,25.714,15.616,14.204,7.718,11.031
+Taiwan,Personal Care,3304,Average Revenue per User,Total,USD (US$),Statista,99.86,88.07,89.16,109,106.6,109.6,124.7,133.2,141.7,146,155.4
+Taiwan,Personal Care,3304,Average Revenue per User,Body Care,USD (US$),Statista,23.88,21.73,21.99,27.03,26.32,27.21,31.07,33.26,35.49,36.62,39.02
+Taiwan,Personal Care,3304,Average Revenue per User,Eye Care,USD (US$),Statista,14.76,12.28,12.17,15.93,16.33,16.41,18.51,19.88,21.16,21.83,23.25
+Taiwan,Personal Care,3304,Average Revenue per User,Hair Care,USD (US$),Statista,34.28,32,32.3,39.54,34.89,35.85,40.69,43.3,45.93,47.13,50
+Taiwan,Personal Care,3304,Average Revenue per User,Oral Care,USD (US$),Statista,19.63,17.5,17.3,21.23,20.89,21.55,24.58,26.28,28.01,28.87,30.74
+Taiwan,Personal Care,3304,Average Revenue per User,Other Personal Care,USD (US$),Statista,54,49.44,49.73,61,57.21,58.98,67.17,71.72,76.34,78.58,83.57
+Taiwan,Personal Care,3304,Average Revenue per User,Skin Care,USD (US$),Statista,55.68,44.74,46.53,55.07,60.06,61.7,70.18,74.98,79.68,82.33,87.74
+Taiwan,Personal Care,3304,Comparable Estimates - eCommerce (China),*Statista,trillion USD (US$),,1.015,1.053,1.098,1.26,1.368,1.156,1.396,1.457,1.544,1.593,1.649
+Taiwan,Personal Care,3304,Comparable Estimates - eCommerce (China),UNCTAD,trillion USD (US$),,,,1.539,,,,,,,,
+Taiwan,Personal Care,3304,Users,Total,million users,Statista,2.15,2.732,3.152,3.523,4.083,3.998,4.416,4.779,5.136,5.357,5.581
+Taiwan,Personal Care,3304,Users,Body Care,million users,Statista,1.462,1.858,2.144,2.396,2.777,2.718,3.003,3.25,3.493,3.643,3.795
+Taiwan,Personal Care,3304,Users,Eye Care,million users,Statista,1.075,1.366,1.576,1.762,2.042,1.999,2.208,2.389,2.568,2.678,2.79
+Taiwan,Personal Care,3304,Users,Hair Care,million users,Statista,1.118,1.421,1.639,1.832,2.123,2.079,2.297,2.485,2.671,2.785,2.902
+Taiwan,Personal Care,3304,Users,Oral Care,million users,Statista,1.054,1.339,1.545,1.726,2.001,1.959,2.164,2.342,2.517,2.625,2.734
+Taiwan,Personal Care,3304,Users,Other Personal Care,million users,Statista,0.968,1.229,1.419,1.585,1.837,1.799,1.987,2.151,2.311,2.41,2.511
+Taiwan,Personal Care,3304,Users,Skin Care,million users,Statista,0.946,1.202,1.387,1.55,1.797,1.759,1.943,2.103,2.26,2.357,2.455
+Taiwan,Personal Care,3304,Penetration Rate,Body Care,percent,Statista,6.176,7.829,9.017,10.059,11.64,11.379,12.556,13.572,14.575,15.188,15.814
+Taiwan,Personal Care,3304,Penetration Rate,Eye Care,percent,Statista,4.541,5.757,6.63,7.396,8.559,8.367,9.232,9.98,10.717,11.167,11.627
+Taiwan,Personal Care,3304,Penetration Rate,Hair Care,percent,Statista,4.723,5.987,6.895,7.692,8.901,8.702,9.602,10.379,11.145,11.614,12.092
+Taiwan,Personal Care,3304,Penetration Rate,Oral Care,percent,Statista,4.45,5.642,6.498,7.249,8.387,8.2,9.048,9.78,10.502,10.944,11.394
+Taiwan,Personal Care,3304,Penetration Rate,Other Personal Care,percent,Statista,4.087,5.181,5.967,6.657,7.703,7.53,8.309,8.982,9.645,10.05,10.464
+Taiwan,Personal Care,3304,Penetration Rate,Personal Care,percent,Statista,9.082,11.514,13.26,14.793,17.117,16.734,18.465,19.959,21.433,22.336,23.258
+Taiwan,Personal Care,3304,Penetration Rate,Skin Care,percent,Statista,3.996,5.066,5.835,6.509,7.532,7.363,8.124,8.782,9.431,9.827,10.232
+Taiwan,Beauty Care,3305,Comparable Estimates - eCommerce (China),*Statista,trillion USD (US$),,1.015,1.053,1.098,1.26,1.368,1.156,1.396,1.457,1.544,1.593,1.649
+Taiwan,Beauty Care,3305,Comparable Estimates - eCommerce (China),UNCTAD,trillion USD (US$),,,,1.539,,,,,,,,
+Taiwan,Beauty Care,3305,Revenue,Total,million USD (US$),Statista,81.73,88.83,102.4,137.6,163.5,164.4,206.4,238.3,272,292.4,324.1
+Taiwan,Beauty Care,3305,Revenue,Cosmetics,million USD (US$),Statista,39.18,43.2,48.48,64.84,75.75,76.25,95.78,110.6,126.3,135.6,150.1
+Taiwan,Beauty Care,3305,Revenue,Fragrances,million USD (US$),Statista,6.114,6.959,9.037,13.04,14.85,14.88,18.85,22.22,25.57,27.66,30.84
+Taiwan,Beauty Care,3305,Revenue,Other Beauty Care,million USD (US$),Statista,36.43,38.67,44.93,59.71,72.94,73.28,91.76,105.5,120.1,129.2,143.2
+Taiwan,Beauty Care,3305,Revenue Change,Total,percent,Statista,,8.687,15.276,34.375,18.823,0.55,25.547,15.455,14.142,7.5,10.841
+Taiwan,Beauty Care,3305,Revenue Change,Cosmetics,percent,Statista,,10.26,12.222,33.746,16.826,0.66,25.613,15.473,14.195,7.363,10.693
+Taiwan,Beauty Care,3305,Revenue Change,Fragrances,percent,Statista,,13.821,29.861,44.296,13.88,0.202,26.68,17.878,15.077,8.174,11.497
+Taiwan,Beauty Care,3305,Revenue Change,Other Beauty Care,percent,Statista,,6.149,16.188,32.896,22.157,0.466,25.218,14.974,13.839,7.577,10.836
+Taiwan,Beauty Care,3305,Average Revenue per User by Segment,Total,USD (US$),Statista,33.67,28.8,28.78,34.59,35.47,36.43,41.39,44.17,46.9,48.35,51.44
+Taiwan,Beauty Care,3305,Average Revenue per User by Segment,Cosmetics,USD (US$),Statista,23.06,20.01,19.46,23.28,23.47,24.13,27.44,29.28,31.11,32.02,34.04
+Taiwan,Beauty Care,3305,Average Revenue per User by Segment,Fragrances,USD (US$),Statista,4.197,3.761,4.232,5.462,5.368,5.494,6.302,6.863,7.347,7.623,8.156
+Taiwan,Beauty Care,3305,Average Revenue per User by Segment,Other Beauty Care,USD (US$),Statista,60.03,50.15,50.49,60.04,63.29,64.94,73.61,78.22,82.86,85.45,90.9
+Taiwan,Beauty Care,3305,Users by Segment,Total,million users,Statista,2.428,3.084,3.559,3.978,4.61,4.513,4.986,5.396,5.799,6.048,6.301
+Taiwan,Beauty Care,3305,Users by Segment,Cosmetics,million users,Statista,1.699,2.159,2.491,2.784,3.227,3.159,3.49,3.777,4.059,4.234,4.411
+Taiwan,Beauty Care,3305,Users by Segment,Fragrances,million users,Statista,1.457,1.851,2.136,2.387,2.766,2.708,2.992,3.237,3.48,3.629,3.781
+Taiwan,Beauty Care,3305,Users by Segment,Other Beauty Care,million users,Statista,0.607,0.771,0.89,0.994,1.153,1.128,1.247,1.349,1.45,1.512,1.575
+Taiwan,Beauty Care,3305,Penetration Rate by Segment,Beauty Care,percent,Statista,10.254,13,14.971,16.702,19.326,18.894,20.847,22.535,24.199,25.218,26.259
+Taiwan,Beauty Care,3305,Penetration Rate by Segment,Cosmetics,percent,Statista,7.178,9.1,10.48,11.691,13.528,13.226,14.593,15.774,16.939,17.653,18.382
+Taiwan,Beauty Care,3305,Penetration Rate by Segment,Fragrances,percent,Statista,6.152,7.8,8.983,10.021,11.596,11.336,12.508,13.521,14.519,15.13,15.754
+Taiwan,Beauty Care,3305,Penetration Rate by Segment,Other Beauty Care,percent,Statista,2.563,3.25,3.743,4.175,4.831,4.723,5.212,5.634,6.05,6.304,6.563
+Taiwan,Health Care,3003,Comparable Estimates - eCommerce (China),*Statista,trillion USD (US$),,1.015,1.053,1.098,1.26,1.368,1.156,1.396,1.457,1.544,1.593,1.649
+Taiwan,Health Care,3003,Comparable Estimates - eCommerce (China),UNCTAD,trillion USD (US$),,,,1.539,,,,,,,,
+Taiwan,Health Care,3003,Revenue,Total,million USD (US$),Statista,29.07,29.88,32.53,37.02,40.57,39.91,48.19,51.85,53.65,56.42,60.64
+Taiwan,Health Care,3003,Revenue,Analgesics,million USD (US$),Statista,6.862,7.057,7.662,8.504,9.229,8.901,10.56,11.22,11.51,12.01,12.81
+Taiwan,Health Care,3003,Revenue,Cold & Cough Remedies,million USD (US$),Statista,5.07,5.179,5.594,6.202,6.763,6.577,7.847,8.341,8.543,8.924,9.53
+Taiwan,Health Care,3003,Revenue,Digestives & Intestinal Remedies,million USD (US$),Statista,4.474,4.588,4.985,5.578,6.168,6.096,7.372,7.901,8.127,8.547,9.177
+Taiwan,Health Care,3003,Revenue,Hand Sanitizer,million USD (US$),Statista,0.449,0.498,0.593,1.151,1.149,1.162,1.492,1.791,2.041,2.218,2.478
+Taiwan,Health Care,3003,Revenue,Incontinence,million USD (US$),Statista,0.798,0.855,0.99,1.276,1.618,1.861,2.519,2.897,3.111,3.415,3.803
+Taiwan,Health Care,3003,Revenue,Other Health Care,million USD (US$),Statista,7.075,7.265,7.893,8.946,9.749,9.522,11.43,12.25,12.65,13.26,14.22
+Taiwan,Health Care,3003,Revenue,Skin Treatment,million USD (US$),Statista,2.593,2.646,2.862,3.189,3.509,3.451,4.159,4.453,4.587,4.812,5.159
+Taiwan,Health Care,3003,Revenue,Vitamins & Minerals,million USD (US$),Statista,1.749,1.795,1.949,2.175,2.388,2.339,2.809,2.999,3.081,3.23,3.46
+Taiwan,Health Care,3003,Revenue Change,Total,percent,Statista,,2.786,8.869,13.803,9.589,-1.627,20.747,7.595,3.472,5.163,7.48
+Taiwan,Health Care,3003,Revenue Change,Analgesics,percent,Statista,,2.842,8.573,10.989,8.525,-3.554,18.638,6.25,2.585,4.344,6.661
+Taiwan,Health Care,3003,Revenue Change,Cold & Cough Remedies,percent,Statista,,2.15,8.013,10.869,9.045,-2.75,19.31,6.295,2.422,4.46,6.791
+Taiwan,Health Care,3003,Revenue Change,Digestives & Intestinal Remedies,percent,Statista,,2.548,8.653,11.896,10.577,-1.167,20.932,7.176,2.86,5.168,7.371
+Taiwan,Health Care,3003,Revenue Change,Hand Sanitizer,percent,Statista,,10.98,18.964,94.163,-0.174,1.131,28.399,20.04,13.959,8.672,11.722
+Taiwan,Health Care,3003,Revenue Change,Incontinence,percent,Statista,,7.146,15.867,28.863,26.803,15.019,35.357,15.006,7.387,9.772,11.362
+Taiwan,Health Care,3003,Revenue Change,Other Health Care,percent,Statista,,2.686,8.644,13.341,8.976,-2.328,20.038,7.174,3.265,4.822,7.24
+Taiwan,Health Care,3003,Revenue Change,Skin Treatment,percent,Statista,,2.044,8.163,11.426,10.034,-1.653,20.516,7.069,3.009,4.905,7.211
+Taiwan,Health Care,3003,Revenue Change,Vitamins & Minerals,percent,Statista,,2.63,8.579,11.596,9.793,-2.052,20.094,6.764,2.734,4.836,7.121
+Taiwan,Health Care,3003,Average Revenue per User by Segment,Total,USD (US$),Statista,13.1,10.6,9.996,10.18,9.626,9.672,10.57,10.51,10.12,10.2,10.52
+Taiwan,Health Care,3003,Average Revenue per User by Segment,Analgesics,USD (US$),Statista,15.46,12.51,11.77,11.69,10.95,10.79,11.59,11.37,10.85,10.85,11.11
+Taiwan,Health Care,3003,Average Revenue per User by Segment,Cold & Cough Remedies,USD (US$),Statista,5.71,4.591,4.298,4.263,4.011,3.985,4.303,4.227,4.028,4.035,4.136
+Taiwan,Health Care,3003,Average Revenue per User by Segment,Digestives & Intestinal Remedies,USD (US$),Statista,6.719,5.424,5.106,5.112,4.877,4.924,5.391,5.339,5.109,5.152,5.31
+Taiwan,Health Care,3003,Average Revenue per User by Segment,Hand Sanitizer,USD (US$),Statista,0.506,0.442,0.455,0.791,0.681,0.704,0.818,0.907,0.962,1.003,1.075
+Taiwan,Health Care,3003,Average Revenue per User by Segment,Incontinence,USD (US$),Statista,1.797,1.515,1.521,1.754,1.92,2.255,2.763,2.937,2.934,3.087,3.3
+Taiwan,Health Care,3003,Average Revenue per User by Segment,Other Health Care,USD (US$),Statista,13.86,11.2,10.55,10.69,10.06,10.03,10.9,10.8,10.37,10.43,10.73
+Taiwan,Health Care,3003,Average Revenue per User by Segment,Skin Treatment,USD (US$),Statista,2.92,2.346,2.199,2.192,2.081,2.091,2.281,2.257,2.163,2.176,2.239
+Taiwan,Health Care,3003,Average Revenue per User by Segment,Vitamins & Minerals,USD (US$),Statista,1.576,1.273,1.198,1.196,1.133,1.134,1.232,1.216,1.162,1.168,1.201
+Taiwan,Health Care,3003,Users by Segment,Total,million users,Statista,2.22,2.82,3.254,3.637,4.215,4.127,4.559,4.933,5.302,5.53,5.762
+Taiwan,Health Care,3003,Users by Segment,Analgesics,million users,Statista,0.444,0.564,0.651,0.727,0.843,0.825,0.912,0.987,1.06,1.106,1.152
+Taiwan,Health Care,3003,Users by Segment,Cold & Cough Remedies,million users,Statista,0.888,1.128,1.302,1.455,1.686,1.651,1.824,1.973,2.121,2.212,2.304
+Taiwan,Health Care,3003,Users by Segment,Digestives & Intestinal Remedies,million users,Statista,0.666,0.846,0.976,1.091,1.265,1.238,1.368,1.48,1.591,1.659,1.728
+Taiwan,Health Care,3003,Users by Segment,Hand Sanitizer,million users,Statista,0.888,1.128,1.302,1.455,1.686,1.651,1.824,1.973,2.121,2.212,2.304
+Taiwan,Health Care,3003,Users by Segment,Incontinence,million users,Statista,0.444,0.564,0.651,0.727,0.843,0.825,0.912,0.987,1.06,1.106,1.152
+Taiwan,Health Care,3003,Users by Segment,Other Health Care,million users,Statista,0.51,0.649,0.748,0.836,0.969,0.949,1.049,1.135,1.22,1.272,1.325
+Taiwan,Health Care,3003,Users by Segment,Skin Treatment,million users,Statista,0.888,1.128,1.302,1.455,1.686,1.651,1.824,1.973,2.121,2.212,2.304
+Taiwan,Health Care,3003,Users by Segment,Vitamins & Minerals,million users,Statista,1.11,1.41,1.627,1.818,2.108,2.063,2.279,2.467,2.651,2.765,2.88
+Taiwan,Health Care,3003,Penetration Rate by Segment,Analgesics,percent,Statista,1.875,2.377,2.738,3.054,3.534,3.455,3.812,4.121,4.425,4.612,4.803
+Taiwan,Health Care,3003,Penetration Rate by Segment,Cold & Cough Remedies,percent,Statista,3.75,4.754,5.475,6.108,7.068,6.91,7.624,8.241,8.85,9.222,9.602
+Taiwan,Health Care,3003,Penetration Rate by Segment,Digestives & Intestinal Remedies,percent,Statista,2.813,3.566,4.106,4.581,5.301,5.182,5.718,6.181,6.637,6.917,7.202
+Taiwan,Health Care,3003,Penetration Rate by Segment,Hand Sanitizer,percent,Statista,3.75,4.754,5.475,6.108,7.068,6.91,7.624,8.241,8.85,9.222,9.602
+Taiwan,Health Care,3003,Penetration Rate by Segment,Health Care,percent,Statista,9.375,11.885,13.688,15.27,17.669,17.274,19.06,20.603,22.125,23.057,24.009
+Taiwan,Health Care,3003,Penetration Rate by Segment,Incontinence,percent,Statista,1.875,2.377,2.738,3.054,3.534,3.455,3.812,4.121,4.425,4.612,4.803
+Taiwan,Health Care,3003,Penetration Rate by Segment,Other Health Care,percent,Statista,2.156,2.734,3.148,3.512,4.064,3.973,4.384,4.739,5.089,5.304,5.523
+Taiwan,Health Care,3003,Penetration Rate by Segment,Skin Treatment,percent,Statista,3.75,4.754,5.475,6.108,7.068,6.91,7.624,8.241,8.85,9.222,9.602
+Taiwan,Health Care,3003,Penetration Rate by Segment,Vitamins & Minerals,percent,Statista,4.688,5.943,6.844,7.635,8.835,8.637,9.53,10.302,11.062,11.527,12.002

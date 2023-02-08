@@ -16,6 +16,11 @@ st.set_page_config(
 )
 st.title("SimilarWeb Data Store")
 
+@st.cache
+def convert_df(df):
+    # IMPORTANT: Cache the conversion to prevent computation on every rerun
+    return df.to_csv().encode('utf-8')
+
 if st.session_state['get']:
     path = 'SimilarWeb/'+st.session_state['country']+'/'+st.session_state['category_name']+'/'+ st.session_state['insights']
     df = pd.read_excel(path)

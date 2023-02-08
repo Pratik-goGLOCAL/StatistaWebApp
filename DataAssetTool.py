@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 import numpy as np
 import os
-import pickle as pkl
+import pickle
 import subprocess
 import json
 from urllib.parse import urljoin
@@ -20,43 +20,45 @@ st.title("Data Asset Tool")
 # st.write('The Data Asset Tool contains the web scraped E-Commerce Statistical Data from SimilarWeb, Statista, etc. websites')
 
 country_names = os.listdir('statista_data')
+hsn_codes_level1 = pd.read_csv('hsn_code_level1.csv')
+
+with open('hsn_code_level2.pickle', 'rb') as handle:
+    hsn_codes_level2 = pickle.load(handle)
+
 
 # Initialize Variables
-if "category_name" not in st.session_state:
-    st.session_state["category_name"] = ""
 if "country" not in st.session_state:
     st.session_state["country"] = ""
-if "insights" not in st.session_state:
-    st.session_state["insights"] = ""
-if "hsn_code" not in st.session_state:
-    st.session_state["hsn_code"] = ""
+if "category_name_1" not in st.session_state:
+    st.session_state["category_name_1"] = ""
+if "hsn_code_1" not in st.session_state:
+    st.session_state["hsn_code_1"] = ""
+if "category_name_2" not in st.session_state:
+    st.session_state["category_name_2"] = ""
+if "hsn_code_2" not in st.session_state:
+    st.session_state["hsn_code_2"] = ""
 
 # Select the Country
 country = st.selectbox(label='Select Country',
                     options=[x.title() for x in country_names])
 st.session_state['country'] = country.lower()
 
-categories = os.listdir('statista_data/'+country.lower())
-
-# Select the Category
-category = st.selectbox(label='Select Category',
-                    options=[x.replace('-',' ').title() for x in categories])
+# Select the hsn level 1 Category
+hsn_category = st.selectbox(label='Select Category Name/HSN code',
+                    options=hsn_codes_level1)
 # st.write('The options selected are:', region)
-st.session_state['category_name'] = category.replace(' ','-').lower()
+st.session_state['hsn_code_1'] = hsn_category.split('  ')[0]
+st.session_state['category_name_1'] = hsn_category.split('  ')[1]
 
-insights = os.listdir('statista_data/'+st.session_state['country']+'/'+st.session_state['category_name'])
-display = {x.split('.')[0].title():x for x in insights}
-# Select the Insights
-insight = st.selectbox(label='Select Insights Desired',
-                    options=list(display.keys()))
-# st.write('The options selected are:', region)
-st.session_state['insights'] = display[insight]
-
-
-@st.cache
-def convert_df(df):
-    # IMPORTANT: Cache the conversion to prevent computation on every rerun
-    return df.to_csv().encode('utf-8')
+hsn_code2 = hsn_codes_level2[st.session_state['hsn_code_1']]
+hsn_code2.append('ALL')
+# Select the hsn_level 2 Category
+hsn2_category = st.selectbox(label='Select Sub-category Name/HSN code',
+                    options=hsn_code2,
+                    default = ['ALL'])
+st.session_state['hsn_code_2'] = hsn2_category
+# st.session_state['hsn_code_2'] = hsn_category.split('  ')[0]
+# st.session_state['category_name_2'] = hsn_category.split('  ')[1]
 
 get = st.button("Get")
 st.session_state['get'] = get
