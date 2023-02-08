@@ -51,6 +51,7 @@ st.session_state['category_name_1'] = hsn_category.split('  ')[1]
 
 hsn_code2 = hsn_codes_level2[st.session_state['hsn_code_1']]
 hsn_code2.append('ALL')
+default_ix = hsn_code2.index('ALL')
 # Select the hsn_level 2 Category
 hsn2_category = st.selectbox(label='Select Sub-category Name/HSN code',
                     options=hsn_code2,
