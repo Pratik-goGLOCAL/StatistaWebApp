@@ -8,7 +8,6 @@ import subprocess
 import json
 from urllib.parse import urljoin
 import re
-import sys
 from loguru import  logger
 
 st.set_page_config(
