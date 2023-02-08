@@ -17,4 +17,46 @@ st.set_page_config(
 
 st.title("Data Asset Tool")
 
-st.write('The Data Asset Tool contains the web scraped E-Commerce Statistical Data from SimilarWeb, Statista, etc. websites')
+# st.write('The Data Asset Tool contains the web scraped E-Commerce Statistical Data from SimilarWeb, Statista, etc. websites')
+
+country_names = os.listdir('statista_data')
+
+# Initialize Variables
+if "category_name" not in st.session_state:
+    st.session_state["category_name"] = ""
+if "country" not in st.session_state:
+    st.session_state["country"] = ""
+if "insights" not in st.session_state:
+    st.session_state["insights"] = ""
+if "hsn_code" not in st.session_state:
+    st.session_state["hsn_code"] = ""
+
+# Select the Country
+country = st.selectbox(label='Select Country',
+                    options=[x.title() for x in country_names])
+st.session_state['country'] = country.lower()
+
+categories = os.listdir('statista_data/'+country.lower())
+
+# Select the Category
+category = st.selectbox(label='Select Category',
+                    options=[x.replace('-',' ').title() for x in categories])
+# st.write('The options selected are:', region)
+st.session_state['category_name'] = category.replace(' ','-').lower()
+
+insights = os.listdir('statista_data/'+st.session_state['country']+'/'+st.session_state['category_name'])
+display = {x.split('.')[0].title():x for x in insights}
+# Select the Insights
+insight = st.selectbox(label='Select Insights Desired',
+                    options=list(display.keys()))
+# st.write('The options selected are:', region)
+st.session_state['insights'] = display[insight]
+
+
+@st.cache
+def convert_df(df):
+    # IMPORTANT: Cache the conversion to prevent computation on every rerun
+    return df.to_csv().encode('utf-8')
+
+get = st.button("Get")
+st.session_state['get'] = get
