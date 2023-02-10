@@ -15,7 +15,7 @@ st.set_page_config(
     page_title="DataAssetTool"
 )
 
-st.title("JP Morgan Data Store")
+st.title("Miscalleneous Data Online")
 
 files = []
 for file in os.listdir('jp_morgan_data'):

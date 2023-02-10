@@ -1,0 +1,988 @@
+Node ID,Node Path,Query,Refinement Link
+11055981,Beauty & Personal Care,,See all available refinements
+17242866011,"Beauty & Personal Care/Foot, Hand & Nail Care",,See all available refinements
+11062211,"Beauty & Personal Care/Foot, Hand & Nail Care/Foot & Hand Care",item_type_keyword:foot-and-hand-care,See all available refinements
+3780041,"Beauty & Personal Care/Foot, Hand & Nail Care/Foot & Hand Care/Foot Creams & Lotions",item_type_keyword:foot-creams,See all available refinements
+17701648011,"Beauty & Personal Care/Foot, Hand & Nail Care/Foot & Hand Care/Foot Masks",item_type_keyword:foot-masks,See all available refinements
+11062261,"Beauty & Personal Care/Foot, Hand & Nail Care/Foot & Hand Care/Hand Creams & Lotions",( item_type_keyword:hand-creams OR item_type_keyword:hand-lotions ),See all available refinements
+21604974011,"Beauty & Personal Care/Foot, Hand & Nail Care/Foot & Hand Care/Hand Masks",item_type_keyword:hand-masks,See all available refinements
+11062281,"Beauty & Personal Care/Foot, Hand & Nail Care/Foot & Hand Care/Moisturizing Gloves",item_type_keyword:moisturizing-gloves,See all available refinements
+390141011,"Beauty & Personal Care/Foot, Hand & Nail Care/Foot & Hand Care/Moisturizing Socks",item_type_keyword:moisturizing-socks,See all available refinements
+3787271,"Beauty & Personal Care/Foot, Hand & Nail Care/Foot & Hand Care/Paraffin Baths",item_type_keyword:paraffin-baths,See all available refinements
+17269968011,"Beauty & Personal Care/Foot, Hand & Nail Care/Foot & Hand Care/Salts & Soaks",item_type_keyword:foot-salts-and-soaks,See all available refinements
+17269969011,"Beauty & Personal Care/Foot, Hand & Nail Care/Foot & Hand Care/Scrubs",item_type_keyword:foot-and-hand-scrubs,See all available refinements
+11059311,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish",item_type_keyword:nail-art-and-polish,See all available refinements
+17269950011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Base & Top Coats",,See all available refinements
+17269952011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Base & Top Coats/Base Coat",item_type_keyword:base-nail-coats,See all available refinements
+11059361,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Base & Top Coats/Combination Base & Top Coats",item_type_keyword:top-and-base-coats,See all available refinements
+17269951011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Base & Top Coats/Top Coat",item_type_keyword:top-nail-coats,See all available refinements
+21579729011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Dip Manicure",item_type_keyword:dip-manicure-products,See all available refinements
+21579730011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Dip Manicure/Dip Manicure Kits",item_type_keyword:dip-manicure-kits,See all available refinements
+21579732011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Dip Manicure/Dip Powder",item_type_keyword:dip-manicure-powders,See all available refinements
+21579731011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Dip Manicure/Dip Powder Liquids",item_type_keyword:dip-manicure-liquids,See all available refinements
+16261986011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/False Nails & Accessories",,See all available refinements
+21579734011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/False Nails & Accessories/Acrylic Nail Kits",,See all available refinements
+13861682011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/False Nails & Accessories/Acrylic Nail Tools",item_type_keyword:acrylic-nail-tools,See all available refinements
+17269962011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/False Nails & Accessories/Acrylic Powders & Liquids",item_type_keyword:false-nail-acrylic-powders-and-liquids,See all available refinements
+21579735011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/False Nails & Accessories/Acrylic Powders & Liquids/Acrylic Liquids",item_type_keyword:false-nail-acrylic-nail-liquids,See all available refinements
+21579736011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/False Nails & Accessories/Acrylic Powders & Liquids/Acrylic Powders",item_type_keyword:false-nail-acrylic-nail-powders,See all available refinements
+23772719011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/False Nails & Accessories/Fiberglass & Silk Wraps",,See all available refinements
+23598838011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/False Nails & Accessories/Gel",,See all available refinements
+21608932011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/False Nails & Accessories/Nail Forms",item_type_keyword:false-nail-forms,See all available refinements
+17269963011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/False Nails & Accessories/Nail Glue",item_type_keyword:false-nail-glue,See all available refinements
+13861684011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/False Nails & Accessories/Nail Tips",item_type_keyword:false-nail-tips,See all available refinements
+21579733011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/False Nails & Accessories/Press On Nails",item_type_keyword:press-on-false-nails,See all available refinements
+23598835011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Gel Polish",,See all available refinements
+13106071,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Nail Art Accessories",item_type_keyword:nail-art-accessories,See all available refinements
+23598849011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Nail Art Accessories/Cuticle Protectors",item_type_keyword:nail-art-cuticle-protectors,See all available refinements
+17269953011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Nail Art Accessories/Decoration Kits",item_type_keyword:nail-decoration-kits,See all available refinements
+17269954011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Nail Art Accessories/Fimo",item_type_keyword:nail-art-fimo,See all available refinements
+17269955011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Nail Art Accessories/Glitters",item_type_keyword:nail-art-glitters,See all available refinements
+23598848011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Nail Art Accessories/Nail Art Glue",item_type_keyword:nail-art-glue,See all available refinements
+17269956011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Nail Art Accessories/Pearls",item_type_keyword:nail-art-pearls,See all available refinements
+17269957011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Nail Art Accessories/Rhinestones",item_type_keyword:nail-art-rhinestones,See all available refinements
+17269958011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Nail Art Accessories/Stickers & Decals",item_type_keyword:nail-art-stickers-and-decals,See all available refinements
+17269959011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Nail Art Accessories/Striping Tape Lines",item_type_keyword:nail-art-striping-tape-lines,See all available refinements
+17269960011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Nail Art Accessories/Studs",item_type_keyword:nail-art-studs,See all available refinements
+17269961011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Nail Art Accessories/Wraps",item_type_keyword:nail-art-wraps,See all available refinements
+11059321,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Nail Polish",item_type_keyword:nail-polish,See all available refinements
+11059371,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Nail Polish Remover",item_type_keyword:nail-polish-removers,See all available refinements
+23598834011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Nail Studio Sets",,See all available refinements
+3782871,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Nail Thickening Solution",item_type_keyword:nail-thickening-solutions,See all available refinements
+23598836011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Tools",,See all available refinements
+13861691011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Tools/Curing Lamps",item_type_keyword:nail-polish-curing-lamps,See all available refinements
+23598844011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Tools/Dotting Tools",,See all available refinements
+23598839011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Tools/Hand Rests",,See all available refinements
+11063531,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Tools/Nail Art Brushes",item_type_keyword:nail-brushes,See all available refinements
+23598840011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Tools/Nail Art Pens",,See all available refinements
+3784801,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Tools/Nail Dryers",item_type_keyword:nail-dryers,See all available refinements
+23598841011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Tools/Nail Tool Sterilizers",item_type_keyword:nail-tool-sterilizers,See all available refinements
+23598845011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Tools/Polish Correctors",,See all available refinements
+23598843011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Tools/Practice Hands & Fingers",,See all available refinements
+23598842011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Tools/Practice Nail Tips",item_type_keyword:nail-art-practice-tips,See all available refinements
+11063681,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Tools/Spa Slippers",item_type_keyword:spa-slippers,See all available refinements
+23598847011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Tools/Stampers & Scrapers",,See all available refinements
+23598846011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Tools/Templates",,See all available refinements
+11063691,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Art & Polish/Tools/Toe Separators",item_type_keyword:toe-separators,See all available refinements
+11062291,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Care",item_type_keyword:nail-care,See all available refinements
+11062221,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Care/Cuticle Care",item_type_keyword:cuticle-care-products,See all available refinements
+19171614011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Care/Cuticle Care/Cuticle Oils",item_type_keyword:cuticle-oils,See all available refinements
+11062241,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Care/Cuticle Care/Cuticle Removing Fluids",item_type_keyword:cuticle-removers,See all available refinements
+19171615011,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Care/Cuticle Care/Cuticle Repair Creams",item_type_keyword:cuticle-repair-creams,See all available refinements
+11062311,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Care/Growth Formula",item_type_keyword:nail-growth-formula-treatments,See all available refinements
+11062321,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Care/Nail Repair",item_type_keyword:nail-repair-products,See all available refinements
+11062331,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Care/Nail Strengthening",item_type_keyword:nail-strengthening-products,See all available refinements
+11062341,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Care/Nail Whitening",item_type_keyword:nail-whitening-treatments,See all available refinements
+11062351,"Beauty & Personal Care/Foot, Hand & Nail Care/Nail Care/Ridge Filler",item_type_keyword:nail-ridge-fillers,See all available refinements
+11063461,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories",item_type_keyword:foot-hand-and-nail-tools,See all available refinements
+3779971,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Callus Trimmers",item_type_keyword:corn-and-callus-trimmers,See all available refinements
+13861679011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Cuticle Tools",,See all available refinements
+13861680011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Cuticle Tools/Cuticle Nippers",item_type_keyword:cuticle-nippers,See all available refinements
+11063491,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Cuticle Tools/Cuticle Pushers",item_type_keyword:cuticle-pushers,See all available refinements
+11063501,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Cuticle Tools/Cuticle Scissors",item_type_keyword:cuticle-scissors,See all available refinements
+23664536011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Cuticle Tools/Cuticle Tool Sets",item_type_keyword:cuticle-tool-sets,See all available refinements
+15003720011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Foot Baths & Spas",,See all available refinements
+15003721011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Foot Baths & Spas/Foot Baths",item_type_keyword:foot-baths,See all available refinements
+15003723011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Foot Baths & Spas/Foot Spas",item_type_keyword:foot-spas,See all available refinements
+11063611,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Foot Files",item_type_keyword:foot-files,See all available refinements
+13861687011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Foot Pumices",item_type_keyword:foot-pumices,See all available refinements
+23598836011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Art Tools",,See all available refinements
+13861691011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Art Tools/Curing Lamps",item_type_keyword:nail-polish-curing-lamps,See all available refinements
+23598844011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Art Tools/Dotting Tools",,See all available refinements
+23598839011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Art Tools/Hand Rests",,See all available refinements
+11063531,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Art Tools/Nail Art Brushes",item_type_keyword:nail-brushes,See all available refinements
+23598840011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Art Tools/Nail Art Pens",,See all available refinements
+3784801,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Art Tools/Nail Dryers",item_type_keyword:nail-dryers,See all available refinements
+23598841011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Art Tools/Nail Tool Sterilizers",item_type_keyword:nail-tool-sterilizers,See all available refinements
+23598845011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Art Tools/Polish Correctors",,See all available refinements
+23598843011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Art Tools/Practice Hands & Fingers",,See all available refinements
+23598842011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Art Tools/Practice Nail Tips",item_type_keyword:nail-art-practice-tips,See all available refinements
+11063681,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Art Tools/Spa Slippers",item_type_keyword:spa-slippers,See all available refinements
+23598847011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Art Tools/Stampers & Scrapers",,See all available refinements
+23598846011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Art Tools/Templates",,See all available refinements
+11063691,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Art Tools/Toe Separators",item_type_keyword:toe-separators,See all available refinements
+23448794011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Cleaning Brushes",item_type_keyword:nail-cleaning-brushes,See all available refinements
+21601555011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Drill Bits",item_type_keyword:nail-drill-bits,See all available refinements
+21601554011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Drills",item_type_keyword:nail-drills,See all available refinements
+17269965011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Tools",,See all available refinements
+13861689011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Tools/Ingrown Toenail Tools",item_type_keyword:ingrown-toenail-tools,See all available refinements
+11063481,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Tools/Nail Clippers",,See all available refinements
+13861677011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Tools/Nail Clippers/Fingernail Clippers",item_type_keyword:fingernail-clippers,See all available refinements
+13861678011,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Tools/Nail Clippers/Toenail Clippers",item_type_keyword:toenail-clippers,See all available refinements
+11063551,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Nail Tools/Nail Files & Buffers",item_type_keyword:nail-files-and-buffers,See all available refinements
+3784911,"Beauty & Personal Care/Foot, Hand & Nail Care/Tools & Accessories/Sets & Kits",( item_type_keyword:manicure-kits OR item_type_keyword:pedicure-kits ),See all available refinements
+11056591,Beauty & Personal Care/Fragrance,,See all available refinements
+11056711,Beauty & Personal Care/Fragrance/Children's,item_type_keyword:personal-fragrances AND target_audience_keywords:children,See all available refinements
+10292709011,Beauty & Personal Care/Fragrance/Dusting Powders,item_type_keyword:fragrance-dusting-powders,See all available refinements
+11056761,Beauty & Personal Care/Fragrance/Men's,,See all available refinements
+16262034011,Beauty & Personal Care/Fragrance/Men's/Body Sprays,item_type_keyword:bath-and-shower-spray-fragrances AND thesaurus_attribute_keywords:scented AND target_audience_keywords:men,See all available refinements
+11059721,Beauty & Personal Care/Fragrance/Men's/Cologne,item_type_keyword:colognes AND target_audience_keywords:men,See all available refinements
+16262035011,Beauty & Personal Care/Fragrance/Men's/Eau Fraiche,item_type_keyword:eau-fraiche-fragrances AND target_audience_keywords:men,See all available refinements
+363235011,Beauty & Personal Care/Fragrance/Men's/Eau de Parfum,item_type_keyword:eau-de-parfums AND target_audience_keywords:men,See all available refinements
+363236011,Beauty & Personal Care/Fragrance/Men's/Eau de Toilette,item_type_keyword:eau-de-toilettes AND target_audience_keywords:men,See all available refinements
+11059741,Beauty & Personal Care/Fragrance/Men's/Sets,item_type_keyword:fragrance-sets AND target_audience_keywords:men,See all available refinements
+11056891,Beauty & Personal Care/Fragrance/Sets,,See all available refinements
+11059741,Beauty & Personal Care/Fragrance/Sets/Men's,item_type_keyword:fragrance-sets AND target_audience_keywords:men,See all available refinements
+11057111,Beauty & Personal Care/Fragrance/Sets/Women's,item_type_keyword:fragrance-sets AND target_audience_keywords:women,See all available refinements
+10292711011,Beauty & Personal Care/Fragrance/Solid Perfumes,item_type_keyword:solid-perfume-fragrances,See all available refinements
+11056931,Beauty & Personal Care/Fragrance/Women's,item_type_keyword:personal-fragrances AND target_audience_keywords:women,See all available refinements
+3783161,Beauty & Personal Care/Fragrance/Women's/Body Sprays,item_type_keyword:bath-and-shower-spray-fragrances AND thesaurus_attribute_keywords:scented AND target_audience_keywords:women,See all available refinements
+11057051,Beauty & Personal Care/Fragrance/Women's/Cologne,item_type_keyword:colognes AND target_audience_keywords:women,See all available refinements
+16262036011,Beauty & Personal Care/Fragrance/Women's/Eau Fraiche,item_type_keyword:eau-fraiche-fragrances AND target_audience_keywords:women,See all available refinements
+11057071,Beauty & Personal Care/Fragrance/Women's/Eau de Parfum,item_type_keyword:eau-de-parfums AND target_audience_keywords:women,See all available refinements
+11057081,Beauty & Personal Care/Fragrance/Women's/Eau de Toilette,item_type_keyword:eau-de-toilettes AND target_audience_keywords:women,See all available refinements
+11057111,Beauty & Personal Care/Fragrance/Women's/Sets,item_type_keyword:fragrance-sets AND target_audience_keywords:women,See all available refinements
+11057241,Beauty & Personal Care/Hair Care,item_type_keyword:hair-care-products,See all available refinements
+11057971,Beauty & Personal Care/Hair Care/Hair Accessories,item_type_keyword:hair-styling-accessories,See all available refinements
+10676142011,Beauty & Personal Care/Hair Care/Hair Accessories/Bun & Crown Shapers,item_type_keyword:hair-bun-and-crown-shapers,See all available refinements
+23623510011,Beauty & Personal Care/Hair Care/Hair Accessories/Claws,item_type_keyword:hair-claws,See all available refinements
+23623509011,Beauty & Personal Care/Hair Care/Hair Accessories/Clips & Barrettes,,See all available refinements
+11057981,Beauty & Personal Care/Hair Care/Hair Accessories/Clips & Barrettes/Barrettes,item_type_keyword:hair-barrettes,See all available refinements
+3784401,Beauty & Personal Care/Hair Care/Hair Accessories/Clips & Barrettes/Clips,item_type_keyword:hair-clips,See all available refinements
+11058071,Beauty & Personal Care/Hair Care/Hair Accessories/Elastics & Ties,item_type_keyword:hair-elastics-and-ties,See all available refinements
+3784491,Beauty & Personal Care/Hair Care/Hair Accessories/Hair Drying Towels,item_type_keyword:hair-drying-towels,See all available refinements
+3784391,Beauty & Personal Care/Hair Care/Hair Accessories/Hair Pins,item_type_keyword:hair-pins,See all available refinements
+11058051,Beauty & Personal Care/Hair Care/Hair Accessories/Headbands,item_type_keyword:fashion-headbands,See all available refinements
+11058011,Beauty & Personal Care/Hair Care/Hair Accessories/Side Combs,item_type_keyword:hair-side-combs,See all available refinements
+11057451,Beauty & Personal Care/Hair Care/Hair Coloring Products,item_type_keyword:hair-coloring-products,See all available refinements
+10676298011,Beauty & Personal Care/Hair Care/Hair Coloring Products/Color Additives & Fillers,item_type_keyword:hair-color-additives-and-fillers,See all available refinements
+23623507011,Beauty & Personal Care/Hair Care/Hair Coloring Products/Color Refreshers,item_type_keyword:hair-color-refreshers,See all available refinements
+23623517011,Beauty & Personal Care/Hair Care/Hair Coloring Products/Color Refreshers/Color Conditioners,item_type_keyword:hair-color-refreshing-conditioners,See all available refinements
+3781671,Beauty & Personal Care/Hair Care/Hair Coloring Products/Color Refreshers/Color Correctors,item_type_keyword:hair-color-correctors,See all available refinements
+10676302011,Beauty & Personal Care/Hair Care/Hair Coloring Products/Color Refreshers/Color Glazes,item_type_keyword:hair-color-glazes,See all available refinements
+23623516011,Beauty & Personal Care/Hair Care/Hair Coloring Products/Color Refreshers/Color Refreshing Masks,item_type_keyword:hair-color-refreshing-masks,See all available refinements
+3784201,Beauty & Personal Care/Hair Care/Hair Coloring Products/Color Removers,item_type_keyword:hair-color-removers,See all available refinements
+3784151,Beauty & Personal Care/Hair Care/Hair Coloring Products/Coloring & Highlighting Tools,item_type_keyword:hair-coloring-tools,See all available refinements
+3784161,Beauty & Personal Care/Hair Care/Hair Coloring Products/Coloring & Highlighting Tools/Applicator Bottles,item_type_keyword:hair-color-applicator-bottles,See all available refinements
+3784171,"Beauty & Personal Care/Hair Care/Hair Coloring Products/Coloring & Highlighting Tools/Brushes, Combs & Needles",,See all available refinements
+10865954011,"Beauty & Personal Care/Hair Care/Hair Coloring Products/Coloring & Highlighting Tools/Brushes, Combs & Needles/Needles",item_type_keyword:hair-coloring-needles,See all available refinements
+3784181,"Beauty & Personal Care/Hair Care/Hair Coloring Products/Coloring & Highlighting Tools/Caps, Foils & Wraps",,See all available refinements
+10865955011,"Beauty & Personal Care/Hair Care/Hair Coloring Products/Coloring & Highlighting Tools/Caps, Foils & Wraps/Caps",item_type_keyword:hair-color-caps,See all available refinements
+10865956011,"Beauty & Personal Care/Hair Care/Hair Coloring Products/Coloring & Highlighting Tools/Caps, Foils & Wraps/Foils",item_type_keyword:hair-color-foils,See all available refinements
+10865957011,"Beauty & Personal Care/Hair Care/Hair Coloring Products/Coloring & Highlighting Tools/Caps, Foils & Wraps/Wraps",item_type_keyword:hair-color-wraps,See all available refinements
+3784191,Beauty & Personal Care/Hair Care/Hair Coloring Products/Coloring & Highlighting Tools/Hair Color Mixing Bowls,item_type_keyword:hair-color-mixing-bowls,See all available refinements
+10676347011,Beauty & Personal Care/Hair Care/Hair Coloring Products/Developers,item_type_keyword:hair-color-developers,See all available refinements
+10676353011,Beauty & Personal Care/Hair Care/Hair Coloring Products/Hair Bleach,item_type_keyword:hair-bleach,See all available refinements
+10676355011,Beauty & Personal Care/Hair Care/Hair Coloring Products/Hair Chalk,item_type_keyword:hair-chalk,See all available refinements
+10728531,Beauty & Personal Care/Hair Care/Hair Coloring Products/Hair Color,item_type_keyword:chemical-hair-dyes,See all available refinements
+10676359011,Beauty & Personal Care/Hair Care/Hair Coloring Products/Hair Mascaras & Root Touch Ups,item_type_keyword:hair-mascaras-and-root-touch-ups,See all available refinements
+3781641,Beauty & Personal Care/Hair Care/Hair Coloring Products/Hennas,item_type_keyword:hair-hennas,See all available refinements
+23623506011,Beauty & Personal Care/Hair Care/Hair Coloring Products/Highlight Kits,item_type_keyword:hair-color-highlighting-kits,See all available refinements
+10676365011,Beauty & Personal Care/Hair Care/Hair Coloring Products/Mustache & Beard Color,item_type_keyword:mustache-and-beard-color,See all available refinements
+10676449011,Beauty & Personal Care/Hair Care/Hair Cutting Tools,item_type_keyword:hair-cutting-tools,See all available refinements
+7706130011,Beauty & Personal Care/Hair Care/Hair Cutting Tools/Hair Clippers & Accessories,item_type_keyword:hair-clippers-and-accessories,See all available refinements
+7706132011,Beauty & Personal Care/Hair Care/Hair Cutting Tools/Hair Clippers & Accessories/Blade Storage,item_type_keyword:hair-clipper-blade-storage,See all available refinements
+7706133011,Beauty & Personal Care/Hair Care/Hair Cutting Tools/Hair Clippers & Accessories/Clipper Combs & Guides,item_type_keyword:hair-clipper-combs-and-guides,See all available refinements
+7706135011,Beauty & Personal Care/Hair Care/Hair Cutting Tools/Hair Clippers & Accessories/Finishing Trimmers,item_type_keyword:hair-finishing-trimmers,See all available refinements
+234949011,Beauty & Personal Care/Hair Care/Hair Cutting Tools/Hair Clippers & Accessories/Hair Clippers,item_type_keyword:hair-clippers,See all available refinements
+7706138011,Beauty & Personal Care/Hair Care/Hair Cutting Tools/Hair Clippers & Accessories/Lubricants & Cleaners,item_type_keyword:hair-clipper-lubricants-and-cleaners,See all available refinements
+7706141011,Beauty & Personal Care/Hair Care/Hair Cutting Tools/Hair Clippers & Accessories/Trimmer & Clipper Blades,item_type_keyword:hair-trimmer-and-clipper-blades,See all available refinements
+3006301011,Beauty & Personal Care/Hair Care/Hair Cutting Tools/Hair Cutting Kits,item_type_keyword:hair-cutting-kits,See all available refinements
+10676489011,Beauty & Personal Care/Hair Care/Hair Cutting Tools/Razors,item_type_keyword:hair-cutting-razors,See all available refinements
+10676491011,Beauty & Personal Care/Hair Care/Hair Cutting Tools/Shear & Razor Cases,item_type_keyword:hair-cutting-shear-and-razor-cases,See all available refinements
+3006300011,Beauty & Personal Care/Hair Care/Hair Cutting Tools/Shears,item_type_keyword:hair-cutting-shears,See all available refinements
+13105931,"Beauty & Personal Care/Hair Care/Hair Extensions, Wigs & Accessories",,See all available refinements
+10676814011,"Beauty & Personal Care/Hair Care/Hair Extensions, Wigs & Accessories/Adhesive Removers",item_type_keyword:wig-adhesive-removers,See all available refinements
+10676812011,"Beauty & Personal Care/Hair Care/Hair Extensions, Wigs & Accessories/Adhesives",item_type_keyword:wig-and-hairpiece-adhesives,See all available refinements
+10676816011,"Beauty & Personal Care/Hair Care/Hair Extensions, Wigs & Accessories/Feather Extensions",item_type_keyword:feather-hair-extensions,See all available refinements
+702379011,"Beauty & Personal Care/Hair Care/Hair Extensions, Wigs & Accessories/Hair Extensions",item_type_keyword:hair-extensions,See all available refinements
+702380011,"Beauty & Personal Care/Hair Care/Hair Extensions, Wigs & Accessories/Hairpieces",item_type_keyword:hairpieces,See all available refinements
+10676818011,"Beauty & Personal Care/Hair Care/Hair Extensions, Wigs & Accessories/Wig Caps",item_type_keyword:wig-caps,See all available refinements
+10676820011,"Beauty & Personal Care/Hair Care/Hair Extensions, Wigs & Accessories/Wig Head Stands",item_type_keyword:wig-heads-and-stands,See all available refinements
+702381011,"Beauty & Personal Care/Hair Care/Hair Extensions, Wigs & Accessories/Wigs",item_type_keyword:hair-replacement-wigs,See all available refinements
+10898755011,Beauty & Personal Care/Hair Care/Hair Loss Products,item_type_keyword:hair-growth-products,See all available refinements
+16262043011,Beauty & Personal Care/Hair Care/Hair Loss Products/Hair Building Fibers,item_type_keyword:hair-building-fibers,See all available refinements
+16262042011,Beauty & Personal Care/Hair Care/Hair Loss Products/Hair Regrowth Conditioners,item_type_keyword:hair-regrowth-conditioners,See all available refinements
+13861664011,Beauty & Personal Care/Hair Care/Hair Loss Products/Hair Regrowth Devices,item_type_keyword:hair-regrowth-devices,See all available refinements
+16262041011,Beauty & Personal Care/Hair Care/Hair Loss Products/Hair Regrowth Shampoos,item_type_keyword:hair-regrowth-shampoos,See all available refinements
+16262044011,Beauty & Personal Care/Hair Care/Hair Loss Products/Hair Regrowth Tonics,item_type_keyword:hair-regrowth-tonics,See all available refinements
+11057581,Beauty & Personal Care/Hair Care/Hair Loss Products/Hair Regrowth Treatments,item_type_keyword:hair-regrowth-treatments,See all available refinements
+10666437011,Beauty & Personal Care/Hair Care/Hair Masks,item_type_keyword:hair-treatment-masks,See all available refinements
+16236250011,"Beauty & Personal Care/Hair Care/Hair Perms, Relaxers & Texturizers",item_type_keyword:chemical-hair-treatments-and-accessories,See all available refinements
+10703849011,"Beauty & Personal Care/Hair Care/Hair Perms, Relaxers & Texturizers/Chemical Hair Straighteners",item_type_keyword:chemical-hair-straighteners,See all available refinements
+3781951,"Beauty & Personal Care/Hair Care/Hair Perms, Relaxers & Texturizers/Hair Relaxers",item_type_keyword:hair-relaxer-products,See all available refinements
+3781911,"Beauty & Personal Care/Hair Care/Hair Perms, Relaxers & Texturizers/Home Perm Kits",item_type_keyword:hair-permanent-kits,See all available refinements
+23623508011,"Beauty & Personal Care/Hair Care/Hair Perms, Relaxers & Texturizers/Perm Accessories",,See all available refinements
+10703879011,"Beauty & Personal Care/Hair Care/Hair Perms, Relaxers & Texturizers/Perm Accessories/Hair Perm Rods",item_type_keyword:hair-perm-rods,See all available refinements
+3799601,"Beauty & Personal Care/Hair Care/Hair Perms, Relaxers & Texturizers/Texturizers",item_type_keyword:hair-permanent-texturizers,See all available refinements
+10666439011,Beauty & Personal Care/Hair Care/Hair Treatment Oils,item_type_keyword:hair-treatment-oils,See all available refinements
+23561814011,Beauty & Personal Care/Hair Care/Scalp Treatments,item_type_keyword:scalp-treatments,See all available refinements
+11158680011,Beauty & Personal Care/Hair Care/Sets & Kits,item_type_keyword:hair-care-product-sets,See all available refinements
+17911764011,Beauty & Personal Care/Hair Care/Shampoo & Conditioner,,See all available refinements
+17911765011,Beauty & Personal Care/Hair Care/Shampoo & Conditioner/2-in-1 Shampoo & Conditioner,item_type_keyword:2-in-1-shampoo-and-conditioner,See all available refinements
+17911766011,"Beauty & Personal Care/Hair Care/Shampoo & Conditioner/3-in-1 Shampoo, Conditioner & Body Wash",item_type_keyword:3-in-1-shampoo-conditioner-and-body-wash,See all available refinements
+11057251,Beauty & Personal Care/Hair Care/Shampoo & Conditioner/Conditioners,item_type_keyword:hair-conditioners,See all available refinements
+17911767011,Beauty & Personal Care/Hair Care/Shampoo & Conditioner/Deep Conditioners,item_type_keyword:deep-hair-conditioners,See all available refinements
+10656664011,Beauty & Personal Care/Hair Care/Shampoo & Conditioner/Dry Shampoos,item_type_keyword:dry-shampoos,See all available refinements
+11057441,Beauty & Personal Care/Hair Care/Shampoo & Conditioner/Shampoo & Conditioner Sets,item_type_keyword:shampoo-and-conditioner-sets,See all available refinements
+11057651,Beauty & Personal Care/Hair Care/Shampoo & Conditioner/Shampoos,item_type_keyword:hair-shampoos,See all available refinements
+11057841,Beauty & Personal Care/Hair Care/Styling Products,item_type_keyword:hair-care-styling-products,See all available refinements
+10664803011,Beauty & Personal Care/Hair Care/Styling Products/Clays,item_type_keyword:hair-styling-clays,See all available refinements
+23623512011,Beauty & Personal Care/Hair Care/Styling Products/Creams & Lotions,item_type_keyword:hair-styling-creams-and-lotions,See all available refinements
+10664362011,Beauty & Personal Care/Hair Care/Styling Products/Detanglers,item_type_keyword:hair-detanglers,See all available refinements
+10664391011,Beauty & Personal Care/Hair Care/Styling Products/Foams,item_type_keyword:hair-styling-foams,See all available refinements
+11057871,Beauty & Personal Care/Hair Care/Styling Products/Gels,item_type_keyword:hair-styling-gels,See all available refinements
+10664377011,Beauty & Personal Care/Hair Care/Styling Products/Hair Fragrances,item_type_keyword:hair-fragrances,See all available refinements
+11057891,Beauty & Personal Care/Hair Care/Styling Products/Hair Sprays,item_type_keyword:hair-sprays,See all available refinements
+23623511011,Beauty & Personal Care/Hair Care/Styling Products/Hair Tonics,item_type_keyword:hair-tonics,See all available refinements
+10664392011,Beauty & Personal Care/Hair Care/Styling Products/Mousses,item_type_keyword:hair-styling-mousses,See all available refinements
+10666020011,Beauty & Personal Care/Hair Care/Styling Products/Oils,item_type_keyword:hair-styling-oils,See all available refinements
+10664401011,Beauty & Personal Care/Hair Care/Styling Products/Pomades,item_type_keyword:pomades,See all available refinements
+10664804011,Beauty & Personal Care/Hair Care/Styling Products/Putties,item_type_keyword:hair-styling-putties,See all available refinements
+10665742011,Beauty & Personal Care/Hair Care/Styling Products/Root Lifting Powders,item_type_keyword:hair-root-lifting-powders,See all available refinements
+10665743011,Beauty & Personal Care/Hair Care/Styling Products/Salt Water Sprays,item_type_keyword:hair-salt-water-sprays,See all available refinements
+382803011,Beauty & Personal Care/Hair Care/Styling Products/Serums,item_type_keyword:hair-styling-serums,See all available refinements
+23623513011,Beauty & Personal Care/Hair Care/Styling Products/Styling Treatments,item_type_keyword:hair-styling-thermal-protector-sprays,See all available refinements
+10664402011,Beauty & Personal Care/Hair Care/Styling Products/Waxes,item_type_keyword:hair-styling-waxes,See all available refinements
+11058091,Beauty & Personal Care/Hair Care/Styling Tools & Appliances,item_type_keyword:hair-tools-and-appliances,See all available refinements
+23623515011,Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Drying Hoods,item_type_keyword:hair-drying-hoods,See all available refinements
+11058121,Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Hair Brushes,item_type_keyword:hair-brushes,See all available refinements
+11058131,Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Hair Combs,item_type_keyword:hair-combs,See all available refinements
+16508037011,Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Hair Dryers & Accessories,,See all available refinements
+23566052011,Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Hair Dryers & Accessories/Concentrator Nozzles,item_type_keyword:hair-dryer-concentrator-nozzles,See all available refinements
+10710991011,Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Hair Dryers & Accessories/Diffusers,item_type_keyword:hair-dryer-diffusers,See all available refinements
+23566051011,Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Hair Dryers & Accessories/Dryer Attachments,item_type_keyword:hair-dryer-comb-attachments,See all available refinements
+11058141,Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Hair Dryers & Accessories/Hair Dryers,item_type_keyword:hair-dryers,See all available refinements
+3784371,Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Hair Rollers,item_type_keyword:hair-rollers,See all available refinements
+11058221,Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Hot-Air Brushes,item_type_keyword:hot-air-brushes,See all available refinements
+17168139011,Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Irons,,See all available refinements
+10704253011,Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Irons/Crimpers,item_type_keyword:hair-crimping-irons,See all available refinements
+10704274011,Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Irons/Curling Tongs,item_type_keyword:hair-curling-irons,See all available refinements
+10704257011,Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Irons/Curling Wands,item_type_keyword:hair-curling-wands,See all available refinements
+11058261,Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Irons/Straighteners,item_type_keyword:hair-straightening-irons,See all available refinements
+10704014011,Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Irons/Wavers,item_type_keyword:hair-waving-irons,See all available refinements
+23623514011,Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Multi-Stylers,item_type_keyword:hair-multi-styler-tools,See all available refinements
+11158679011,Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Sets & Kits,item_type_keyword:hair-styling-tools-sets-and-kits,See all available refinements
+10711043011,Beauty & Personal Care/Hair Care/Styling Tools & Appliances/Thermal Styling Gloves,item_type_keyword:thermal-hair-styling-gloves,See all available refinements
+11058281,Beauty & Personal Care/Makeup,item_type_keyword:makeup,See all available refinements
+11058291,Beauty & Personal Care/Makeup/Body,item_type_keyword:body-makeup,See all available refinements
+11058301,Beauty & Personal Care/Makeup/Body/Body Glitter,item_type_keyword:body-glitters,See all available refinements
+702382011,Beauty & Personal Care/Makeup/Body/Body Paint,item_type_keyword:body-paint-makeup,See all available refinements
+11058311,Beauty & Personal Care/Makeup/Body/Bronzers,item_type_keyword:body-bronzers,See all available refinements
+11058321,Beauty & Personal Care/Makeup/Body/Concealer,item_type_keyword:body-concealers-makeup,See all available refinements
+702383011,Beauty & Personal Care/Makeup/Body/Henna,item_type_keyword:henna-body-paints,See all available refinements
+702384011,Beauty & Personal Care/Makeup/Body/Temporary Tattoos,item_type_keyword:temporary-tattoos,See all available refinements
+11058331,Beauty & Personal Care/Makeup/Eyes,item_type_keyword:eye-makeup,See all available refinements
+16228107011,Beauty & Personal Care/Makeup/Eyes/Concealer,item_type_keyword:eye-makeup-concealers,See all available refinements
+3782531,Beauty & Personal Care/Makeup/Eyes/Eye Gloss,item_type_keyword:eye-glosses,See all available refinements
+11058451,Beauty & Personal Care/Makeup/Eyes/Eyebrow Color,item_type_keyword:eyebrow-makeup,See all available refinements
+11058521,Beauty & Personal Care/Makeup/Eyes/Eyeliner,item_type_keyword:eye-liners,See all available refinements
+11058361,Beauty & Personal Care/Makeup/Eyes/Eyeshadow,item_type_keyword:eye-shadows,See all available refinements
+16228108011,Beauty & Personal Care/Makeup/Eyes/Eyeshadow Bases & Primers,item_type_keyword:eye-shadow-bases-and-primers,See all available refinements
+16228319011,Beauty & Personal Care/Makeup/Eyes/False Lashes,item_type_keyword:false-eyelashes,See all available refinements
+10312668011,Beauty & Personal Care/Makeup/Eyes/Lash Enhancers & Primers,item_type_keyword:eyelash-enhancers-and-primers,See all available refinements
+11058381,Beauty & Personal Care/Makeup/Eyes/Liner & Shadow Combinations,item_type_keyword:combination-eye-liners-and-shadows,See all available refinements
+11058611,Beauty & Personal Care/Makeup/Eyes/Mascara,item_type_keyword:mascara,See all available refinements
+11058691,Beauty & Personal Care/Makeup/Face,,See all available refinements
+7792268011,Beauty & Personal Care/Makeup/Face/BB Creams,item_type_keyword:bb-facial-creams,See all available refinements
+11058701,Beauty & Personal Care/Makeup/Face/Blotting Paper,item_type_keyword:makeup-blotting-papers,See all available refinements
+11058711,Beauty & Personal Care/Makeup/Face/Blush,item_type_keyword:face-blushes,See all available refinements
+21190479011,Beauty & Personal Care/Makeup/Face/Bronzers,item_type_keyword:face-bronzers,See all available refinements
+7792269011,Beauty & Personal Care/Makeup/Face/CC Creams,item_type_keyword:cc-facial-creams,See all available refinements
+11058791,Beauty & Personal Care/Makeup/Face/Concealers & Neutralizers,( item_type_keyword:concealers-makeup OR item_type_keyword:neutralizing-makeup ),See all available refinements
+7792271011,Beauty & Personal Care/Makeup/Face/Contour Creams,item_type_keyword:facial-contour-creams,See all available refinements
+7792270011,Beauty & Personal Care/Makeup/Face/DD Creams,item_type_keyword:dd-facial-creams,See all available refinements
+11058871,Beauty & Personal Care/Makeup/Face/Foundation,item_type_keyword:foundation-makeup,See all available refinements
+388109011,Beauty & Personal Care/Makeup/Face/Foundation Primers,item_type_keyword:foundation-primers,See all available refinements
+21190478011,Beauty & Personal Care/Makeup/Face/Highlighters & Luminizers,item_type_keyword:face-highlighters,See all available refinements
+11058971,Beauty & Personal Care/Makeup/Face/Powder,item_type_keyword:face-powders,See all available refinements
+7792276011,Beauty & Personal Care/Makeup/Face/Tinted Moisturizers,item_type_keyword:tinted-facial-moisturizers,See all available refinements
+11059031,Beauty & Personal Care/Makeup/Lips,item_type_keyword:lip-makeup,See all available refinements
+11059041,Beauty & Personal Care/Makeup/Lips/Lip Glosses,item_type_keyword:lip-glosses,See all available refinements
+11059101,Beauty & Personal Care/Makeup/Lips/Lip Liners,item_type_keyword:lip-liners,See all available refinements
+11059051,Beauty & Personal Care/Makeup/Lips/Lip Stains,item_type_keyword:lip-stains,See all available refinements
+11059111,Beauty & Personal Care/Makeup/Lips/Lipstick,item_type_keyword:lipstick,See all available refinements
+11059221,Beauty & Personal Care/Makeup/Lips/Lipstick Primers,item_type_keyword:lipstick-primers,See all available refinements
+2265896011,Beauty & Personal Care/Makeup/Makeup Palettes,item_type_keyword:makeup-palettes,See all available refinements
+11059231,Beauty & Personal Care/Makeup/Makeup Remover,item_type_keyword:makeup-removers,See all available refinements
+23504931011,Beauty & Personal Care/Makeup/Makeup Remover/Makeup Cleansing Creams,item_type_keyword:makeup-cleansing-creams,See all available refinements
+23504932011,Beauty & Personal Care/Makeup/Makeup Remover/Makeup Cleansing Foams,item_type_keyword:makeup-cleansing-foams,See all available refinements
+23504933011,Beauty & Personal Care/Makeup/Makeup Remover/Makeup Cleansing Gels,item_type_keyword:makeup-cleansing-gels,See all available refinements
+23504929011,Beauty & Personal Care/Makeup/Makeup Remover/Makeup Cleansing Milk,item_type_keyword:makeup-cleansing-milk,See all available refinements
+23504928011,Beauty & Personal Care/Makeup/Makeup Remover/Makeup Cleansing Oils,item_type_keyword:makeup-cleansing-oils,See all available refinements
+23504934011,Beauty & Personal Care/Makeup/Makeup Remover/Makeup Cleansing Water,item_type_keyword:makeup-cleansing-water,See all available refinements
+23504930011,Beauty & Personal Care/Makeup/Makeup Remover/Makeup Cleansing Wipes,item_type_keyword:makeup-cleansing-wipes,See all available refinements
+11059301,Beauty & Personal Care/Makeup/Makeup Sets,item_type_keyword:makeup-sets,See all available refinements
+3777891,Beauty & Personal Care/Personal Care,,See all available refinements
+11055991,Beauty & Personal Care/Personal Care/Bath & Bathing Accessories,,See all available refinements
+11056211,Beauty & Personal Care/Personal Care/Bath & Bathing Accessories/Bath,item_type_keyword:bath-products,See all available refinements
+11056221,Beauty & Personal Care/Personal Care/Bath & Bathing Accessories/Bath/Bath Bombs,item_type_keyword:bath-bombs,See all available refinements
+11056231,Beauty & Personal Care/Personal Care/Bath & Bathing Accessories/Bath/Bath Pearls & Flakes,item_type_keyword:bath-pearls-and-flakes,See all available refinements
+11056241,Beauty & Personal Care/Personal Care/Bath & Bathing Accessories/Bath/Bubble Bath,item_type_keyword:bubble-baths,See all available refinements
+11056251,Beauty & Personal Care/Personal Care/Bath & Bathing Accessories/Bath/Minerals & Salts,item_type_keyword:bath-minerals-and-salts,See all available refinements
+11056261,Beauty & Personal Care/Personal Care/Bath & Bathing Accessories/Bath/Oils,item_type_keyword:bath-oils,See all available refinements
+11056271,Beauty & Personal Care/Personal Care/Bath & Bathing Accessories/Bath/Tub Tea,item_type_keyword:bathtub-teas,See all available refinements
+11056491,Beauty & Personal Care/Personal Care/Bath & Bathing Accessories/Bathing Accessories,item_type_keyword:bathing-accessories,See all available refinements
+11056501,Beauty & Personal Care/Personal Care/Bath & Bathing Accessories/Bathing Accessories/Bath & Body Brushes,item_type_keyword:bath-brushes,See all available refinements
+11056521,Beauty & Personal Care/Personal Care/Bath & Bathing Accessories/Bathing Accessories/Bath Pillows,item_type_keyword:bath-pillows,See all available refinements
+11149327011,Beauty & Personal Care/Personal Care/Bath & Bathing Accessories/Bathing Accessories/Bath Sponges,item_type_keyword:bath-sponges,See all available refinements
+85966011,Beauty & Personal Care/Personal Care/Bath & Bathing Accessories/Bathing Accessories/Bathtub Trays,item_type_keyword:bathtub-valets,See all available refinements
+13861695011,Beauty & Personal Care/Personal Care/Bath & Bathing Accessories/Bathing Accessories/Cellulite Massagers,item_type_keyword:body-cellulite-massagers,See all available refinements
+13861697011,Beauty & Personal Care/Personal Care/Bath & Bathing Accessories/Bathing Accessories/Exfoliating Gloves,item_type_keyword:body-exfoliating-gloves,See all available refinements
+11149326011,Beauty & Personal Care/Personal Care/Bath & Bathing Accessories/Bathing Accessories/Loofahs,item_type_keyword:bath-loofahs,See all available refinements
+11056571,Beauty & Personal Care/Personal Care/Bath & Bathing Accessories/Bathing Accessories/Shower Caps,item_type_keyword:shower-caps,See all available refinements
+3731741,Beauty & Personal Care/Personal Care/Bath & Bathing Accessories/Bathing Accessories/Washcloths,item_type_keyword:washcloths,See all available refinements
+3778451,Beauty & Personal Care/Personal Care/Deodorants & Antiperspirants,item_type_keyword:deodorants-and-antiperspirants,See all available refinements
+702372011,Beauty & Personal Care/Personal Care/Deodorants & Antiperspirants/Antiperspirant Deodorant,item_type_keyword:antiperspirant-deodorants,See all available refinements
+702370011,Beauty & Personal Care/Personal Care/Deodorants & Antiperspirants/Antiperspirants,item_type_keyword:antiperspirants,See all available refinements
+702371011,Beauty & Personal Care/Personal Care/Deodorants & Antiperspirants/Deodorant,item_type_keyword:deodorants,See all available refinements
+3761351,Beauty & Personal Care/Personal Care/Lip Care,item_type_keyword:lip-care-products,See all available refinements
+979546011,Beauty & Personal Care/Personal Care/Lip Care/Balms & Moisturizers,item_type_keyword:lip-balms-and-moisturizers,See all available refinements
+18065339011,Beauty & Personal Care/Personal Care/Lip Care/Lip Butters,item_type_keyword:lip-butters,See all available refinements
+21212387011,Beauty & Personal Care/Personal Care/Lip Care/Lip Plumpers,item_type_keyword:lip-plumping-treatments,See all available refinements
+7793061011,Beauty & Personal Care/Personal Care/Lip Care/Night Treatments,item_type_keyword:lip-night-treatments,See all available refinements
+7793062011,Beauty & Personal Care/Personal Care/Lip Care/Ointments,item_type_keyword:lip-ointments,See all available refinements
+979548011,Beauty & Personal Care/Personal Care/Lip Care/Scrubs,item_type_keyword:lip-scrubs,See all available refinements
+10079992011,Beauty & Personal Care/Personal Care/Oral Care,item_type_keyword:oral-hygiene-products,See all available refinements
+23912497011,Beauty & Personal Care/Personal Care/Oral Care/Baby & Child Dental Care,,See all available refinements
+13213837011,Beauty & Personal Care/Personal Care/Oral Care/Baby & Child Dental Care/Children's Dental Care,item_type_keyword:childrens-dental-care-products,See all available refinements
+13213845011,Beauty & Personal Care/Personal Care/Oral Care/Baby & Child Dental Care/Children's Dental Care/Dental Care Kits,item_type_keyword:childrens-dental-care-kits,See all available refinements
+23912501011,Beauty & Personal Care/Personal Care/Oral Care/Baby & Child Dental Care/Children's Dental Care/Electric Toothbrushes & Accessories,,See all available refinements
+13213838011,Beauty & Personal Care/Personal Care/Oral Care/Baby & Child Dental Care/Children's Dental Care/Electric Toothbrushes & Accessories/Electric Toothbrushes,item_type_keyword:childrens-electric-toothbrushes,See all available refinements
+23912502011,Beauty & Personal Care/Personal Care/Oral Care/Baby & Child Dental Care/Children's Dental Care/Electric Toothbrushes & Accessories/Replacement Brush Heads,,See all available refinements
+13213839011,Beauty & Personal Care/Personal Care/Oral Care/Baby & Child Dental Care/Children's Dental Care/Manual Toothbrushes,item_type_keyword:childrens-manual-toothbrushes,See all available refinements
+13213844011,Beauty & Personal Care/Personal Care/Oral Care/Baby & Child Dental Care/Children's Dental Care/Mouthwashes,item_type_keyword:childrens-mouthwashes,See all available refinements
+13213840011,Beauty & Personal Care/Personal Care/Oral Care/Baby & Child Dental Care/Children's Dental Care/Toothpaste,item_type_keyword:childrens-toothpastes,See all available refinements
+13213828011,Beauty & Personal Care/Personal Care/Oral Care/Baby & Child Dental Care/Infant Dental Care,,See all available refinements
+7909329011,Beauty & Personal Care/Personal Care/Oral Care/Baby & Child Dental Care/Infant Dental Care/Toothbrushes,item_type_keyword:baby-toothbrushes,See all available refinements
+7909330011,Beauty & Personal Care/Personal Care/Oral Care/Baby & Child Dental Care/Infant Dental Care/Training Toothpaste,item_type_keyword:baby-training-toothpaste,See all available refinements
+3777911,Beauty & Personal Care/Personal Care/Oral Care/Breath Fresheners,item_type_keyword:breath-fresheners,See all available refinements
+13213851011,Beauty & Personal Care/Personal Care/Oral Care/Dental Care Kits,item_type_keyword:dental-care-kits,See all available refinements
+13213824011,Beauty & Personal Care/Personal Care/Oral Care/Dental Floss & Picks,,See all available refinements
+23783024011,Beauty & Personal Care/Personal Care/Oral Care/Dental Floss & Picks/Dental Chew Sticks,item_type_keyword:dental-chew-sticks,See all available refinements
+3778071,Beauty & Personal Care/Personal Care/Oral Care/Dental Floss & Picks/Dental Floss,item_type_keyword:flossing-products,See all available refinements
+3778091,Beauty & Personal Care/Personal Care/Oral Care/Dental Floss & Picks/Floss Picks,item_type_keyword:interdental-floss-picks,See all available refinements
+3778081,Beauty & Personal Care/Personal Care/Oral Care/Dental Floss & Picks/Gum Stimulators,item_type_keyword:gum-stimulators,See all available refinements
+8297644011,Beauty & Personal Care/Personal Care/Oral Care/Dental Floss & Picks/Interdental Brushes,item_type_keyword:interdental-brushes,See all available refinements
+13213826011,Beauty & Personal Care/Personal Care/Oral Care/Dental Floss & Picks/Power Dental Flossers,item_type_keyword:power-dental-flossers,See all available refinements
+23912499011,Beauty & Personal Care/Personal Care/Oral Care/Dental Floss & Picks/Power Flossers & Irrigator Accessories,,See all available refinements
+3778111,Beauty & Personal Care/Personal Care/Oral Care/Denture Care,item_type_keyword:denture-care-products,See all available refinements
+3778121,Beauty & Personal Care/Personal Care/Oral Care/Denture Care/Adhesives,item_type_keyword:denture-adhesives,See all available refinements
+3778151,Beauty & Personal Care/Personal Care/Oral Care/Denture Care/Baths,item_type_keyword:denture-baths,See all available refinements
+3778141,Beauty & Personal Care/Personal Care/Oral Care/Denture Care/Brushes,item_type_keyword:denture-brushes,See all available refinements
+3778131,Beauty & Personal Care/Personal Care/Oral Care/Denture Care/Cleansers,item_type_keyword:denture-cleansers,See all available refinements
+13213846011,Beauty & Personal Care/Personal Care/Oral Care/Denture Care/Repair Kits,item_type_keyword:denture-repair-kits,See all available refinements
+14255252011,Beauty & Personal Care/Personal Care/Oral Care/Dry Mouth Relief,item_type_keyword:dry-mouth-relief-products,See all available refinements
+3778161,Beauty & Personal Care/Personal Care/Oral Care/Mouthwash,item_type_keyword:mouthwashes,See all available refinements
+3764051,Beauty & Personal Care/Personal Care/Oral Care/Oral Pain Relief,item_type_keyword:oral-pain-treatments,See all available refinements
+3764081,Beauty & Personal Care/Personal Care/Oral Care/Oral Pain Relief/Emergency Dental Care,item_type_keyword:emergency-dental-care-products,See all available refinements
+10728261,Beauty & Personal Care/Personal Care/Oral Care/Oral Pain Relief/Medications,item_type_keyword:oral-pain-relief-medications,See all available refinements
+10728271,Beauty & Personal Care/Personal Care/Oral Care/Oral Pain Relief/Rinses,( item_type_keyword:anesthetic-oral-rinses OR item_type_keyword:antiseptic-oral-rinses ),See all available refinements
+4986869011,Beauty & Personal Care/Personal Care/Oral Care/Orthodontic Supplies,item_type_keyword:personal-orthodontic-supplies,See all available refinements
+13213849011,Beauty & Personal Care/Personal Care/Oral Care/Sensitivity Treatments,item_type_keyword:dental-sensitivity-treatments,See all available refinements
+3764091,Beauty & Personal Care/Personal Care/Oral Care/Teeth Grinding Guards,item_type_keyword:anti-grinding-teeth-protectors,See all available refinements
+3778441,Beauty & Personal Care/Personal Care/Oral Care/Teeth Whitening,item_type_keyword:teeth-whitening-products,See all available refinements
+21193190011,Beauty & Personal Care/Personal Care/Oral Care/Teeth Whitening/Gels,item_type_keyword:teeth-whitening-gels,See all available refinements
+21193192011,Beauty & Personal Care/Personal Care/Oral Care/Teeth Whitening/LED Accelerator Lights,item_type_keyword:teeth-whitening-led-accelerator-lights,See all available refinements
+21193189011,Beauty & Personal Care/Personal Care/Oral Care/Teeth Whitening/Strips,item_type_keyword:teeth-whitening-strips,See all available refinements
+21193191011,Beauty & Personal Care/Personal Care/Oral Care/Teeth Whitening/Whitening Kits,item_type_keyword:teeth-whitening-kits,See all available refinements
+3777991,Beauty & Personal Care/Personal Care/Oral Care/Tongue Cleaners,item_type_keyword:tongue-cleaners,See all available refinements
+18065341011,Beauty & Personal Care/Personal Care/Oral Care/Toothbrushes & Accessories,,See all available refinements
+3778211,Beauty & Personal Care/Personal Care/Oral Care/Toothbrushes & Accessories/Manual Toothbrushes,item_type_keyword:manual-toothbrushes,See all available refinements
+18065346011,Beauty & Personal Care/Personal Care/Oral Care/Toothbrushes & Accessories/Powered Toothbrushes & Accessories,,See all available refinements
+18065348011,Beauty & Personal Care/Personal Care/Oral Care/Toothbrushes & Accessories/Powered Toothbrushes & Accessories/Chargers,item_type_keyword:powered-toothbrush-chargers,See all available refinements
+18065347011,Beauty & Personal Care/Personal Care/Oral Care/Toothbrushes & Accessories/Powered Toothbrushes & Accessories/Powered Toothbrushes,,See all available refinements
+18065349011,Beauty & Personal Care/Personal Care/Oral Care/Toothbrushes & Accessories/Powered Toothbrushes & Accessories/Powered Toothbrushes/Rotating,item_type_keyword:rotating-power-toothbrushes,See all available refinements
+18065350011,Beauty & Personal Care/Personal Care/Oral Care/Toothbrushes & Accessories/Powered Toothbrushes & Accessories/Powered Toothbrushes/Sonic,item_type_keyword:sonic-toothbrushes,See all available refinements
+18065351011,Beauty & Personal Care/Personal Care/Oral Care/Toothbrushes & Accessories/Powered Toothbrushes & Accessories/Powered Toothbrushes/Ultrasonic,item_type_keyword:ultrasonic-toothbrushes,See all available refinements
+3778351,Beauty & Personal Care/Personal Care/Oral Care/Toothbrushes & Accessories/Powered Toothbrushes & Accessories/Toothbrush Replacement Heads,item_type_keyword:electric-toothbrush-replacement-parts,See all available refinements
+23912498011,Beauty & Personal Care/Personal Care/Oral Care/Toothbrushes & Accessories/Toothbrush Sanitizers,,See all available refinements
+15243733011,Beauty & Personal Care/Personal Care/Oral Care/Toothbrushes & Accessories/Toothbrush Travel Containers,item_type_keyword:toothbrush-travel-containers,See all available refinements
+3778371,Beauty & Personal Care/Personal Care/Oral Care/Toothpaste,item_type_keyword:toothpastes,See all available refinements
+13106041,Beauty & Personal Care/Personal Care/Piercing & Tattoo Supplies,,See all available refinements
+13106271,Beauty & Personal Care/Personal Care/Piercing & Tattoo Supplies/Piercing Supplies,item_type_keyword:body-piercing-products,See all available refinements
+13226735011,Beauty & Personal Care/Personal Care/Piercing & Tattoo Supplies/Piercing Supplies/Aftercare Products,item_type_keyword:body-piercing-aftercare-products,See all available refinements
+13226736011,Beauty & Personal Care/Personal Care/Piercing & Tattoo Supplies/Piercing Supplies/Piercing Guns,item_type_keyword:body-piercing-guns,See all available refinements
+13226737011,Beauty & Personal Care/Personal Care/Piercing & Tattoo Supplies/Piercing Supplies/Piercing Kits,item_type_keyword:body-piercing-kits,See all available refinements
+13226738011,Beauty & Personal Care/Personal Care/Piercing & Tattoo Supplies/Piercing Supplies/Piercing Needles,item_type_keyword:body-piercing-needles,See all available refinements
+13106051,Beauty & Personal Care/Personal Care/Piercing & Tattoo Supplies/Tattoo Supplies,item_type_keyword:tattooing-products,See all available refinements
+13226745011,Beauty & Personal Care/Personal Care/Piercing & Tattoo Supplies/Tattoo Supplies/Aftercare Products,item_type_keyword:tattoo-aftercare-products,See all available refinements
+13226746011,Beauty & Personal Care/Personal Care/Piercing & Tattoo Supplies/Tattoo Supplies/Tattoo Inks,item_type_keyword:tattoo-inks,See all available refinements
+13226747011,Beauty & Personal Care/Personal Care/Piercing & Tattoo Supplies/Tattoo Supplies/Tattoo Kits,item_type_keyword:tattoo-kits,See all available refinements
+13226748011,Beauty & Personal Care/Personal Care/Piercing & Tattoo Supplies/Tattoo Supplies/Tattoo Machine Parts,item_type_keyword:tattoo-machine-parts,See all available refinements
+13226749011,Beauty & Personal Care/Personal Care/Piercing & Tattoo Supplies/Tattoo Supplies/Tattoo Machines,item_type_keyword:tattoo-machines,See all available refinements
+13226750011,Beauty & Personal Care/Personal Care/Piercing & Tattoo Supplies/Tattoo Supplies/Tattoo Needles,item_type_keyword:tattoo-needles,See all available refinements
+11056421,Beauty & Personal Care/Personal Care/Scrubs & Body Treatments,item_type_keyword:body-scrubs-and-treatments,See all available refinements
+3778591,Beauty & Personal Care/Personal Care/Shave & Hair Removal,item_type_keyword:hair-removal-and-shaving-products,See all available refinements
+13271079011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's,item_type_keyword:mens-shaving-and-hair-removal-products,See all available refinements
+13271113011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/After Shaves,item_type_keyword:aftershave,See all available refinements
+23673202011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/After Shaves/Balms,item_type_keyword:after-shave-balm,See all available refinements
+23673203011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/After Shaves/Gels,item_type_keyword:after-shave-gels,See all available refinements
+23673204011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/After Shaves/Lotions,item_type_keyword:after-shave-lotions,See all available refinements
+13271118011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Beard & Mustache Care,item_type_keyword:mens-beard-and-mustache-care,See all available refinements
+7655032011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Beard & Mustache Care/Beard & Mustache Combs,item_type_keyword:beard-and-mustache-combs,See all available refinements
+234951011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Beard & Mustache Care/Beard & Mustache Trimmers,item_type_keyword:beard-trimmers,See all available refinements
+7655120011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Beard & Mustache Care/Beard Conditioners & Oils,,See all available refinements
+7655121011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Beard & Mustache Care/Beard Conditioners & Oils/Beard Conditioners,item_type_keyword:beard-conditioners,See all available refinements
+7655122011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Beard & Mustache Care/Beard Conditioners & Oils/Beard Oils,item_type_keyword:beard-oils,See all available refinements
+13271120011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Beard & Mustache Care/Mustache Scissors,item_type_keyword:mustache-scissors,See all available refinements
+7655599011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Beard & Mustache Care/Mustache Waxes,item_type_keyword:mustache-waxes,See all available refinements
+7697066011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Body Groomers,item_type_keyword:body-hair-groomers,See all available refinements
+3779081,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Depilatories,item_type_keyword:depilatories,See all available refinements
+13271092011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Electric Shavers,item_type_keyword:mens-electric-shavers,See all available refinements
+13271100011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Electric Shavers/Accessories,item_type_keyword:mens-electric-shaver-accessories,See all available refinements
+13271102011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Electric Shavers/Cleaners,item_type_keyword:mens-electric-shaver-cleaners,See all available refinements
+13271094011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Electric Shavers/Foil Shavers,item_type_keyword:mens-foil-shavers,See all available refinements
+13271098011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Electric Shavers/Replacement Heads,item_type_keyword:mens-electric-shaver-replacement-heads,See all available refinements
+13271096011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Electric Shavers/Rotary Shavers,item_type_keyword:mens-rotary-shavers,See all available refinements
+7706129011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Eyebrow Trimmers,item_type_keyword:eyebrow-hair-trimmers,See all available refinements
+234950011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Nose & Ear Hair Trimmers,item_type_keyword:nose-and-ear-hair-trimmers,See all available refinements
+13271080011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Razors & Blades,,See all available refinements
+23595313011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Razors & Blades/Cartridge Razors,item_type_keyword:mens-cartridge-razors,See all available refinements
+13271084011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Razors & Blades/Cartridges & Refills,item_type_keyword:mens-replacement-razor-blade-cartridges-and-refills,See all available refinements
+13271086011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Razors & Blades/Disposable Razors,item_type_keyword:mens-disposable-shaving-razors,See all available refinements
+13271088011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Razors & Blades/Safety Razors,item_type_keyword:mens-safety-shaving-razors,See all available refinements
+13271090011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Razors & Blades/Straight Razors,item_type_keyword:mens-straight-shaving-razors,See all available refinements
+13271122011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Shaving & Grooming Sets,item_type_keyword:mens-shaving-and-grooming-sets,See all available refinements
+13271115011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Shaving Accessories,item_type_keyword:mens-shaving-accessories,See all available refinements
+7654694011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Shaving Accessories/Alum,item_type_keyword:shaving-alum,See all available refinements
+7655038011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Shaving Accessories/Hot Lather Machines,item_type_keyword:hot-lather-machines,See all available refinements
+7655033011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Shaving Accessories/Razor & Brush Stands,item_type_keyword:razor-and-brush-stands,See all available refinements
+7655034011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Shaving Accessories/Razor Strops,item_type_keyword:hair-removal-razor-strops,See all available refinements
+7655037011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Shaving Accessories/Shaving Brushes,item_type_keyword:shaving-brushes,See all available refinements
+7655036011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Shaving Accessories/Shaving Soap Bowls,item_type_keyword:shaving-soap-bowls,See all available refinements
+7654695011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Shaving Accessories/Styptic,item_type_keyword:shaving-styptic,See all available refinements
+13271103011,"Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Shaving Creams, Lotions & Gels",,See all available refinements
+13271105011,"Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Shaving Creams, Lotions & Gels/Shaving Creams",item_type_keyword:mens-shaving-creams,See all available refinements
+13271109011,"Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Shaving Creams, Lotions & Gels/Shaving Gels",item_type_keyword:mens-shaving-gels,See all available refinements
+13271107011,"Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Shaving Creams, Lotions & Gels/Shaving Lotions",item_type_keyword:mens-shaving-lotions,See all available refinements
+13271111011,"Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Shaving Creams, Lotions & Gels/Shaving Soaps",item_type_keyword:mens-shaving-soaps,See all available refinements
+3779181,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Tweezers,item_type_keyword:tweezers,See all available refinements
+3779191,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Waxing,item_type_keyword:hair-removal-waxing-products,See all available refinements
+7676396011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Waxing/Anesthetics,item_type_keyword:hair-waxing-anesthetics,See all available refinements
+7676397011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Waxing/Cooling & Soothing Treatments,item_type_keyword:waxing-cooling-and-soothing-treatments,See all available refinements
+7676398011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Waxing/Disposable Underwear,item_type_keyword:hair-waxing-disposable-underwear,See all available refinements
+3779221,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Waxing/Powders,item_type_keyword:hair-waxing-powders,See all available refinements
+7676570011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Waxing/Removal Oils,item_type_keyword:hair-wax-removal-oils,See all available refinements
+3779231,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Waxing/Skin Cleansers,item_type_keyword:hair-waxing-skin-cleansers,See all available refinements
+3779241,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Waxing/Spatulas,item_type_keyword:hair-waxing-spatulas,See all available refinements
+3779271,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Waxing/Strips,item_type_keyword:hair-waxing-strips,See all available refinements
+3779251,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Waxing/Wax,item_type_keyword:hair-removal-wax,See all available refinements
+7676403011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Waxing/Wax/Pot Wax,item_type_keyword:hair-removal-pot-waxes,See all available refinements
+7676405011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Waxing/Wax/Ready to Use Strips,item_type_keyword:hair-removal-ready-to-use-wax-strips,See all available refinements
+7676404011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Waxing/Wax/Roll On Wax,item_type_keyword:hair-removal-roll-on-waxes,See all available refinements
+16261985011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Waxing/Wax Warmers & Accessories,,See all available refinements
+7676407011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Waxing/Wax Warmers & Accessories/Collars,item_type_keyword:hair-removal-wax-warmer-collars,See all available refinements
+7676408011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Waxing/Wax Warmers & Accessories/Replacement Parts,item_type_keyword:hair-removal-wax-warmer-replacement-parts,See all available refinements
+3779261,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Waxing/Wax Warmers & Accessories/Warmers,item_type_keyword:hair-wax-warmers,See all available refinements
+3779281,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Men's/Waxing/Waxing Kits,item_type_keyword:hair-waxing-kits,See all available refinements
+13269990011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's,item_type_keyword:womens-shaving-and-hair-removal-products,See all available refinements
+3779061,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Bleaching,item_type_keyword:body-hair-bleaching-products,See all available refinements
+3779081,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Depilatories,item_type_keyword:depilatories,See all available refinements
+13295180011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Electric Shavers,item_type_keyword:womens-electric-shavers,See all available refinements
+13295186011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Electric Shavers/Accessories,item_type_keyword:womens-electric-shaver-accessories,See all available refinements
+13295182011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Electric Shavers/Foil Shavers,item_type_keyword:womens-foil-shavers,See all available refinements
+13295184011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Electric Shavers/Replacement Heads,item_type_keyword:womens-electric-shaver-replacement-heads,See all available refinements
+13269998011,"Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Epilators, Groomers & Trimmers",,See all available refinements
+13270000011,"Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Epilators, Groomers & Trimmers/Bikini Trimmers",item_type_keyword:womens-bikini-trimmers,See all available refinements
+234944011,"Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Epilators, Groomers & Trimmers/Epilators",item_type_keyword:epilators,See all available refinements
+3779171,"Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Epilators, Groomers & Trimmers/Personal Groomers",item_type_keyword:personal-groomers,See all available refinements
+13406780011,"Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Laser, Light & Electrolysis Hair Removal",,See all available refinements
+3779151,"Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Laser, Light & Electrolysis Hair Removal/Electrolysis",,See all available refinements
+7676494011,"Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Laser, Light & Electrolysis Hair Removal/Electrolysis/Machines",item_type_keyword:electrolysis-machines,See all available refinements
+7676495011,"Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Laser, Light & Electrolysis Hair Removal/Electrolysis/Pens",item_type_keyword:electrolysis-pens,See all available refinements
+7676394011,"Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Laser, Light & Electrolysis Hair Removal/Laser Hair Removal",item_type_keyword:laser-hair-removal-devices,See all available refinements
+7676395011,"Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Laser, Light & Electrolysis Hair Removal/Light Hair Removal",item_type_keyword:light-hair-removal-devices,See all available refinements
+13269991011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Razors & Blades,,See all available refinements
+23595315011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Razors & Blades/Cartridge Razors,item_type_keyword:womens-cartridge-razors,See all available refinements
+23595314011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Razors & Blades/Cartridges & Refills,item_type_keyword:womens-replacement-razor-blade-cartridges-and-refills,See all available refinements
+13269997011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Razors & Blades/Disposable Razors,item_type_keyword:womens-disposable-shaving-razors,See all available refinements
+13295188011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Razors & Blades/Razors with Soap Bars,item_type_keyword:womens-razors-with-soap-bars,See all available refinements
+13270009011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Shaving & Grooming Sets,item_type_keyword:womens-shaving-and-grooming-sets,See all available refinements
+13270001011,"Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Shaving Creams, Lotions & Gels",,See all available refinements
+13270003011,"Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Shaving Creams, Lotions & Gels/Shaving Creams",item_type_keyword:womens-shaving-creams,See all available refinements
+13270007011,"Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Shaving Creams, Lotions & Gels/Shaving Gels",item_type_keyword:womens-shaving-gels,See all available refinements
+13270005011,"Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Shaving Creams, Lotions & Gels/Shaving Lotions",item_type_keyword:womens-shaving-lotions,See all available refinements
+3779181,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Tweezers,item_type_keyword:tweezers,See all available refinements
+3779191,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Waxing,item_type_keyword:hair-removal-waxing-products,See all available refinements
+7676396011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Waxing/Anesthetics,item_type_keyword:hair-waxing-anesthetics,See all available refinements
+7676397011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Waxing/Cooling & Soothing Treatments,item_type_keyword:waxing-cooling-and-soothing-treatments,See all available refinements
+7676398011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Waxing/Disposable Underwear,item_type_keyword:hair-waxing-disposable-underwear,See all available refinements
+3779221,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Waxing/Powders,item_type_keyword:hair-waxing-powders,See all available refinements
+7676570011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Waxing/Removal Oils,item_type_keyword:hair-wax-removal-oils,See all available refinements
+3779231,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Waxing/Skin Cleansers,item_type_keyword:hair-waxing-skin-cleansers,See all available refinements
+3779241,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Waxing/Spatulas,item_type_keyword:hair-waxing-spatulas,See all available refinements
+3779271,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Waxing/Strips,item_type_keyword:hair-waxing-strips,See all available refinements
+3779251,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Waxing/Wax,item_type_keyword:hair-removal-wax,See all available refinements
+7676403011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Waxing/Wax/Pot Wax,item_type_keyword:hair-removal-pot-waxes,See all available refinements
+7676405011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Waxing/Wax/Ready to Use Strips,item_type_keyword:hair-removal-ready-to-use-wax-strips,See all available refinements
+7676404011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Waxing/Wax/Roll On Wax,item_type_keyword:hair-removal-roll-on-waxes,See all available refinements
+16261985011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Waxing/Wax Warmers & Accessories,,See all available refinements
+7676407011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Waxing/Wax Warmers & Accessories/Collars,item_type_keyword:hair-removal-wax-warmer-collars,See all available refinements
+7676408011,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Waxing/Wax Warmers & Accessories/Replacement Parts,item_type_keyword:hair-removal-wax-warmer-replacement-parts,See all available refinements
+3779261,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Waxing/Wax Warmers & Accessories/Warmers,item_type_keyword:hair-wax-warmers,See all available refinements
+3779281,Beauty & Personal Care/Personal Care/Shave & Hair Removal/Women's/Waxing/Waxing Kits,item_type_keyword:hair-waxing-kits,See all available refinements
+11060451,Beauty & Personal Care/Personal Care/Skin Care,item_type_keyword:skin-care-products,See all available refinements
+11060521,Beauty & Personal Care/Personal Care/Skin Care/Body,,See all available refinements
+11056441,Beauty & Personal Care/Personal Care/Skin Care/Body/Body Mud,item_type_keyword:body-muds,See all available refinements
+11056471,Beauty & Personal Care/Personal Care/Skin Care/Body/Body Scrubs,item_type_keyword:body-scrubs,See all available refinements
+17523133011,Beauty & Personal Care/Personal Care/Skin Care/Body/Breast Enhancement Creams,item_type_keyword:breast-enhancement-creams,See all available refinements
+11056281,Beauty & Personal Care/Personal Care/Skin Care/Body/Cleansers,item_type_keyword:body-cleansers,See all available refinements
+11056291,Beauty & Personal Care/Personal Care/Skin Care/Body/Cleansers/Body Washes,item_type_keyword:bath-and-shower-gels,See all available refinements
+11062271,Beauty & Personal Care/Personal Care/Skin Care/Body/Cleansers/Hand Wash,item_type_keyword:hand-washes,See all available refinements
+11056341,Beauty & Personal Care/Personal Care/Skin Care/Body/Cleansers/Soaps,item_type_keyword:bath-soaps,See all available refinements
+11060661,Beauty & Personal Care/Personal Care/Skin Care/Body/Moisturizers,item_type_keyword:body-moisturizers,See all available refinements
+11060671,Beauty & Personal Care/Personal Care/Skin Care/Body/Moisturizers/Body Butters,item_type_keyword:body-butters,See all available refinements
+11060681,Beauty & Personal Care/Personal Care/Skin Care/Body/Moisturizers/Creams,item_type_keyword:body-gels-and-creams,See all available refinements
+14024031,Beauty & Personal Care/Personal Care/Skin Care/Body/Moisturizers/Lotions,item_type_keyword:body-lotions,See all available refinements
+11056481,Beauty & Personal Care/Personal Care/Skin Care/Body/Moisturizers/Mousses,( item_type_keyword:body-mousses ),See all available refinements
+11060691,Beauty & Personal Care/Personal Care/Skin Care/Body/Moisturizers/Oils,item_type_keyword:body-oils,See all available refinements
+11056581,Beauty & Personal Care/Personal Care/Skin Care/Body/Sets & Kits,( item_type_keyword:bath-and-shower-product-sets OR item_type_keyword:toiletry-product-sets ),See all available refinements
+11061941,Beauty & Personal Care/Personal Care/Skin Care/Eyes,item_type_keyword:eye-treatment-products,See all available refinements
+7730087011,Beauty & Personal Care/Personal Care/Skin Care/Eyes/Balms,item_type_keyword:eye-treatment-balms,See all available refinements
+7730090011,Beauty & Personal Care/Personal Care/Skin Care/Eyes/Creams,item_type_keyword:eye-treatment-creams,See all available refinements
+7730092011,Beauty & Personal Care/Personal Care/Skin Care/Eyes/Gels,item_type_keyword:eye-treatment-gels,See all available refinements
+11061971,Beauty & Personal Care/Personal Care/Skin Care/Eyes/Masks,item_type_keyword:eye-masks,See all available refinements
+7730098011,Beauty & Personal Care/Personal Care/Skin Care/Eyes/Serums,item_type_keyword:eye-treatment-serums,See all available refinements
+7730099011,Beauty & Personal Care/Personal Care/Skin Care/Eyes/Wrinkle Pads & Patches,item_type_keyword:eye-wrinkle-pads-and-patches,See all available refinements
+11060711,Beauty & Personal Care/Personal Care/Skin Care/Face,item_type_keyword:facial-care-products,See all available refinements
+11060901,Beauty & Personal Care/Personal Care/Skin Care/Face/Cleansers,item_type_keyword:facial-cleansing-products,See all available refinements
+7730188011,Beauty & Personal Care/Personal Care/Skin Care/Face/Cleansers/Balms,item_type_keyword:facial-cleansing-balms,See all available refinements
+7730189011,Beauty & Personal Care/Personal Care/Skin Care/Face/Cleansers/Bars,item_type_keyword:facial-cleansing-bars,See all available refinements
+11060941,Beauty & Personal Care/Personal Care/Skin Care/Face/Cleansers/Cloths & Towelettes,item_type_keyword:facial-cleansing-cloths-and-towelettes,See all available refinements
+11060951,Beauty & Personal Care/Personal Care/Skin Care/Face/Cleansers/Creams,item_type_keyword:facial-cleansing-creams,See all available refinements
+11061001,Beauty & Personal Care/Personal Care/Skin Care/Face/Cleansers/Gels,item_type_keyword:facial-cleansing-gels,See all available refinements
+11061471,Beauty & Personal Care/Personal Care/Skin Care/Face/Cleansers/Pads,item_type_keyword:facial-cleansing-pads,See all available refinements
+7730193011,Beauty & Personal Care/Personal Care/Skin Care/Face/Cleansers/Washes,item_type_keyword:facial-cleansing-washes,See all available refinements
+11061301,Beauty & Personal Care/Personal Care/Skin Care/Face/Creams & Moisturizers,item_type_keyword:facial-creams-and-moisturizers,See all available refinements
+7792268011,Beauty & Personal Care/Personal Care/Skin Care/Face/Creams & Moisturizers/BB Creams,item_type_keyword:bb-facial-creams,See all available refinements
+7792269011,Beauty & Personal Care/Personal Care/Skin Care/Face/Creams & Moisturizers/CC Creams,item_type_keyword:cc-facial-creams,See all available refinements
+7792270011,Beauty & Personal Care/Personal Care/Skin Care/Face/Creams & Moisturizers/DD Creams,item_type_keyword:dd-facial-creams,See all available refinements
+15239989011,Beauty & Personal Care/Personal Care/Skin Care/Face/Creams & Moisturizers/Face Mists,item_type_keyword:face-mists,See all available refinements
+16479981011,Beauty & Personal Care/Personal Care/Skin Care/Face/Creams & Moisturizers/Face Moisturizers,item_type_keyword:facial-moisturizers,See all available refinements
+7792527011,Beauty & Personal Care/Personal Care/Skin Care/Face/Creams & Moisturizers/Face Oil,item_type_keyword:facial-oils,See all available refinements
+7792277011,Beauty & Personal Care/Personal Care/Skin Care/Face/Creams & Moisturizers/Neck & Décolleté,item_type_keyword:neck-and-decollete-moisturizers,See all available refinements
+7792275011,Beauty & Personal Care/Personal Care/Skin Care/Face/Creams & Moisturizers/Night Creams,item_type_keyword:facial-night-creams,See all available refinements
+7792276011,Beauty & Personal Care/Personal Care/Skin Care/Face/Creams & Moisturizers/Tinted Moisturizers,item_type_keyword:tinted-facial-moisturizers,See all available refinements
+11061091,Beauty & Personal Care/Personal Care/Skin Care/Face/Polishes & Scrubs,,See all available refinements
+11061151,Beauty & Personal Care/Personal Care/Skin Care/Face/Polishes & Scrubs/Polishes,item_type_keyword:facial-polishes,See all available refinements
+11061161,Beauty & Personal Care/Personal Care/Skin Care/Face/Polishes & Scrubs/Scrubs,item_type_keyword:facial-scrubs,See all available refinements
+7792636011,Beauty & Personal Care/Personal Care/Skin Care/Face/Sets & Kits,item_type_keyword:facial-skin-care-sets-and-kits,See all available refinements
+11061931,Beauty & Personal Care/Personal Care/Skin Care/Face/Toners & Astringents,item_type_keyword:facial-toners-and-astringents,See all available refinements
+11062031,Beauty & Personal Care/Personal Care/Skin Care/Face/Treatments & Masks,item_type_keyword:facial-treatments-and-masks,See all available refinements
+7792926011,Beauty & Personal Care/Personal Care/Skin Care/Face/Treatments & Masks/Facial Peels,item_type_keyword:facial-acids-and-peels,See all available refinements
+11061121,Beauty & Personal Care/Personal Care/Skin Care/Face/Treatments & Masks/Masks,item_type_keyword:facial-treatment-masks,See all available refinements
+7792934011,Beauty & Personal Care/Personal Care/Skin Care/Face/Treatments & Masks/Microdermabrasion,item_type_keyword:facial-microdermabrasion-products,See all available refinements
+7792936011,Beauty & Personal Care/Personal Care/Skin Care/Face/Treatments & Masks/Pore Cleansing Strips,item_type_keyword:pore-cleansing-strips,See all available refinements
+7792528011,Beauty & Personal Care/Personal Care/Skin Care/Face/Treatments & Masks/Serums,item_type_keyword:facial-serums,See all available refinements
+7792937011,Beauty & Personal Care/Personal Care/Skin Care/Face/Treatments & Masks/Wrinkle Patches,item_type_keyword:facial-wrinkle-patches,See all available refinements
+3761351,Beauty & Personal Care/Personal Care/Skin Care/Lip Care,item_type_keyword:lip-care-products,See all available refinements
+979546011,Beauty & Personal Care/Personal Care/Skin Care/Lip Care/Balms & Moisturizers,item_type_keyword:lip-balms-and-moisturizers,See all available refinements
+18065339011,Beauty & Personal Care/Personal Care/Skin Care/Lip Care/Lip Butters,item_type_keyword:lip-butters,See all available refinements
+21212387011,Beauty & Personal Care/Personal Care/Skin Care/Lip Care/Lip Plumpers,item_type_keyword:lip-plumping-treatments,See all available refinements
+7793061011,Beauty & Personal Care/Personal Care/Skin Care/Lip Care/Night Treatments,item_type_keyword:lip-night-treatments,See all available refinements
+7793062011,Beauty & Personal Care/Personal Care/Skin Care/Lip Care/Ointments,item_type_keyword:lip-ointments,See all available refinements
+979548011,Beauty & Personal Care/Personal Care/Skin Care/Lip Care/Scrubs,item_type_keyword:lip-scrubs,See all available refinements
+11062371,Beauty & Personal Care/Personal Care/Skin Care/Maternity,item_type_keyword:maternity-skin-care-products,See all available refinements
+11062581,Beauty & Personal Care/Personal Care/Skin Care/Sets & Kits,item_type_keyword:skin-care-sets-and-kits,See all available refinements
+11062591,Beauty & Personal Care/Personal Care/Skin Care/Sunscreens & Tanning Products,item_type_keyword:sunscreens-and-tanning-products,See all available refinements
+11062601,Beauty & Personal Care/Personal Care/Skin Care/Sunscreens & Tanning Products/After Sun,item_type_keyword:after-sun-skin-care-moisturizers,See all available refinements
+11062641,Beauty & Personal Care/Personal Care/Skin Care/Sunscreens & Tanning Products/Self-Tanners,item_type_keyword:self-tanning-products,See all available refinements
+21388129011,Beauty & Personal Care/Personal Care/Skin Care/Sunscreens & Tanning Products/Self-Tanners/Body Self-Tanners,item_type_keyword:body-self-tanners,See all available refinements
+7792568011,Beauty & Personal Care/Personal Care/Skin Care/Sunscreens & Tanning Products/Self-Tanners/Facial Self Tanners,item_type_keyword:facial-self-tanners,See all available refinements
+11062651,Beauty & Personal Care/Personal Care/Skin Care/Sunscreens & Tanning Products/Sunscreens,item_type_keyword:sunscreens,See all available refinements
+15239990011,Beauty & Personal Care/Personal Care/Skin Care/Sunscreens & Tanning Products/Sunscreens/Body Sunscreens,( item_type_keyword:body-sunscreens ),See all available refinements
+166860011,Beauty & Personal Care/Personal Care/Skin Care/Sunscreens & Tanning Products/Sunscreens/Children's Sunscreen,item_type_keyword:childrens-sunscreens,See all available refinements
+7792567011,Beauty & Personal Care/Personal Care/Skin Care/Sunscreens & Tanning Products/Sunscreens/Facial Sunscreens,item_type_keyword:facial-sunscreens,See all available refinements
+11062691,Beauty & Personal Care/Personal Care/Skin Care/Sunscreens & Tanning Products/Sunscreens/Lip Sunscreens,item_type_keyword:lip-protection-sunscreen,See all available refinements
+11062731,Beauty & Personal Care/Personal Care/Skin Care/Sunscreens & Tanning Products/Tanning Oils & Lotions,item_type_keyword:tanning-oils-and-lotions,See all available refinements
+15144566011,Beauty & Personal Care/Salon & Spa Equipment,,See all available refinements
+23623515011,Beauty & Personal Care/Salon & Spa Equipment/Drying Hoods,item_type_keyword:hair-drying-hoods,See all available refinements
+7792502011,Beauty & Personal Care/Salon & Spa Equipment/Galvanic Machines,item_type_keyword:galvanic-facial-machines,See all available refinements
+3736391,Beauty & Personal Care/Salon & Spa Equipment/Handheld Mirrors,item_type_keyword:handheld-mirrors,See all available refinements
+7792503011,Beauty & Personal Care/Salon & Spa Equipment/High Frequency Machines,item_type_keyword:high-frequency-facial-machines,See all available refinements
+23598837011,Beauty & Personal Care/Salon & Spa Equipment/Manicure Tables,item_type_keyword:manicure-tables,See all available refinements
+16302961,Beauty & Personal Care/Salon & Spa Equipment/Professional Massage Equipment,item_type_keyword:professional-massage-equipment,See all available refinements
+16302971,Beauty & Personal Care/Salon & Spa Equipment/Professional Massage Equipment/Linens,item_type_keyword:massage-linens,See all available refinements
+18138151011,Beauty & Personal Care/Salon & Spa Equipment/Professional Massage Equipment/Lotion & Oil Warmers,item_type_keyword:massage-lotion-and-oil-warmers,See all available refinements
+15144890011,Beauty & Personal Care/Salon & Spa Equipment/Professional Massage Equipment/Salon & Spa Chairs,item_type_keyword:salon-and-spa-chairs,See all available refinements
+15144892011,Beauty & Personal Care/Salon & Spa Equipment/Professional Massage Equipment/Salon & Spa Stools,item_type_keyword:salon-and-spa-stools,See all available refinements
+7792506011,Beauty & Personal Care/Salon & Spa Equipment/Professional Massage Equipment/Salon & Spa Tables,item_type_keyword:spa-beds-and-tables,See all available refinements
+18138152011,Beauty & Personal Care/Salon & Spa Equipment/Professional Massage Equipment/Stone Warmers,item_type_keyword:massage-stone-warmers,See all available refinements
+16302991,Beauty & Personal Care/Salon & Spa Equipment/Professional Massage Equipment/Table Pads,item_type_keyword:massage-table-pads,See all available refinements
+16303001,Beauty & Personal Care/Salon & Spa Equipment/Professional Massage Equipment/Table Warmers,item_type_keyword:massage-table-warmers,See all available refinements
+15144892011,Beauty & Personal Care/Salon & Spa Equipment/Salon & Spa Stools,item_type_keyword:salon-and-spa-stools,See all available refinements
+7792506011,Beauty & Personal Care/Salon & Spa Equipment/Spa Beds & Tables,item_type_keyword:spa-beds-and-tables,See all available refinements
+15144890011,Beauty & Personal Care/Salon & Spa Equipment/Spa Chairs,item_type_keyword:salon-and-spa-chairs,See all available refinements
+7792508011,Beauty & Personal Care/Salon & Spa Equipment/Spa Storage Systems,item_type_keyword:spa-storage-sytems,See all available refinements
+7792507011,Beauty & Personal Care/Salon & Spa Equipment/Towel Warmers,item_type_keyword:spa-hot-towel-warmers,See all available refinements
+3778591,Beauty & Personal Care/Shave & Hair Removal,item_type_keyword:hair-removal-and-shaving-products,See all available refinements
+13271079011,Beauty & Personal Care/Shave & Hair Removal/Men's,item_type_keyword:mens-shaving-and-hair-removal-products,See all available refinements
+13271113011,Beauty & Personal Care/Shave & Hair Removal/Men's/After Shaves,item_type_keyword:aftershave,See all available refinements
+23673202011,Beauty & Personal Care/Shave & Hair Removal/Men's/After Shaves/Balms,item_type_keyword:after-shave-balm,See all available refinements
+23673203011,Beauty & Personal Care/Shave & Hair Removal/Men's/After Shaves/Gels,item_type_keyword:after-shave-gels,See all available refinements
+23673204011,Beauty & Personal Care/Shave & Hair Removal/Men's/After Shaves/Lotions,item_type_keyword:after-shave-lotions,See all available refinements
+13271118011,Beauty & Personal Care/Shave & Hair Removal/Men's/Beard & Mustache Care,item_type_keyword:mens-beard-and-mustache-care,See all available refinements
+7655032011,Beauty & Personal Care/Shave & Hair Removal/Men's/Beard & Mustache Care/Beard & Mustache Combs,item_type_keyword:beard-and-mustache-combs,See all available refinements
+234951011,Beauty & Personal Care/Shave & Hair Removal/Men's/Beard & Mustache Care/Beard & Mustache Trimmers,item_type_keyword:beard-trimmers,See all available refinements
+7655120011,Beauty & Personal Care/Shave & Hair Removal/Men's/Beard & Mustache Care/Beard Conditioners & Oils,,See all available refinements
+7655121011,Beauty & Personal Care/Shave & Hair Removal/Men's/Beard & Mustache Care/Beard Conditioners & Oils/Beard Conditioners,item_type_keyword:beard-conditioners,See all available refinements
+7655122011,Beauty & Personal Care/Shave & Hair Removal/Men's/Beard & Mustache Care/Beard Conditioners & Oils/Beard Oils,item_type_keyword:beard-oils,See all available refinements
+13271120011,Beauty & Personal Care/Shave & Hair Removal/Men's/Beard & Mustache Care/Mustache Scissors,item_type_keyword:mustache-scissors,See all available refinements
+7655599011,Beauty & Personal Care/Shave & Hair Removal/Men's/Beard & Mustache Care/Mustache Waxes,item_type_keyword:mustache-waxes,See all available refinements
+7697066011,Beauty & Personal Care/Shave & Hair Removal/Men's/Body Groomers,item_type_keyword:body-hair-groomers,See all available refinements
+3779081,Beauty & Personal Care/Shave & Hair Removal/Men's/Depilatories,item_type_keyword:depilatories,See all available refinements
+13271092011,Beauty & Personal Care/Shave & Hair Removal/Men's/Electric Shavers,item_type_keyword:mens-electric-shavers,See all available refinements
+13271100011,Beauty & Personal Care/Shave & Hair Removal/Men's/Electric Shavers/Accessories,item_type_keyword:mens-electric-shaver-accessories,See all available refinements
+13271102011,Beauty & Personal Care/Shave & Hair Removal/Men's/Electric Shavers/Cleaners,item_type_keyword:mens-electric-shaver-cleaners,See all available refinements
+13271094011,Beauty & Personal Care/Shave & Hair Removal/Men's/Electric Shavers/Foil Shavers,item_type_keyword:mens-foil-shavers,See all available refinements
+13271098011,Beauty & Personal Care/Shave & Hair Removal/Men's/Electric Shavers/Replacement Heads,item_type_keyword:mens-electric-shaver-replacement-heads,See all available refinements
+13271096011,Beauty & Personal Care/Shave & Hair Removal/Men's/Electric Shavers/Rotary Shavers,item_type_keyword:mens-rotary-shavers,See all available refinements
+7706129011,Beauty & Personal Care/Shave & Hair Removal/Men's/Eyebrow Trimmers,item_type_keyword:eyebrow-hair-trimmers,See all available refinements
+234950011,Beauty & Personal Care/Shave & Hair Removal/Men's/Nose & Ear Hair Trimmers,item_type_keyword:nose-and-ear-hair-trimmers,See all available refinements
+13271080011,Beauty & Personal Care/Shave & Hair Removal/Men's/Razors & Blades,,See all available refinements
+23595313011,Beauty & Personal Care/Shave & Hair Removal/Men's/Razors & Blades/Cartridge Razors,item_type_keyword:mens-cartridge-razors,See all available refinements
+13271084011,Beauty & Personal Care/Shave & Hair Removal/Men's/Razors & Blades/Cartridges & Refills,item_type_keyword:mens-replacement-razor-blade-cartridges-and-refills,See all available refinements
+13271086011,Beauty & Personal Care/Shave & Hair Removal/Men's/Razors & Blades/Disposable Razors,item_type_keyword:mens-disposable-shaving-razors,See all available refinements
+13271088011,Beauty & Personal Care/Shave & Hair Removal/Men's/Razors & Blades/Safety Razors,item_type_keyword:mens-safety-shaving-razors,See all available refinements
+13271090011,Beauty & Personal Care/Shave & Hair Removal/Men's/Razors & Blades/Straight Razors,item_type_keyword:mens-straight-shaving-razors,See all available refinements
+13271122011,Beauty & Personal Care/Shave & Hair Removal/Men's/Shaving & Grooming Sets,item_type_keyword:mens-shaving-and-grooming-sets,See all available refinements
+13271115011,Beauty & Personal Care/Shave & Hair Removal/Men's/Shaving Accessories,item_type_keyword:mens-shaving-accessories,See all available refinements
+7654694011,Beauty & Personal Care/Shave & Hair Removal/Men's/Shaving Accessories/Alum,item_type_keyword:shaving-alum,See all available refinements
+7655038011,Beauty & Personal Care/Shave & Hair Removal/Men's/Shaving Accessories/Hot Lather Machines,item_type_keyword:hot-lather-machines,See all available refinements
+7655033011,Beauty & Personal Care/Shave & Hair Removal/Men's/Shaving Accessories/Razor & Brush Stands,item_type_keyword:razor-and-brush-stands,See all available refinements
+7655034011,Beauty & Personal Care/Shave & Hair Removal/Men's/Shaving Accessories/Razor Strops,item_type_keyword:hair-removal-razor-strops,See all available refinements
+7655037011,Beauty & Personal Care/Shave & Hair Removal/Men's/Shaving Accessories/Shaving Brushes,item_type_keyword:shaving-brushes,See all available refinements
+7655036011,Beauty & Personal Care/Shave & Hair Removal/Men's/Shaving Accessories/Shaving Soap Bowls,item_type_keyword:shaving-soap-bowls,See all available refinements
+7654695011,Beauty & Personal Care/Shave & Hair Removal/Men's/Shaving Accessories/Styptic,item_type_keyword:shaving-styptic,See all available refinements
+13271103011,"Beauty & Personal Care/Shave & Hair Removal/Men's/Shaving Creams, Lotions & Gels",,See all available refinements
+13271105011,"Beauty & Personal Care/Shave & Hair Removal/Men's/Shaving Creams, Lotions & Gels/Shaving Creams",item_type_keyword:mens-shaving-creams,See all available refinements
+13271109011,"Beauty & Personal Care/Shave & Hair Removal/Men's/Shaving Creams, Lotions & Gels/Shaving Gels",item_type_keyword:mens-shaving-gels,See all available refinements
+13271107011,"Beauty & Personal Care/Shave & Hair Removal/Men's/Shaving Creams, Lotions & Gels/Shaving Lotions",item_type_keyword:mens-shaving-lotions,See all available refinements
+13271111011,"Beauty & Personal Care/Shave & Hair Removal/Men's/Shaving Creams, Lotions & Gels/Shaving Soaps",item_type_keyword:mens-shaving-soaps,See all available refinements
+3779181,Beauty & Personal Care/Shave & Hair Removal/Men's/Tweezers,item_type_keyword:tweezers,See all available refinements
+3779191,Beauty & Personal Care/Shave & Hair Removal/Men's/Waxing,item_type_keyword:hair-removal-waxing-products,See all available refinements
+7676396011,Beauty & Personal Care/Shave & Hair Removal/Men's/Waxing/Anesthetics,item_type_keyword:hair-waxing-anesthetics,See all available refinements
+7676397011,Beauty & Personal Care/Shave & Hair Removal/Men's/Waxing/Cooling & Soothing Treatments,item_type_keyword:waxing-cooling-and-soothing-treatments,See all available refinements
+7676398011,Beauty & Personal Care/Shave & Hair Removal/Men's/Waxing/Disposable Underwear,item_type_keyword:hair-waxing-disposable-underwear,See all available refinements
+3779221,Beauty & Personal Care/Shave & Hair Removal/Men's/Waxing/Powders,item_type_keyword:hair-waxing-powders,See all available refinements
+7676570011,Beauty & Personal Care/Shave & Hair Removal/Men's/Waxing/Removal Oils,item_type_keyword:hair-wax-removal-oils,See all available refinements
+3779231,Beauty & Personal Care/Shave & Hair Removal/Men's/Waxing/Skin Cleansers,item_type_keyword:hair-waxing-skin-cleansers,See all available refinements
+3779241,Beauty & Personal Care/Shave & Hair Removal/Men's/Waxing/Spatulas,item_type_keyword:hair-waxing-spatulas,See all available refinements
+3779271,Beauty & Personal Care/Shave & Hair Removal/Men's/Waxing/Strips,item_type_keyword:hair-waxing-strips,See all available refinements
+3779251,Beauty & Personal Care/Shave & Hair Removal/Men's/Waxing/Wax,item_type_keyword:hair-removal-wax,See all available refinements
+7676403011,Beauty & Personal Care/Shave & Hair Removal/Men's/Waxing/Wax/Pot Wax,item_type_keyword:hair-removal-pot-waxes,See all available refinements
+7676405011,Beauty & Personal Care/Shave & Hair Removal/Men's/Waxing/Wax/Ready to Use Strips,item_type_keyword:hair-removal-ready-to-use-wax-strips,See all available refinements
+7676404011,Beauty & Personal Care/Shave & Hair Removal/Men's/Waxing/Wax/Roll On Wax,item_type_keyword:hair-removal-roll-on-waxes,See all available refinements
+16261985011,Beauty & Personal Care/Shave & Hair Removal/Men's/Waxing/Wax Warmers & Accessories,,See all available refinements
+7676407011,Beauty & Personal Care/Shave & Hair Removal/Men's/Waxing/Wax Warmers & Accessories/Collars,item_type_keyword:hair-removal-wax-warmer-collars,See all available refinements
+7676408011,Beauty & Personal Care/Shave & Hair Removal/Men's/Waxing/Wax Warmers & Accessories/Replacement Parts,item_type_keyword:hair-removal-wax-warmer-replacement-parts,See all available refinements
+3779261,Beauty & Personal Care/Shave & Hair Removal/Men's/Waxing/Wax Warmers & Accessories/Warmers,item_type_keyword:hair-wax-warmers,See all available refinements
+3779281,Beauty & Personal Care/Shave & Hair Removal/Men's/Waxing/Waxing Kits,item_type_keyword:hair-waxing-kits,See all available refinements
+13269990011,Beauty & Personal Care/Shave & Hair Removal/Women's,item_type_keyword:womens-shaving-and-hair-removal-products,See all available refinements
+3779061,Beauty & Personal Care/Shave & Hair Removal/Women's/Bleaching,item_type_keyword:body-hair-bleaching-products,See all available refinements
+3779081,Beauty & Personal Care/Shave & Hair Removal/Women's/Depilatories,item_type_keyword:depilatories,See all available refinements
+13295180011,Beauty & Personal Care/Shave & Hair Removal/Women's/Electric Shavers,item_type_keyword:womens-electric-shavers,See all available refinements
+13295186011,Beauty & Personal Care/Shave & Hair Removal/Women's/Electric Shavers/Accessories,item_type_keyword:womens-electric-shaver-accessories,See all available refinements
+13295182011,Beauty & Personal Care/Shave & Hair Removal/Women's/Electric Shavers/Foil Shavers,item_type_keyword:womens-foil-shavers,See all available refinements
+13295184011,Beauty & Personal Care/Shave & Hair Removal/Women's/Electric Shavers/Replacement Heads,item_type_keyword:womens-electric-shaver-replacement-heads,See all available refinements
+13269998011,"Beauty & Personal Care/Shave & Hair Removal/Women's/Epilators, Groomers & Trimmers",,See all available refinements
+13270000011,"Beauty & Personal Care/Shave & Hair Removal/Women's/Epilators, Groomers & Trimmers/Bikini Trimmers",item_type_keyword:womens-bikini-trimmers,See all available refinements
+234944011,"Beauty & Personal Care/Shave & Hair Removal/Women's/Epilators, Groomers & Trimmers/Epilators",item_type_keyword:epilators,See all available refinements
+3779171,"Beauty & Personal Care/Shave & Hair Removal/Women's/Epilators, Groomers & Trimmers/Personal Groomers",item_type_keyword:personal-groomers,See all available refinements
+13406780011,"Beauty & Personal Care/Shave & Hair Removal/Women's/Laser, Light & Electrolysis Hair Removal",,See all available refinements
+3779151,"Beauty & Personal Care/Shave & Hair Removal/Women's/Laser, Light & Electrolysis Hair Removal/Electrolysis",,See all available refinements
+7676494011,"Beauty & Personal Care/Shave & Hair Removal/Women's/Laser, Light & Electrolysis Hair Removal/Electrolysis/Machines",item_type_keyword:electrolysis-machines,See all available refinements
+7676495011,"Beauty & Personal Care/Shave & Hair Removal/Women's/Laser, Light & Electrolysis Hair Removal/Electrolysis/Pens",item_type_keyword:electrolysis-pens,See all available refinements
+7676394011,"Beauty & Personal Care/Shave & Hair Removal/Women's/Laser, Light & Electrolysis Hair Removal/Laser Hair Removal",item_type_keyword:laser-hair-removal-devices,See all available refinements
+7676395011,"Beauty & Personal Care/Shave & Hair Removal/Women's/Laser, Light & Electrolysis Hair Removal/Light Hair Removal",item_type_keyword:light-hair-removal-devices,See all available refinements
+13269991011,Beauty & Personal Care/Shave & Hair Removal/Women's/Razors & Blades,,See all available refinements
+23595315011,Beauty & Personal Care/Shave & Hair Removal/Women's/Razors & Blades/Cartridge Razors,item_type_keyword:womens-cartridge-razors,See all available refinements
+23595314011,Beauty & Personal Care/Shave & Hair Removal/Women's/Razors & Blades/Cartridges & Refills,item_type_keyword:womens-replacement-razor-blade-cartridges-and-refills,See all available refinements
+13269997011,Beauty & Personal Care/Shave & Hair Removal/Women's/Razors & Blades/Disposable Razors,item_type_keyword:womens-disposable-shaving-razors,See all available refinements
+13295188011,Beauty & Personal Care/Shave & Hair Removal/Women's/Razors & Blades/Razors with Soap Bars,item_type_keyword:womens-razors-with-soap-bars,See all available refinements
+13270009011,Beauty & Personal Care/Shave & Hair Removal/Women's/Shaving & Grooming Sets,item_type_keyword:womens-shaving-and-grooming-sets,See all available refinements
+13270001011,"Beauty & Personal Care/Shave & Hair Removal/Women's/Shaving Creams, Lotions & Gels",,See all available refinements
+13270003011,"Beauty & Personal Care/Shave & Hair Removal/Women's/Shaving Creams, Lotions & Gels/Shaving Creams",item_type_keyword:womens-shaving-creams,See all available refinements
+13270007011,"Beauty & Personal Care/Shave & Hair Removal/Women's/Shaving Creams, Lotions & Gels/Shaving Gels",item_type_keyword:womens-shaving-gels,See all available refinements
+13270005011,"Beauty & Personal Care/Shave & Hair Removal/Women's/Shaving Creams, Lotions & Gels/Shaving Lotions",item_type_keyword:womens-shaving-lotions,See all available refinements
+3779181,Beauty & Personal Care/Shave & Hair Removal/Women's/Tweezers,item_type_keyword:tweezers,See all available refinements
+3779191,Beauty & Personal Care/Shave & Hair Removal/Women's/Waxing,item_type_keyword:hair-removal-waxing-products,See all available refinements
+7676396011,Beauty & Personal Care/Shave & Hair Removal/Women's/Waxing/Anesthetics,item_type_keyword:hair-waxing-anesthetics,See all available refinements
+7676397011,Beauty & Personal Care/Shave & Hair Removal/Women's/Waxing/Cooling & Soothing Treatments,item_type_keyword:waxing-cooling-and-soothing-treatments,See all available refinements
+7676398011,Beauty & Personal Care/Shave & Hair Removal/Women's/Waxing/Disposable Underwear,item_type_keyword:hair-waxing-disposable-underwear,See all available refinements
+3779221,Beauty & Personal Care/Shave & Hair Removal/Women's/Waxing/Powders,item_type_keyword:hair-waxing-powders,See all available refinements
+7676570011,Beauty & Personal Care/Shave & Hair Removal/Women's/Waxing/Removal Oils,item_type_keyword:hair-wax-removal-oils,See all available refinements
+3779231,Beauty & Personal Care/Shave & Hair Removal/Women's/Waxing/Skin Cleansers,item_type_keyword:hair-waxing-skin-cleansers,See all available refinements
+3779241,Beauty & Personal Care/Shave & Hair Removal/Women's/Waxing/Spatulas,item_type_keyword:hair-waxing-spatulas,See all available refinements
+3779271,Beauty & Personal Care/Shave & Hair Removal/Women's/Waxing/Strips,item_type_keyword:hair-waxing-strips,See all available refinements
+3779251,Beauty & Personal Care/Shave & Hair Removal/Women's/Waxing/Wax,item_type_keyword:hair-removal-wax,See all available refinements
+7676403011,Beauty & Personal Care/Shave & Hair Removal/Women's/Waxing/Wax/Pot Wax,item_type_keyword:hair-removal-pot-waxes,See all available refinements
+7676405011,Beauty & Personal Care/Shave & Hair Removal/Women's/Waxing/Wax/Ready to Use Strips,item_type_keyword:hair-removal-ready-to-use-wax-strips,See all available refinements
+7676404011,Beauty & Personal Care/Shave & Hair Removal/Women's/Waxing/Wax/Roll On Wax,item_type_keyword:hair-removal-roll-on-waxes,See all available refinements
+16261985011,Beauty & Personal Care/Shave & Hair Removal/Women's/Waxing/Wax Warmers & Accessories,,See all available refinements
+7676407011,Beauty & Personal Care/Shave & Hair Removal/Women's/Waxing/Wax Warmers & Accessories/Collars,item_type_keyword:hair-removal-wax-warmer-collars,See all available refinements
+7676408011,Beauty & Personal Care/Shave & Hair Removal/Women's/Waxing/Wax Warmers & Accessories/Replacement Parts,item_type_keyword:hair-removal-wax-warmer-replacement-parts,See all available refinements
+3779261,Beauty & Personal Care/Shave & Hair Removal/Women's/Waxing/Wax Warmers & Accessories/Warmers,item_type_keyword:hair-wax-warmers,See all available refinements
+3779281,Beauty & Personal Care/Shave & Hair Removal/Women's/Waxing/Waxing Kits,item_type_keyword:hair-waxing-kits,See all available refinements
+11060451,Beauty & Personal Care/Skin Care,item_type_keyword:skin-care-products,See all available refinements
+11060521,Beauty & Personal Care/Skin Care/Body,,See all available refinements
+11056441,Beauty & Personal Care/Skin Care/Body/Body Mud,item_type_keyword:body-muds,See all available refinements
+11056471,Beauty & Personal Care/Skin Care/Body/Body Scrubs,item_type_keyword:body-scrubs,See all available refinements
+17523133011,Beauty & Personal Care/Skin Care/Body/Breast Enhancement Creams,item_type_keyword:breast-enhancement-creams,See all available refinements
+11056281,Beauty & Personal Care/Skin Care/Body/Cleansers,item_type_keyword:body-cleansers,See all available refinements
+11056291,Beauty & Personal Care/Skin Care/Body/Cleansers/Body Washes,item_type_keyword:bath-and-shower-gels,See all available refinements
+11062271,Beauty & Personal Care/Skin Care/Body/Cleansers/Hand Wash,item_type_keyword:hand-washes,See all available refinements
+11056341,Beauty & Personal Care/Skin Care/Body/Cleansers/Soaps,item_type_keyword:bath-soaps,See all available refinements
+11060661,Beauty & Personal Care/Skin Care/Body/Moisturizers,item_type_keyword:body-moisturizers,See all available refinements
+11060671,Beauty & Personal Care/Skin Care/Body/Moisturizers/Body Butters,item_type_keyword:body-butters,See all available refinements
+11060681,Beauty & Personal Care/Skin Care/Body/Moisturizers/Creams,item_type_keyword:body-gels-and-creams,See all available refinements
+14024031,Beauty & Personal Care/Skin Care/Body/Moisturizers/Lotions,item_type_keyword:body-lotions,See all available refinements
+11056481,Beauty & Personal Care/Skin Care/Body/Moisturizers/Mousses,( item_type_keyword:body-mousses ),See all available refinements
+11060691,Beauty & Personal Care/Skin Care/Body/Moisturizers/Oils,item_type_keyword:body-oils,See all available refinements
+11056581,Beauty & Personal Care/Skin Care/Body/Sets & Kits,( item_type_keyword:bath-and-shower-product-sets OR item_type_keyword:toiletry-product-sets ),See all available refinements
+11061941,Beauty & Personal Care/Skin Care/Eyes,item_type_keyword:eye-treatment-products,See all available refinements
+7730087011,Beauty & Personal Care/Skin Care/Eyes/Balms,item_type_keyword:eye-treatment-balms,See all available refinements
+7730090011,Beauty & Personal Care/Skin Care/Eyes/Creams,item_type_keyword:eye-treatment-creams,See all available refinements
+7730092011,Beauty & Personal Care/Skin Care/Eyes/Gels,item_type_keyword:eye-treatment-gels,See all available refinements
+11061971,Beauty & Personal Care/Skin Care/Eyes/Masks,item_type_keyword:eye-masks,See all available refinements
+7730098011,Beauty & Personal Care/Skin Care/Eyes/Serums,item_type_keyword:eye-treatment-serums,See all available refinements
+7730099011,Beauty & Personal Care/Skin Care/Eyes/Wrinkle Pads & Patches,item_type_keyword:eye-wrinkle-pads-and-patches,See all available refinements
+11060711,Beauty & Personal Care/Skin Care/Face,item_type_keyword:facial-care-products,See all available refinements
+11060901,Beauty & Personal Care/Skin Care/Face/Cleansers,item_type_keyword:facial-cleansing-products,See all available refinements
+7730188011,Beauty & Personal Care/Skin Care/Face/Cleansers/Balms,item_type_keyword:facial-cleansing-balms,See all available refinements
+7730189011,Beauty & Personal Care/Skin Care/Face/Cleansers/Bars,item_type_keyword:facial-cleansing-bars,See all available refinements
+11060941,Beauty & Personal Care/Skin Care/Face/Cleansers/Cloths & Towelettes,item_type_keyword:facial-cleansing-cloths-and-towelettes,See all available refinements
+11060951,Beauty & Personal Care/Skin Care/Face/Cleansers/Creams,item_type_keyword:facial-cleansing-creams,See all available refinements
+11061001,Beauty & Personal Care/Skin Care/Face/Cleansers/Gels,item_type_keyword:facial-cleansing-gels,See all available refinements
+11061471,Beauty & Personal Care/Skin Care/Face/Cleansers/Pads,item_type_keyword:facial-cleansing-pads,See all available refinements
+7730193011,Beauty & Personal Care/Skin Care/Face/Cleansers/Washes,item_type_keyword:facial-cleansing-washes,See all available refinements
+11061301,Beauty & Personal Care/Skin Care/Face/Creams & Moisturizers,item_type_keyword:facial-creams-and-moisturizers,See all available refinements
+7792268011,Beauty & Personal Care/Skin Care/Face/Creams & Moisturizers/BB Creams,item_type_keyword:bb-facial-creams,See all available refinements
+7792269011,Beauty & Personal Care/Skin Care/Face/Creams & Moisturizers/CC Creams,item_type_keyword:cc-facial-creams,See all available refinements
+7792270011,Beauty & Personal Care/Skin Care/Face/Creams & Moisturizers/DD Creams,item_type_keyword:dd-facial-creams,See all available refinements
+15239989011,Beauty & Personal Care/Skin Care/Face/Creams & Moisturizers/Face Mists,item_type_keyword:face-mists,See all available refinements
+16479981011,Beauty & Personal Care/Skin Care/Face/Creams & Moisturizers/Face Moisturizers,item_type_keyword:facial-moisturizers,See all available refinements
+7792527011,Beauty & Personal Care/Skin Care/Face/Creams & Moisturizers/Face Oil,item_type_keyword:facial-oils,See all available refinements
+7792277011,Beauty & Personal Care/Skin Care/Face/Creams & Moisturizers/Neck & Décolleté,item_type_keyword:neck-and-decollete-moisturizers,See all available refinements
+7792275011,Beauty & Personal Care/Skin Care/Face/Creams & Moisturizers/Night Creams,item_type_keyword:facial-night-creams,See all available refinements
+7792276011,Beauty & Personal Care/Skin Care/Face/Creams & Moisturizers/Tinted Moisturizers,item_type_keyword:tinted-facial-moisturizers,See all available refinements
+11061091,Beauty & Personal Care/Skin Care/Face/Polishes & Scrubs,,See all available refinements
+11061151,Beauty & Personal Care/Skin Care/Face/Polishes & Scrubs/Polishes,item_type_keyword:facial-polishes,See all available refinements
+11061161,Beauty & Personal Care/Skin Care/Face/Polishes & Scrubs/Scrubs,item_type_keyword:facial-scrubs,See all available refinements
+7792636011,Beauty & Personal Care/Skin Care/Face/Sets & Kits,item_type_keyword:facial-skin-care-sets-and-kits,See all available refinements
+11061931,Beauty & Personal Care/Skin Care/Face/Toners & Astringents,item_type_keyword:facial-toners-and-astringents,See all available refinements
+11062031,Beauty & Personal Care/Skin Care/Face/Treatments & Masks,item_type_keyword:facial-treatments-and-masks,See all available refinements
+7792926011,Beauty & Personal Care/Skin Care/Face/Treatments & Masks/Facial Peels,item_type_keyword:facial-acids-and-peels,See all available refinements
+11061121,Beauty & Personal Care/Skin Care/Face/Treatments & Masks/Masks,item_type_keyword:facial-treatment-masks,See all available refinements
+7792934011,Beauty & Personal Care/Skin Care/Face/Treatments & Masks/Microdermabrasion,item_type_keyword:facial-microdermabrasion-products,See all available refinements
+7792936011,Beauty & Personal Care/Skin Care/Face/Treatments & Masks/Pore Cleansing Strips,item_type_keyword:pore-cleansing-strips,See all available refinements
+7792528011,Beauty & Personal Care/Skin Care/Face/Treatments & Masks/Serums,item_type_keyword:facial-serums,See all available refinements
+7792937011,Beauty & Personal Care/Skin Care/Face/Treatments & Masks/Wrinkle Patches,item_type_keyword:facial-wrinkle-patches,See all available refinements
+3761351,Beauty & Personal Care/Skin Care/Lip Care,item_type_keyword:lip-care-products,See all available refinements
+979546011,Beauty & Personal Care/Skin Care/Lip Care/Balms & Moisturizers,item_type_keyword:lip-balms-and-moisturizers,See all available refinements
+18065339011,Beauty & Personal Care/Skin Care/Lip Care/Lip Butters,item_type_keyword:lip-butters,See all available refinements
+21212387011,Beauty & Personal Care/Skin Care/Lip Care/Lip Plumpers,item_type_keyword:lip-plumping-treatments,See all available refinements
+7793061011,Beauty & Personal Care/Skin Care/Lip Care/Night Treatments,item_type_keyword:lip-night-treatments,See all available refinements
+7793062011,Beauty & Personal Care/Skin Care/Lip Care/Ointments,item_type_keyword:lip-ointments,See all available refinements
+979548011,Beauty & Personal Care/Skin Care/Lip Care/Scrubs,item_type_keyword:lip-scrubs,See all available refinements
+11062371,Beauty & Personal Care/Skin Care/Maternity,item_type_keyword:maternity-skin-care-products,See all available refinements
+11062581,Beauty & Personal Care/Skin Care/Sets & Kits,item_type_keyword:skin-care-sets-and-kits,See all available refinements
+11062591,Beauty & Personal Care/Skin Care/Sunscreens & Tanning Products,item_type_keyword:sunscreens-and-tanning-products,See all available refinements
+11062601,Beauty & Personal Care/Skin Care/Sunscreens & Tanning Products/After Sun,item_type_keyword:after-sun-skin-care-moisturizers,See all available refinements
+11062641,Beauty & Personal Care/Skin Care/Sunscreens & Tanning Products/Self-Tanners,item_type_keyword:self-tanning-products,See all available refinements
+21388129011,Beauty & Personal Care/Skin Care/Sunscreens & Tanning Products/Self-Tanners/Body Self-Tanners,item_type_keyword:body-self-tanners,See all available refinements
+7792568011,Beauty & Personal Care/Skin Care/Sunscreens & Tanning Products/Self-Tanners/Facial Self Tanners,item_type_keyword:facial-self-tanners,See all available refinements
+11062651,Beauty & Personal Care/Skin Care/Sunscreens & Tanning Products/Sunscreens,item_type_keyword:sunscreens,See all available refinements
+15239990011,Beauty & Personal Care/Skin Care/Sunscreens & Tanning Products/Sunscreens/Body Sunscreens,( item_type_keyword:body-sunscreens ),See all available refinements
+166860011,Beauty & Personal Care/Skin Care/Sunscreens & Tanning Products/Sunscreens/Children's Sunscreen,item_type_keyword:childrens-sunscreens,See all available refinements
+7792567011,Beauty & Personal Care/Skin Care/Sunscreens & Tanning Products/Sunscreens/Facial Sunscreens,item_type_keyword:facial-sunscreens,See all available refinements
+11062691,Beauty & Personal Care/Skin Care/Sunscreens & Tanning Products/Sunscreens/Lip Sunscreens,item_type_keyword:lip-protection-sunscreen,See all available refinements
+11062731,Beauty & Personal Care/Skin Care/Sunscreens & Tanning Products/Tanning Oils & Lotions,item_type_keyword:tanning-oils-and-lotions,See all available refinements
+11062741,Beauty & Personal Care/Tools & Accessories,,See all available refinements
+11062751,Beauty & Personal Care/Tools & Accessories/Bags & Cases,,See all available refinements
+11062771,Beauty & Personal Care/Tools & Accessories/Bags & Cases/Cosmetic Bags,item_type_keyword:cosmetic-bags,See all available refinements
+13861693011,Beauty & Personal Care/Tools & Accessories/Bags & Cases/Cosmetic Display Cases,item_type_keyword:cosmetic-display-cases,See all available refinements
+387321011,Beauty & Personal Care/Tools & Accessories/Bags & Cases/Toiletry Bags,item_type_keyword:toiletry-bags,See all available refinements
+11158657011,Beauty & Personal Care/Tools & Accessories/Bags & Cases/Toiletry Kits,item_type_keyword:toiletry-product-sets,See all available refinements
+11062801,Beauty & Personal Care/Tools & Accessories/Bags & Cases/Train Cases,item_type_keyword:makeup-train-cases,See all available refinements
+11062811,Beauty & Personal Care/Tools & Accessories/Bags & Cases/Travel Cases,item_type_keyword:makeup-travel-cases-and-holders,See all available refinements
+11056491,Beauty & Personal Care/Tools & Accessories/Bathing Accessories,item_type_keyword:bathing-accessories,See all available refinements
+11056501,Beauty & Personal Care/Tools & Accessories/Bathing Accessories/Bath & Body Brushes,item_type_keyword:bath-brushes,See all available refinements
+11056521,Beauty & Personal Care/Tools & Accessories/Bathing Accessories/Bath Pillows,item_type_keyword:bath-pillows,See all available refinements
+11149327011,Beauty & Personal Care/Tools & Accessories/Bathing Accessories/Bath Sponges,item_type_keyword:bath-sponges,See all available refinements
+85966011,Beauty & Personal Care/Tools & Accessories/Bathing Accessories/Bathtub Trays,item_type_keyword:bathtub-valets,See all available refinements
+13861695011,Beauty & Personal Care/Tools & Accessories/Bathing Accessories/Cellulite Massagers,item_type_keyword:body-cellulite-massagers,See all available refinements
+13861697011,Beauty & Personal Care/Tools & Accessories/Bathing Accessories/Exfoliating Gloves,item_type_keyword:body-exfoliating-gloves,See all available refinements
+11149326011,Beauty & Personal Care/Tools & Accessories/Bathing Accessories/Loofahs,item_type_keyword:bath-loofahs,See all available refinements
+11056571,Beauty & Personal Care/Tools & Accessories/Bathing Accessories/Shower Caps,item_type_keyword:shower-caps,See all available refinements
+3731741,Beauty & Personal Care/Tools & Accessories/Bathing Accessories/Washcloths,item_type_keyword:washcloths,See all available refinements
+3784921,Beauty & Personal Care/Tools & Accessories/Cotton Balls & Swabs,,See all available refinements
+3784931,Beauty & Personal Care/Tools & Accessories/Cotton Balls & Swabs/Cotton Balls,item_type_keyword:cotton-balls,See all available refinements
+13861699011,Beauty & Personal Care/Tools & Accessories/Cotton Balls & Swabs/Cotton Pads & Rounds,item_type_keyword:cotton-pads-and-rounds,See all available refinements
+3784941,Beauty & Personal Care/Tools & Accessories/Cotton Balls & Swabs/Cotton Swabs,item_type_keyword:cotton-swabs,See all available refinements
+11059391,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools,item_type_keyword:makeup-brushes-and-tools,See all available refinements
+11059461,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Brush Cleaners,item_type_keyword:makeup-brush-cleaners,See all available refinements
+11059451,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Brush Sets,item_type_keyword:makeup-brush-sets,See all available refinements
+16228310011,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Eye,,See all available refinements
+13861671011,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Eye/Brow Brushes,item_type_keyword:brow-brushes,See all available refinements
+11059481,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Eye/Eyelash Curlers,item_type_keyword:eyelash-curlers,See all available refinements
+16228318011,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Eye/Eyeliner Brushes,item_type_keyword:eyeliner-brushes,See all available refinements
+11059421,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Eye/Eyeshadow Brushes,item_type_keyword:eyeshadow-brushes,See all available refinements
+11059491,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Eye/False Eyelashes & Adhesives,item_type_keyword:fake-eyelashes-and-adhesives,See all available refinements
+16228320011,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Eye/False Eyelashes & Adhesives/Eyelash Adhesives,item_type_keyword:false-eyelash-adhesives,See all available refinements
+16228319011,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Eye/False Eyelashes & Adhesives/False Lashes,item_type_keyword:false-eyelashes,See all available refinements
+16228321011,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Eye/False Eyelashes & Adhesives/Kits,item_type_keyword:false-eyelash-kits,See all available refinements
+13861670011,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Eye/Mascara Brushes,item_type_keyword:mascara-brushes,See all available refinements
+16228309011,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Face,,See all available refinements
+11059501,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Face/Blenders & Sponges,item_type_keyword:makeup-blenders-and-sponges,See all available refinements
+11058701,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Face/Blotting Paper,item_type_keyword:makeup-blotting-papers,See all available refinements
+11059431,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Face/Face Brushes,item_type_keyword:face-brushes,See all available refinements
+16228311011,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Face/Face Brushes/Blush Brushes,item_type_keyword:face-blush-brushes,See all available refinements
+16228312011,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Face/Face Brushes/Concealer Brushes,item_type_keyword:face-concealer-brushes,See all available refinements
+16228313011,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Face/Face Brushes/Contour Brushes,item_type_keyword:face-contour-brushes,See all available refinements
+16228314011,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Face/Face Brushes/Fan Brushes,item_type_keyword:face-fan-brushes,See all available refinements
+16228315011,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Face/Face Brushes/Foundation Brushes,item_type_keyword:face-foundation-brushes,See all available refinements
+16228316011,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Face/Face Brushes/Kabuki Brushes,item_type_keyword:face-kabuki-brushes,See all available refinements
+16228317011,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Face/Powder Puffs,item_type_keyword:face-powder-puffs,See all available refinements
+11059441,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Lip Brushes,item_type_keyword:lip-brushes,See all available refinements
+13861673011,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Makeup Airbrushes,item_type_keyword:makeup-airbrushes,See all available refinements
+11059521,Beauty & Personal Care/Tools & Accessories/Makeup Brushes & Tools/Sharpeners,item_type_keyword:makeup-sharpeners,See all available refinements
+11063411,Beauty & Personal Care/Tools & Accessories/Mirrors,item_type_keyword:personal-mirrors,See all available refinements
+17738944011,Beauty & Personal Care/Tools & Accessories/Mirrors/Compact & Travel Mirrors,item_type_keyword:personal-compact-and-travel-mirrors,See all available refinements
+3736391,Beauty & Personal Care/Tools & Accessories/Mirrors/Handheld Mirrors,item_type_keyword:handheld-mirrors,See all available refinements
+3785121,Beauty & Personal Care/Tools & Accessories/Mirrors/Makeup Mirrors,item_type_keyword:personal-makeup-mirrors,See all available refinements
+3785131,Beauty & Personal Care/Tools & Accessories/Mirrors/Shower Mirrors,item_type_keyword:shower-mirrors,See all available refinements
+11062781,Beauty & Personal Care/Tools & Accessories/Refillable Containers,item_type_keyword:refillable-cosmetic-containers,See all available refinements
+23627241011,Beauty & Personal Care/Tools & Accessories/Refillable Containers/Droppers,item_type_keyword:refillable-cosmetic-droppers,See all available refinements
+23627245011,Beauty & Personal Care/Tools & Accessories/Refillable Containers/Jars,item_type_keyword:refillable-cosmetic-jars,See all available refinements
+23627243011,Beauty & Personal Care/Tools & Accessories/Refillable Containers/Kits,item_type_keyword:refillable-cosmetic-kits,See all available refinements
+23627242011,Beauty & Personal Care/Tools & Accessories/Refillable Containers/Pump Dispensers,item_type_keyword:refillable-cosmetic-pump-dispensers,See all available refinements
+23627240011,Beauty & Personal Care/Tools & Accessories/Refillable Containers/Roller Bottles,item_type_keyword:refillable-cosmetic-roller-bottles,See all available refinements
+23627244011,Beauty & Personal Care/Tools & Accessories/Refillable Containers/Spray Bottles,item_type_keyword:refillable-cosmetic-spray-bottles,See all available refinements
+23627246011,Beauty & Personal Care/Tools & Accessories/Refillable Containers/Squeeze Bottles,item_type_keyword:refillable-cosmetic-squeeze-bottles,See all available refinements
+3778591,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal,item_type_keyword:hair-removal-and-shaving-products,See all available refinements
+13271079011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's,item_type_keyword:mens-shaving-and-hair-removal-products,See all available refinements
+13271113011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/After Shaves,item_type_keyword:aftershave,See all available refinements
+23673202011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/After Shaves/Balms,item_type_keyword:after-shave-balm,See all available refinements
+23673203011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/After Shaves/Gels,item_type_keyword:after-shave-gels,See all available refinements
+23673204011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/After Shaves/Lotions,item_type_keyword:after-shave-lotions,See all available refinements
+13271118011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Beard & Mustache Care,item_type_keyword:mens-beard-and-mustache-care,See all available refinements
+7655032011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Beard & Mustache Care/Beard & Mustache Combs,item_type_keyword:beard-and-mustache-combs,See all available refinements
+234951011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Beard & Mustache Care/Beard & Mustache Trimmers,item_type_keyword:beard-trimmers,See all available refinements
+7655120011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Beard & Mustache Care/Beard Conditioners & Oils,,See all available refinements
+7655121011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Beard & Mustache Care/Beard Conditioners & Oils/Beard Conditioners,item_type_keyword:beard-conditioners,See all available refinements
+7655122011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Beard & Mustache Care/Beard Conditioners & Oils/Beard Oils,item_type_keyword:beard-oils,See all available refinements
+13271120011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Beard & Mustache Care/Mustache Scissors,item_type_keyword:mustache-scissors,See all available refinements
+7655599011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Beard & Mustache Care/Mustache Waxes,item_type_keyword:mustache-waxes,See all available refinements
+7697066011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Body Groomers,item_type_keyword:body-hair-groomers,See all available refinements
+3779081,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Depilatories,item_type_keyword:depilatories,See all available refinements
+13271092011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Electric Shavers,item_type_keyword:mens-electric-shavers,See all available refinements
+13271100011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Electric Shavers/Accessories,item_type_keyword:mens-electric-shaver-accessories,See all available refinements
+13271102011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Electric Shavers/Cleaners,item_type_keyword:mens-electric-shaver-cleaners,See all available refinements
+13271094011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Electric Shavers/Foil Shavers,item_type_keyword:mens-foil-shavers,See all available refinements
+13271098011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Electric Shavers/Replacement Heads,item_type_keyword:mens-electric-shaver-replacement-heads,See all available refinements
+13271096011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Electric Shavers/Rotary Shavers,item_type_keyword:mens-rotary-shavers,See all available refinements
+7706129011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Eyebrow Trimmers,item_type_keyword:eyebrow-hair-trimmers,See all available refinements
+234950011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Nose & Ear Hair Trimmers,item_type_keyword:nose-and-ear-hair-trimmers,See all available refinements
+13271080011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Razors & Blades,,See all available refinements
+23595313011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Razors & Blades/Cartridge Razors,item_type_keyword:mens-cartridge-razors,See all available refinements
+13271084011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Razors & Blades/Cartridges & Refills,item_type_keyword:mens-replacement-razor-blade-cartridges-and-refills,See all available refinements
+13271086011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Razors & Blades/Disposable Razors,item_type_keyword:mens-disposable-shaving-razors,See all available refinements
+13271088011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Razors & Blades/Safety Razors,item_type_keyword:mens-safety-shaving-razors,See all available refinements
+13271090011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Razors & Blades/Straight Razors,item_type_keyword:mens-straight-shaving-razors,See all available refinements
+13271122011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Shaving & Grooming Sets,item_type_keyword:mens-shaving-and-grooming-sets,See all available refinements
+13271115011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Shaving Accessories,item_type_keyword:mens-shaving-accessories,See all available refinements
+7654694011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Shaving Accessories/Alum,item_type_keyword:shaving-alum,See all available refinements
+7655038011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Shaving Accessories/Hot Lather Machines,item_type_keyword:hot-lather-machines,See all available refinements
+7655033011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Shaving Accessories/Razor & Brush Stands,item_type_keyword:razor-and-brush-stands,See all available refinements
+7655034011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Shaving Accessories/Razor Strops,item_type_keyword:hair-removal-razor-strops,See all available refinements
+7655037011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Shaving Accessories/Shaving Brushes,item_type_keyword:shaving-brushes,See all available refinements
+7655036011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Shaving Accessories/Shaving Soap Bowls,item_type_keyword:shaving-soap-bowls,See all available refinements
+7654695011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Shaving Accessories/Styptic,item_type_keyword:shaving-styptic,See all available refinements
+13271103011,"Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Shaving Creams, Lotions & Gels",,See all available refinements
+13271105011,"Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Shaving Creams, Lotions & Gels/Shaving Creams",item_type_keyword:mens-shaving-creams,See all available refinements
+13271109011,"Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Shaving Creams, Lotions & Gels/Shaving Gels",item_type_keyword:mens-shaving-gels,See all available refinements
+13271107011,"Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Shaving Creams, Lotions & Gels/Shaving Lotions",item_type_keyword:mens-shaving-lotions,See all available refinements
+13271111011,"Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Shaving Creams, Lotions & Gels/Shaving Soaps",item_type_keyword:mens-shaving-soaps,See all available refinements
+3779181,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Tweezers,item_type_keyword:tweezers,See all available refinements
+3779191,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Waxing,item_type_keyword:hair-removal-waxing-products,See all available refinements
+7676396011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Waxing/Anesthetics,item_type_keyword:hair-waxing-anesthetics,See all available refinements
+7676397011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Waxing/Cooling & Soothing Treatments,item_type_keyword:waxing-cooling-and-soothing-treatments,See all available refinements
+7676398011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Waxing/Disposable Underwear,item_type_keyword:hair-waxing-disposable-underwear,See all available refinements
+3779221,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Waxing/Powders,item_type_keyword:hair-waxing-powders,See all available refinements
+7676570011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Waxing/Removal Oils,item_type_keyword:hair-wax-removal-oils,See all available refinements
+3779231,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Waxing/Skin Cleansers,item_type_keyword:hair-waxing-skin-cleansers,See all available refinements
+3779241,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Waxing/Spatulas,item_type_keyword:hair-waxing-spatulas,See all available refinements
+3779271,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Waxing/Strips,item_type_keyword:hair-waxing-strips,See all available refinements
+3779251,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Waxing/Wax,item_type_keyword:hair-removal-wax,See all available refinements
+7676403011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Waxing/Wax/Pot Wax,item_type_keyword:hair-removal-pot-waxes,See all available refinements
+7676405011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Waxing/Wax/Ready to Use Strips,item_type_keyword:hair-removal-ready-to-use-wax-strips,See all available refinements
+7676404011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Waxing/Wax/Roll On Wax,item_type_keyword:hair-removal-roll-on-waxes,See all available refinements
+16261985011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Waxing/Wax Warmers & Accessories,,See all available refinements
+7676407011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Waxing/Wax Warmers & Accessories/Collars,item_type_keyword:hair-removal-wax-warmer-collars,See all available refinements
+7676408011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Waxing/Wax Warmers & Accessories/Replacement Parts,item_type_keyword:hair-removal-wax-warmer-replacement-parts,See all available refinements
+3779261,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Waxing/Wax Warmers & Accessories/Warmers,item_type_keyword:hair-wax-warmers,See all available refinements
+3779281,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Men's/Waxing/Waxing Kits,item_type_keyword:hair-waxing-kits,See all available refinements
+13269990011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's,item_type_keyword:womens-shaving-and-hair-removal-products,See all available refinements
+3779061,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Bleaching,item_type_keyword:body-hair-bleaching-products,See all available refinements
+3779081,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Depilatories,item_type_keyword:depilatories,See all available refinements
+13295180011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Electric Shavers,item_type_keyword:womens-electric-shavers,See all available refinements
+13295186011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Electric Shavers/Accessories,item_type_keyword:womens-electric-shaver-accessories,See all available refinements
+13295182011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Electric Shavers/Foil Shavers,item_type_keyword:womens-foil-shavers,See all available refinements
+13295184011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Electric Shavers/Replacement Heads,item_type_keyword:womens-electric-shaver-replacement-heads,See all available refinements
+13269998011,"Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Epilators, Groomers & Trimmers",,See all available refinements
+13270000011,"Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Epilators, Groomers & Trimmers/Bikini Trimmers",item_type_keyword:womens-bikini-trimmers,See all available refinements
+234944011,"Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Epilators, Groomers & Trimmers/Epilators",item_type_keyword:epilators,See all available refinements
+3779171,"Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Epilators, Groomers & Trimmers/Personal Groomers",item_type_keyword:personal-groomers,See all available refinements
+13406780011,"Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Laser, Light & Electrolysis Hair Removal",,See all available refinements
+3779151,"Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Laser, Light & Electrolysis Hair Removal/Electrolysis",,See all available refinements
+7676494011,"Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Laser, Light & Electrolysis Hair Removal/Electrolysis/Machines",item_type_keyword:electrolysis-machines,See all available refinements
+7676495011,"Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Laser, Light & Electrolysis Hair Removal/Electrolysis/Pens",item_type_keyword:electrolysis-pens,See all available refinements
+7676394011,"Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Laser, Light & Electrolysis Hair Removal/Laser Hair Removal",item_type_keyword:laser-hair-removal-devices,See all available refinements
+7676395011,"Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Laser, Light & Electrolysis Hair Removal/Light Hair Removal",item_type_keyword:light-hair-removal-devices,See all available refinements
+13269991011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Razors & Blades,,See all available refinements
+23595315011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Razors & Blades/Cartridge Razors,item_type_keyword:womens-cartridge-razors,See all available refinements
+23595314011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Razors & Blades/Cartridges & Refills,item_type_keyword:womens-replacement-razor-blade-cartridges-and-refills,See all available refinements
+13269997011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Razors & Blades/Disposable Razors,item_type_keyword:womens-disposable-shaving-razors,See all available refinements
+13295188011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Razors & Blades/Razors with Soap Bars,item_type_keyword:womens-razors-with-soap-bars,See all available refinements
+13270009011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Shaving & Grooming Sets,item_type_keyword:womens-shaving-and-grooming-sets,See all available refinements
+13270001011,"Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Shaving Creams, Lotions & Gels",,See all available refinements
+13270003011,"Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Shaving Creams, Lotions & Gels/Shaving Creams",item_type_keyword:womens-shaving-creams,See all available refinements
+13270007011,"Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Shaving Creams, Lotions & Gels/Shaving Gels",item_type_keyword:womens-shaving-gels,See all available refinements
+13270005011,"Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Shaving Creams, Lotions & Gels/Shaving Lotions",item_type_keyword:womens-shaving-lotions,See all available refinements
+3779181,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Tweezers,item_type_keyword:tweezers,See all available refinements
+3779191,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Waxing,item_type_keyword:hair-removal-waxing-products,See all available refinements
+7676396011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Waxing/Anesthetics,item_type_keyword:hair-waxing-anesthetics,See all available refinements
+7676397011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Waxing/Cooling & Soothing Treatments,item_type_keyword:waxing-cooling-and-soothing-treatments,See all available refinements
+7676398011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Waxing/Disposable Underwear,item_type_keyword:hair-waxing-disposable-underwear,See all available refinements
+3779221,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Waxing/Powders,item_type_keyword:hair-waxing-powders,See all available refinements
+7676570011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Waxing/Removal Oils,item_type_keyword:hair-wax-removal-oils,See all available refinements
+3779231,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Waxing/Skin Cleansers,item_type_keyword:hair-waxing-skin-cleansers,See all available refinements
+3779241,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Waxing/Spatulas,item_type_keyword:hair-waxing-spatulas,See all available refinements
+3779271,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Waxing/Strips,item_type_keyword:hair-waxing-strips,See all available refinements
+3779251,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Waxing/Wax,item_type_keyword:hair-removal-wax,See all available refinements
+7676403011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Waxing/Wax/Pot Wax,item_type_keyword:hair-removal-pot-waxes,See all available refinements
+7676405011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Waxing/Wax/Ready to Use Strips,item_type_keyword:hair-removal-ready-to-use-wax-strips,See all available refinements
+7676404011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Waxing/Wax/Roll On Wax,item_type_keyword:hair-removal-roll-on-waxes,See all available refinements
+16261985011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Waxing/Wax Warmers & Accessories,,See all available refinements
+7676407011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Waxing/Wax Warmers & Accessories/Collars,item_type_keyword:hair-removal-wax-warmer-collars,See all available refinements
+7676408011,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Waxing/Wax Warmers & Accessories/Replacement Parts,item_type_keyword:hair-removal-wax-warmer-replacement-parts,See all available refinements
+3779261,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Waxing/Wax Warmers & Accessories/Warmers,item_type_keyword:hair-wax-warmers,See all available refinements
+3779281,Beauty & Personal Care/Tools & Accessories/Shave & Hair Removal/Women's/Waxing/Waxing Kits,item_type_keyword:hair-waxing-kits,See all available refinements
+13861652011,Beauty & Personal Care/Tools & Accessories/Skin Care Tools,item_type_keyword:skin-care-equipment-and-tools,See all available refinements
+7792492011,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Acne Treatment Devices,item_type_keyword:facial-acne-clearing-devices,See all available refinements
+7792493011,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Blackhead & Blemish Removers,item_type_keyword:facial-blemish-and-blackhead-remover-tools,See all available refinements
+3422321,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Eye Pillows,item_type_keyword:yoga-silk-eye-bags,See all available refinements
+7792510011,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Eyebrow Scissors,item_type_keyword:eyebrow-grooming-scissors,See all available refinements
+21481429011,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Face Belts,item_type_keyword:face-toning-belts,See all available refinements
+23430162011,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Face Cleansing Foaming Nets,item_type_keyword:cleanser-foaming-nets,See all available refinements
+13861660011,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Face Toning Devices,item_type_keyword:skin-toning-devices,See all available refinements
+18065340011,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Facial Cleansing Brushes,,See all available refinements
+7792497011,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Facial Cleansing Brushes/Manual Facial Cleansing Brushes,item_type_keyword:manual-facial-cleansing-brushes,See all available refinements
+15197040011,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Facial Cleansing Brushes/Powered Facial Cleansing Brushes & Devices,item_type_keyword:powered-facial-cleansing-brushes,See all available refinements
+7792500011,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Facial Cleansing Brushes/Replacement Cleansing Brush Heads,item_type_keyword:powered-facial-cleansing-brush-replacement-heads,See all available refinements
+7792933011,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Facial Exercisers,item_type_keyword:facial-exercisers,See all available refinements
+23430161011,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Facial Rollers,item_type_keyword:facial-rollers,See all available refinements
+3786861,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Facial Steamers,item_type_keyword:facial-steamers,See all available refinements
+21212386011,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Lip Plumping Devices,item_type_keyword:lip-plumping-devices,See all available refinements
+23430160011,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Masks,item_type_keyword:cooling-gel-eye-masks,See all available refinements
+13861656011,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Microdermabrasion Devices,item_type_keyword:microdermabrasion-devices,See all available refinements
+11063411,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Mirrors,item_type_keyword:personal-mirrors,See all available refinements
+17738944011,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Mirrors/Compact & Travel Mirrors,item_type_keyword:personal-compact-and-travel-mirrors,See all available refinements
+3736391,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Mirrors/Handheld Mirrors,item_type_keyword:handheld-mirrors,See all available refinements
+3785121,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Mirrors/Makeup Mirrors,item_type_keyword:personal-makeup-mirrors,See all available refinements
+3785131,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Mirrors/Shower Mirrors,item_type_keyword:shower-mirrors,See all available refinements
+23430163011,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Skin Moisture Analyzers,item_type_keyword:skin-moisture-analyzers,See all available refinements
+3779181,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Tweezers,item_type_keyword:tweezers,See all available refinements
+13861662011,Beauty & Personal Care/Tools & Accessories/Skin Care Tools/Wrinkle & Anti-Aging Devices,item_type_keyword:wrinkle-and-anti-aging-devices,See all available refinements
