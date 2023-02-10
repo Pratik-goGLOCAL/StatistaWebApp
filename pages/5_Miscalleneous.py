@@ -39,7 +39,7 @@ st.download_button(label='Download',
 
 with open("jp_morgan_data/"+files[2], "rb") as pdf_file:
     PDFbyte = pdf_file.read()
-st.write(files[0].split('.')[0])
+st.write(files[2].split('.')[0])
 st.download_button(label='Download',
                     data=PDFbyte,
                     file_name='DataStore'+files[2],
@@ -47,7 +47,7 @@ st.download_button(label='Download',
 
 with open("jp_morgan_data/"+files[3], "rb") as pdf_file:
     PDFbyte = pdf_file.read()
-st.write(files[0].split('.')[0])
+st.write(files[3].split('.')[0])
 st.download_button(label='Download',
                     data=PDFbyte,
                     file_name='DataStore'+files[3],
@@ -55,7 +55,7 @@ st.download_button(label='Download',
                 
 with open("jp_morgan_data/"+files[4], "rb") as pdf_file:
     PDFbyte = pdf_file.read()
-st.write(files[0].split('.')[0])
+st.write(files[4].split('.')[0])
 st.download_button(label='Download',
                     data=PDFbyte,
                     file_name='DataStore'+files[4],
@@ -63,7 +63,7 @@ st.download_button(label='Download',
 
 with open("jp_morgan_data/"+files[5], "rb") as pdf_file:
     PDFbyte = pdf_file.read()
-st.write(files[0].split('.')[0])
+st.write(files[5].split('.')[0])
 st.download_button(label='Download',
                     data=PDFbyte,
                     file_name='DataStore'+files[5],
