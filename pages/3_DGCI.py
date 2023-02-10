@@ -22,7 +22,9 @@ def convert_df(df):
     return df.to_csv().encode('utf-8')
 try:
     if st.session_state['get']:
-        st.write('The Data File corresponding to the HSN code {} belonging to the category {}'.format(st.session_state['hsn_code_1'].zfill(4),st.session_state['category_name_1']))
+        descp = pd.read_csv('mappings/hsn_descp.csv')
+        req_descp =  descp[descp['HSN']==st.session_state['hsn_code_1'].zfill(4)]['DESCP'].tolist()[0]
+        st.write('The Data File corresponding to the HSN code {} belonging to the category {}\nDisplays: {}'.format(st.session_state['hsn_code_1'].zfill(4),st.session_state['category_name_1'],req_descp))
         path = 'dgci_data/'+st.session_state['hsn_code_1'].zfill(4)+'.csv'
         df = pd.read_csv(path)
         df.fillna('NULL',inplace = True)
