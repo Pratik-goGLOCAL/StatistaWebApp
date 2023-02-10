@@ -28,7 +28,7 @@ try:
         st.write('Description: {}'.format(req_descp))
         path = 'dgci_data/'+st.session_state['hsn_code_1'].zfill(4)+'.csv'
         df = pd.read_csv(path)
-        df.fillna('NULL',inplace = True)
+        df.fillna('NA',inplace = True)
         st.dataframe(df)
         csv = convert_df(df)
         st.download_button(
