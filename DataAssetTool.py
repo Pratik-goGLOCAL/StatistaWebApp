@@ -20,6 +20,8 @@ st.title("Data Asset Tool")
 
 country_names = os.listdir('statista_data')
 hsn_codes_level1 = pd.read_csv('mappings/hsn_codes_level1.csv')
+# with open('mappings/hsn_code_level1.pickle', 'rb') as handle:
+#     hsn_codes_level1 = pickle.load(handle)
 
 with open('mappings/hsn_codes_level2.pickle', 'rb') as handle:
     hsn_codes_level2 = pickle.load(handle)
